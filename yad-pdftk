@@ -1,0 +1,211 @@
+#!/bin/bash
+#pdftk nautilus-script for gnome2 
+#edit by flow. mail: bandari.fans@163.com
+#dependencies
+#pdftk
+#move this file into ~/.gnome2/nautilus-scripts then `chmod 755 filename`
+
+case $@ in
+$NULL)
+yad --center --title="error" --info --width=260 --height=80 --text="usage:    
+
+gtk-pdftk [ FILENAME ] "
+exit
+;;
+*.pdf )
+;;
+*)
+yad --center --title="error" --info --width=260 --height=80 --text="you must specify a Adobe pdf file "
+exit
+;;
+esac
+
+
+case $LANG in
+en*)
+wancheng()
+{
+notify-send -i application-pdf "Operation Finished"
+}
+getback ()
+{
+yad --center --title="choose a background pdf file" --file-selection --file-filter=*.pdf
+}
+getoutput ()
+{
+yad --center --title="save as" --width=600 --height=600 --file-selection --save --file-filter=*.pdf --confirm-overwrite
+}
+getinput_mul()
+{
+yad --center --title="choose pdf files you wanna merge" --width=700 --file-selection --file-filter=*.pdf --multiple
+}
+inputpasswd()
+{
+yad --center --title="enter password" --text="please enter a passwd" --entry --hide-text
+}
+jiamiop()
+{
+yad --center --title="choose a option" --width=550 --no-headers --list --radiolist --separator= --print-column=3 --hide-column=3 --column=x --column=y --column=z x "set a owner passwd to prevent print or edit pdf" jm1 x "set a user passwd and when you read it you need enter passwd" jm2
+}
+inputf()
+{
+yad --center --title="choose some files you want to add in pdf" --width=600 --height=400 --file-selection --multiple
+}
+getpagenum()
+{
+yad --center --title="add attach" --entry --text="enter a page number" --entry-text=1
+}
+rou()
+{
+yad --center --title=rotate --width=400 --height=200 --list --text="choose angle of rotation" --print-column=3 --radiolist --separator= --no-headers --hide-column=3 --column=x --column=y --column=z x "rotate the image 90 degrees to the right" E x "rotate the image 180 degrees to the right"  S x "rotate the image 270 degrees to the right"  W x "rotate the image 90 degrees to the left"  L
+}
+delpage()
+{
+yad --center --title="del page" --entry --text="enter the page number you wanna delete" --entry-text=1
+}
+
+
+sel()
+{
+yad --center --title="choose a opreation" --width=400 --height=400 --list --radiolist --separator= --print-column=3 --no-headers --hide-column=3 --column=x --column=y --column=z x "choose files to merge" hebing x encrypt jiami x decrypt jiemi x compress yasuo x uncompress jieya x "view pdf data" information x "delete page" del x brust brust x stamp stamp x "repair pdf files" repair x "add files to pdf" addfiles x "unpack files" unpack x rotate rotate 
+}
+	;;
+#####################
+zh* )
+wancheng()
+{
+notify-send -i application-pdf "操作完成"
+}
+getback ()
+{
+if [ `yad --center --title="选择水印pdf文件" --file-selection --file-filter=*.pdf` = $NULL ]; then echo xxxx;exit ;fi
+}
+getoutput ()
+{
+yad --center --title="保存为" --file-selection --save --file-filter=*.pdf --confirm-overwrite
+}
+getinput_mul()
+{
+yad --center --title="选择要合并的文件" --width=700 --file-selection --file-filter=*.pdf --multiple
+}
+inputpasswd()
+{
+yad --center --title="输入密码" --text="enter a passwd" --entry --hide-text
+}
+jiamiop()
+{
+yad --center --title="选择一个选项" --list --radiolist --separator= --print-column=3 --hide-column=3 --column=x --column=y --column=z x 只加密文档防止修改打印 jm1 x 加密文档，打开时要求输入密码 jm2
+}
+inputf()
+{
+yad --center --title="选择要插入的文件，可多选" --width=600 --height=400 --file-selection --multiple
+}
+getpagenum()
+{
+yad --center --title="插入文件" --entry --text="输入要插入的页码" --entry-text=1
+}
+rou()
+{
+yad --center --title="旋转" --list --text="选择要旋转的角度" --print-column=3 --radiolist --separator= --no-headers --hide-column=3 --column=x --column=y --column=z x 顺时针旋转90度 E x 顺时针旋转180度 S x 顺时针旋转270度 W x 逆时针旋转90度 L
+}
+delpage()
+{
+yad --center --title="删除页面" --entry --text="输入要删除的页面" --entry-text=1
+}
+
+
+sel()
+{
+yad --center --title="请选择一项" --width=400 --height=400 --list --radiolist --separator= --print-column=3 --no-headers --hide-column=3 --column=x --column=y --column=z x 选择文件进行合并（可多选） hebing x 加密 jiami x 清除密码 jiemi x 压缩 yasuo x 解压 jieya x 查看信息 information x 删除某页 del x 将文件每页分为单个文档 brust x 添加水印 stamp x 修复损坏的pdf repair x 添加附件到文档 addfiles x 将附件提取到当前目录 unpack x 旋转 rotate 
+}
+
+	;;
+esac
+###############################################################
+case "$(sel)" in
+
+stamp)
+	pdftk "$@" stamp "$(getback)" output "$(getoutput)".pdf
+	wancheng
+	;;
+hebing)
+	pdftk "$@" "$(getinput_mul)" cat output "$(getoutput)".pdf
+	wancheng
+	;;
+jiami)
+	if [ $(jiamiop) = jm1 ]
+		then 
+		pass=$(inputpasswd)
+		pdftk "$@" output "$(getoutput)".pdf owner_pw $pass 
+		else 
+		pass=$(inputpasswd)		
+		pdftk "$@" output "$(getoutput)".pdf user_pw $pass
+	fi
+	wancheng
+	;;
+jiemi)
+	pdftk "$@" input_pw "$(inputpasswd)" output "$(getoutput)".pdf 
+	wancheng
+	;;
+yasuo)
+	pdftk "$@" output "$(getoutput)".pdf compress
+	wancheng
+	;;
+jieya)
+	pdftk "$@" output "$(getoutput)".pdf uncompress
+	wancheng
+	;;
+information)
+	pdftk "$@" dump_data output /tmp/info.txt
+	yad --center --text-info --filename=/tmp/info.txt
+	rm /tmp/info.txt
+	;;
+addfiles)
+	pdftk "$@" attach_files "$(inputf)" to_page "$(getpagenum)" output "$(getoutput)".pdf
+	wancheng
+	;;
+burst)
+	pdftk "$@" burst
+	wancheng
+	;;
+repair)
+	get=$(getoutput)
+	pdftk "$@" output "$get".pdf|yad --center --progress --pulsate --auto-close --title="repair PDF "
+	if [ $? = 1 ]
+	then yad --center --title "error" -info --text=error
+	fi
+	wancheng
+	;;
+unpack)
+	pdftk "$@" unpack_files output
+	;;
+rotate)
+	pdftk "$@" cat "1-end$(rou)" output "$(getoutput)".pdf 
+	wancheng
+	;;
+del)
+	mm="$(delpage)"
+	let fr1=mm-1
+	let be1=mm+1
+	pdftk "$@" cat "1-$fr1" "$be1-end" output "$(getoutput)".pdf
+	wancheng
+	;;
+$NULL)
+	exit
+	;;
+esac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
