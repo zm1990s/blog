@@ -1,0 +1,13 @@
+<!ENTITY  pref.tooltip "打开多个自定义网址">
+<!ENTITY  pref.label "打开组">
+<!ENTITY  pref.title "一键打开多个网站">
+<!ENTITY  pref.close "打开前先关闭其他标签页？">
+<!ENTITY  pref.urltootip "网址列表:">
+<!ENTITY  pref.info "输入网址列表，请用回车分隔">
+<!ENTITY  pref.info1 "示例：">
+<!ENTITY  pref.info2 "qzone.qq.com">
+<!ENTITY  pref.info3 "www.weibo.com">
+<!ENTITY  pref.warn "关闭其他标签时不要警告">
+<!ENTITY  pref.warninfo "如果勾选了关闭其他标签，浏览器会在关闭时警告，勾选后不提示！">
+<!ENTITY  pref.save "保存">
+<!ENTITY  pref.cancel "取消">

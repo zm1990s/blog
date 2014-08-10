@@ -19,7 +19,11 @@
 <!ENTITY  pref.customurl "custom URL:">
 <!ENTITY  pref.custominfo1 "( about:newtab for firefox speed dial)">
 <!ENTITY  pref.custominfo2 "( about:home for firefox's default homepage) ">
+<!ENTITY  pref.warnonclose "DON'T warn me on close other tabs">
+<!ENTITY  pref.warninfo "if you choose 'close other tabs', Browser might warn you, you can turn off that here">
 <!ENTITY  pref.warn "warning">
 <!ENTITY  pref.warning1 "if choose options with 'close all tabs', there'll be NO WARNINGs">
 <!ENTITY  pref.warning2 "before close them, use them really carefully">
 <!ENTITY  pref.enable "enable:">
+<!ENTITY  pref.save "save">
+<!ENTITY  pref.cancel "cancel">

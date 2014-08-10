@@ -19,7 +19,11 @@
 <!ENTITY  pref.customurl "自定义网址：">
 <!ENTITY  pref.custominfo1 "( about:newtab 表示火狐的快速拨号 )">
 <!ENTITY  pref.custominfo2 "( about:home 表示火狐自己的主页 ) ">
+<!ENTITY  pref.warnonclose "关闭其他页面时不要警告">
+<!ENTITY  pref.warninfo "如果勾选了关闭其他页面，浏览器会在关闭时警告，勾选后不提示！">
 <!ENTITY  pref.warn "警告">
 <!ENTITY  pref.warning1 "如果选择关闭所有页面，将来在执行此操作时">
 <!ENTITY  pref.warning2 "不会有任何提示 一定要慎用！">
 <!ENTITY  pref.enable "启用：">
+<!ENTITY  pref.save "保存">
+<!ENTITY  pref.cancel "取消">
