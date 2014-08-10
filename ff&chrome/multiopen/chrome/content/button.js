@@ -1,4 +1,23 @@
 var groupOpen = {
+  closeotherandopen:function(url)
+      {
+  //   alert("hello");
+        gBrowser.selectedTab = gBrowser.addTab(url[0]);
+		      gBrowser.removeAllTabsBut(gBrowser.selectedTab);
+      var i;
+      for (i=1; i< url.length ;i++){
+	    gBrowser.addTab(url[i]);		
+	};
+  },
+  openurls:function(url)
+  {
+    var i;
+	  for (i=0; i< url.length ;i++)
+	    {
+	  gBrowser.addTab(url[i]); 
+	    }
+	},
+
 	onload: function() {
 		window.removeEventListener('load', groupOpen.onload, false);
 var prefs = Components.classes["@mozilla.org/preferences-service;1"].getService(Components.interfaces.nsIPrefBranch);
@@ -26,27 +45,15 @@ var prefs = Components.classes["@mozilla.org/preferences-service;1"].getService(
 		var closeother = prefs.getBoolPref('extensions.groupopen.closeother');
 	  var urls = prefs.getCharPref('extensions.groupopen.urls');
 	//  alert(urls);
-  var url=urls.split("\n");
-  var i;
-
+	  	  var url=urls.trim();
+		  var url=url.split("\n");
+		
   if (closeother == true)
-    {
-  //   alert("hello");
-        gBrowser.selectedTab = gBrowser.addTab(url[0]);
-		      gBrowser.removeAllTabsBut(gBrowser.selectedTab);
-      for (i=1; i< url.length ;i++){
-	    gBrowser.addTab(url[i]);		
-	};
-  }
-
+groupOpen.closeotherandopen(url);
 	else 
-	{
-	  for (i=0; i< url.length ;i++)
-	    {
-	  gBrowser.addTab(url[i]); 
-	    }
-	}; 
+	groupopen.openurls(url);
 	 break;  //case0 结束
+	 
 	  case 1:
 	    var newtab = prefs.getCharPref("browser.newtab.url");
 	      gBrowser.selectedTab = gBrowser.addTab(newtab);

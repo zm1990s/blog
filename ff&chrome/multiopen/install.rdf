@@ -1,3 +1,4 @@
+
 <?xml version="1.0"?>
 
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -7,7 +8,7 @@
 		<em:id>{dff7ed22-38ad-48d1-b317-6771b70ef03c}</em:id>
 		<em:type>2</em:type>
 		<em:name>Multi Open</em:name>
-		<em:version>1.0.4</em:version>
+		<em:version>1.0.5</em:version>
 		<em:creator>zm1990s</em:creator>
 		<em:optionsURL>chrome://groupopen/content/options.xul</em:optionsURL>
 		<em:iconURL>chrome://groupopen/content/icon.png</em:iconURL>
@@ -34,3 +35,4 @@
 	</Description>
 
 </RDF>
+

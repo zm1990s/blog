@@ -20,7 +20,7 @@
 			<groupbox> 
 		
     <label control="Url">&pref.urltootip;</label>
-    <textbox id='Url' multiline="true" preference='urls'/>
+    <textbox id='Url' multiline="true" rows="8" preference='urls'/>
   <label control='Url'>&pref.info;</label>
   <label control='Url'>&pref.info1;</label>
   <label control='Url'>&pref.info2;</label>
