@@ -6,9 +6,11 @@
 	<prefpane>
 		<preferences>
 			<preference id="urls" name="extensions.groupopen.urls" type="unichar"/>
+			<preference id="closeother" name="extensions.groupopen.closeother" type="bool"/>
 		</preferences>
 	
 			<groupbox> 
+			  <checkbox label="&pref.close;" preference="closeother"/>
     <label control="Url">&pref.urltootip;</label>
     <textbox id='Url' multiline="true" preference='urls'/>
   <label control='Url'>&pref.info;</label>

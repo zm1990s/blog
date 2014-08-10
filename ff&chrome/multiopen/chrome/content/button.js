@@ -20,14 +20,34 @@ var prefs = Components.classes["@mozilla.org/preferences-service;1"].getService(
 	openLink: function(event) {
 
 		var prefs = Components.classes["@mozilla.org/preferences-service;1"].getService(Components.interfaces.nsIPrefBranch);
+		var closeother = prefs.getBoolPref('extensions.groupopen.closeother');
 	  var urls = prefs.getCharPref('extensions.groupopen.urls');
 	//  alert(urls);
-		  var url=urls.split("\n");
+  var url=urls.split("\n");
   var i;
-  for (i=0; i< url.length ;i++){
-	 gBrowser.addTab(url[i]);		
-	}
 
+  if (closeother == true)
+    {
+  //   alert("hello");
+      for (i=0; i< url.length ;i++){
+	    if (i == 0) {
+		      gBrowser.selectedTab = gBrowser.addTab(url[i]);
+		      gBrowser.removeAllTabsBut(gBrowser.selectedTab);
+		      }
+	      else
+	      {
+		gBrowser.addTab(url[i]);		
+	      }
+	};
+  }
+
+	else 
+	{
+	  for (i=0; i< url.length ;i++)
+	    {
+	  gBrowser.addTab(url[i]); 
+	    }
+	}; 
 	}
 };
 

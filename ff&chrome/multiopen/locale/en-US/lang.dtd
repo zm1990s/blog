@@ -1,6 +1,7 @@
 <!ENTITY  pref.tooltip "open several urls">
 <!ENTITY  pref.label "multi open">
 <!ENTITY  pref.title "open several urls at one time">
+<!ENTITY  pref.close "close other tabs before open urls?">
 <!ENTITY  pref.urltootip "URLs :">
 <!ENTITY  pref.info "input url list, separated by newline (Enter/Return)">
 <!ENTITY  pref.info1 "Example：">

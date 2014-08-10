@@ -1,25 +1,57 @@
 <?xml version="1.0"?>
 <?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
 <!DOCTYPE prefwindow SYSTEM "chrome://mosc/locale/lang.dtd">
-<prefwindow title="&pref.title;" buttons="accept,cancel" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+<prefwindow id="prefd" title="&pref.title;" buttons="accept,cancel" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	
 	<prefpane>
 		<preferences>
-			<preference id="minimizeonstart" name="extensions.{480adee0-f020-4fef-917d-b05502b17aaf}.minimizeOnStart" type="bool"/>
-			<preference id="minimizeonclose" name="extensions.{480adee0-f020-4fef-917d-b05502b17aaf}.minimizeOnClose" type="bool"/>
-			<preference id="minimizeonesc" name="extensions.{480adee0-f020-4fef-917d-b05502b17aaf}.minimizeOnEsc" type="bool"/>
-			<preference id="initDelay" name="extensions.{480adee0-f020-4fef-917d-b05502b17aaf}.initDelay" type="int"/>
+			<preference id="minimizeonstart" name="setup.minimizeOnStart" type="bool"/>
+			<preference id="closealltabonesc" name="setup.closeAllTabOnEsc" type="int"/>
+			<preference id="minimizeonclose" name="setup.minimizeOnClose" type="int"/>
 		</preferences>
-		<vbox>
+	
 			<groupbox>
 				<caption label="&pref.settings;"/>
 				<checkbox label="&pref.minimizeOnStart;" preference="minimizeonstart"/>
-				<checkbox label="&pref.minimizeOnClose;" preference="minimizeonclose"/>
-				<checkbox label="&pref.minimizeOnEsc;" preference="minimizeonesc"/>
+				
+		
+	     <hbox align="center">
+	    <label flex="1" value="&pref.closeAllTabOnEsc;"/>
+              <menulist id="onESC" preference="closealltabonesc">
+                <menupopup>
+                      <menuitem label="&pref.nothing;" value="0"/>
+		     <menuitem label="&pref.closecu;" value="1"/>
+		    <menuitem label="&pref.newtab;" value="2"/>
+		    <menuitem label="&pref.home;" value="3"/>
+		     <menuitem label="&pref.blank;" value="4"/>
+		    
+                </menupopup>
+              </menulist>
+	       </hbox>
+	      
+
+            <hbox align="center">
+              <!-- close all tab-->
+              <label flex="1" value="&pref.minimizeOnClose;"/>
+              <menulist id="onCLOSE" preference="minimizeonclose">
+                <menupopup>
+		   <menuitem label="&pref.minimize;" value="1"/>
+		  <menuitem label="&pref.close;" value="0"/>
+		    <menuitem label="&pref.newtabe;" value="2"/>
+		    <menuitem label="&pref.homee;" value="3"/>
+		     <menuitem label="&pref.blanke;" value="4"/>
+		     
+		     
+                </menupopup>
+              </menulist>
+            </hbox>
+	   
 			</groupbox>
-			<groupbox>
-				<caption label="&pref.advancedSettings;"/>
-				<label value="&pref.initDelay;" control="mosc_initDelayTB"/><textbox id="mosc_initDelayTB" preference="initDelay" type="number" min="50" max="10000" increment="10"/>
-			</groupbox>
-      </vbox>
+			<groupbox>	
+			  <caption style="font-weight:bold; text-align:left; margin-top:1em;">&pref.warn;</caption> 
+			<description value="&pref.warning1;"/>
+			<description value="&pref.warning2;"/>
+	  
+	     </groupbox>
 	</prefpane>
 </prefwindow>

@@ -7,7 +7,7 @@
 		<em:id>{dff7ed22-38ad-48d1-b317-6771b70ef03c}</em:id>
 		<em:type>2</em:type>
 		<em:name>Multi Open</em:name>
-		<em:version>1.0.1</em:version>
+		<em:version>1.0.2</em:version>
 		<em:creator>zm1990s</em:creator>
 		<em:optionsURL>chrome://groupopen/content/options.xul</em:optionsURL>
 		<em:iconURL>chrome://groupopen/content/icon.png</em:iconURL>

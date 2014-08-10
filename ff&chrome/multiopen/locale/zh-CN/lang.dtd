@@ -1,6 +1,7 @@
 <!ENTITY  pref.tooltip "打开多个自定义网址">
 <!ENTITY  pref.label "打开组">
 <!ENTITY  pref.title "一键打开多个网站">
+<!ENTITY  pref.close "打开前先关闭其他窗口？">
 <!ENTITY  pref.urltootip "网址列表:">
 <!ENTITY  pref.info "输入网址列表，请用回车分隔">
 <!ENTITY  pref.info1 "示例：">

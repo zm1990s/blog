@@ -1,7 +1,18 @@
-<!ENTITY  pref.title "开启和关闭后最小化">
+<!ENTITY  pref.title "点击关闭按钮时关闭所有标签，不退出火狐">
 <!ENTITY  pref.settings "首选项">
 <!ENTITY  pref.minimizeOnStart "开启后最小化">
-<!ENTITY  pref.minimizeOnClose "点关闭后关闭所有窗口并最小化">
-<!ENTITY  pref.minimizeOnEsc "按 Esc 关闭所有窗口">
-<!ENTITY  pref.advancedSettings "高级设置">
-<!ENTITY  pref.initDelay "开启延时 (ms)">
+<!ENTITY  pref.minimizeOnClose "按下关闭按钮后">
+<!ENTITY  pref.closeAllTabOnEsc "按 Esc 键后">
+<!ENTITY  pref.close "正常退出">
+<!ENTITY  pref.minimize "最小化 ">
+<!ENTITY  pref.nothing "什么都不干 ">
+<!ENTITY  pref.closecu "关闭当前页面 ">
+<!ENTITY  pref.newtab "关闭所有页面，并打开新标签页">
+<!ENTITY  pref.home "关闭所有页面，并前往主页">
+<!ENTITY  pref.blank "关闭所有页面，并打开空白页 ">
+<!ENTITY  pref.newtabe "关闭所有页面，并打开新标签页，然后最小化">
+<!ENTITY  pref.homee "关闭所有页面，并前往主页，然后最小化">
+<!ENTITY  pref.blanke "关闭所有页面，并打开空白页，然后最小化">
+<!ENTITY  pref.warn "警告">
+<!ENTITY  pref.warning1 "如果选择关闭所有页面，将来在执行此操作时">
+<!ENTITY  pref.warning2 "不会有任何提示 一定要慎用！">
