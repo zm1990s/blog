@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<!DOCTYPE prefwindow SYSTEM "chrome://groupopen/locale/lang.dtd">
+<prefwindow id="prefd" title="&pref.title;" buttons="accept,cancel" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	
+	<prefpane>
+		<preferences>
+			<preference id="urls" name="extensions.groupopen.urls" type="unichar"/>
+		</preferences>
+	
+			<groupbox> 
+    <label control="Url">&pref.urltootip;</label>
+    <textbox id='Url' multiline="true" preference='urls'/>
+  <label control='Url'>&pref.info;</label>
+  <label control='Url'>&pref.info1;</label>
+  <label control='Url'>&pref.info2;</label>
+  <label control='Url'>&pref.info3;</label>
+</groupbox>
+
+	</prefpane>
+</prefwindow>

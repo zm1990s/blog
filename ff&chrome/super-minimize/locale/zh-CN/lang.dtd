@@ -1,0 +1,7 @@
+<!ENTITY  pref.title "开启和关闭后最小化">
+<!ENTITY  pref.settings "首选项">
+<!ENTITY  pref.minimizeOnStart "开启后最小化">
+<!ENTITY  pref.minimizeOnClose "点关闭后关闭所有窗口并最小化">
+<!ENTITY  pref.minimizeOnEsc "按 Esc 关闭所有窗口">
+<!ENTITY  pref.advancedSettings "高级设置">
+<!ENTITY  pref.initDelay "开启延时 (ms)">

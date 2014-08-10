@@ -1,0 +1,10 @@
+<!ENTITY  pref.tooltip "open several urls">
+<!ENTITY  pref.label "multi open">
+<!ENTITY  pref.title "open several urls at one time">
+<!ENTITY  pref.urltootip "URLs :">
+<!ENTITY  pref.info "input url list, separated by newline (Enter/Return)">
+<!ENTITY  pref.info1 "Example：">
+<!ENTITY  pref.info2 "mail.google.com">
+<!ENTITY  pref.info3 "www.twitter.com">
+
+

@@ -1,0 +1,8 @@
+<!ENTITY  pref.tooltip "打开多个自定义网址">
+<!ENTITY  pref.label "打开组">
+<!ENTITY  pref.title "一键打开多个网站">
+<!ENTITY  pref.urltootip "网址列表:">
+<!ENTITY  pref.info "输入网址列表，请用回车分隔">
+<!ENTITY  pref.info1 "示例：">
+<!ENTITY  pref.info2 "qzone.qq.com">
+<!ENTITY  pref.info3 "www.weibo.com">

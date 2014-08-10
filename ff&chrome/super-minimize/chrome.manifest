@@ -1,0 +1,8 @@
+content mosc chrome/content/
+
+locale mosc en-US locale/en-US/
+locale mosc sv-SE locale/sv-SE/
+
+overlay chrome://browser/content/browser.xul chrome://mosc/content/overlay.xul application={ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+overlay chrome://messenger/content/messenger.xul chrome://mosc/content/overlay.xul application={3550f703-e582-4d05-9a08-453d09bdfdc6}
+overlay chrome://sunbird/content/calendar.xul chrome://mosc/content/overlay.xul application={718e30fb-e89b-41dd-9da7-e25a45638b28}

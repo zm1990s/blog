@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://groupopen/skin/button.css" type="text/css"?>
+
+<!DOCTYPE overlay SYSTEM "chrome://groupopen/locale/lang.dtd">
+
+<overlay id="groupopen-overlay"
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+	<script type="application/javascript" src="chrome://groupopen/content/button.js"/>
+
+	<toolbarpalette id="BrowserToolbarPalette">
+		<toolbarbutton id="group-open"
+									 class="toolbarbutton-1 chromeclass-toolbar-additional"
+									 label="&pref.label;"
+									 tooltiptext="&pref.tooltip;"
+									 oncommand="groupOpen.openLink(event)"
+									 onclick="checkForMiddleClick(this, event)"/>
+		</toolbarpalette>
+
+	</overlay>
