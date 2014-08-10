@@ -2,7 +2,7 @@
 <!ENTITY  pref.settings "首选项">
 <!ENTITY  pref.minimizeOnStart "开启后最小化">
 <!ENTITY  pref.minimizeOnClose "按下关闭按钮后">
-<!ENTITY  pref.closeAllTabOnEsc "按 Esc 键后">
+<!ENTITY  pref.closeAllTabOnEsc "按 Esc (或Delete) 键后">
 <!ENTITY  pref.close "正常退出">
 <!ENTITY  pref.minimize "最小化 ">
 <!ENTITY  pref.nothing "什么都不干 ">
@@ -16,3 +16,4 @@
 <!ENTITY  pref.warn "警告">
 <!ENTITY  pref.warning1 "如果选择关闭所有页面，将来在执行此操作时">
 <!ENTITY  pref.warning2 "不会有任何提示 一定要慎用！">
+<!ENTITY  pref.enable "启用：">

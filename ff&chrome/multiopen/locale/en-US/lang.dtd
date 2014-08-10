@@ -7,5 +7,7 @@
 <!ENTITY  pref.info1 "Example：">
 <!ENTITY  pref.info2 "mail.google.com">
 <!ENTITY  pref.info3 "www.twitter.com">
-
-
+<!ENTITY  pref.warn "DON'T warn me on close other tabs">
+<!ENTITY  pref.warninfo "if you choose 'close other tabs', Browser might warn you, you can turn off that here">
+<!ENTITY  pref.save "save">
+<!ENTITY  pref.cancel "cancel">

@@ -2,17 +2,18 @@
 <!ENTITY  pref.settings "Preferences">
 <!ENTITY  pref.minimizeOnStart "Minimize on start">
 <!ENTITY  pref.minimizeOnClose "when clicked 'Close' button">
-<!ENTITY  pref.closeAllTabOnEsc "when Esc pressed ">
+<!ENTITY  pref.closeAllTabOnEsc "when Esc (or Delete) pressed ">
 <!ENTITY  pref.close "just quit">
 <!ENTITY  pref.minimize "minimize ">
 <!ENTITY  pref.nothing "do nothing ">
 <!ENTITY  pref.closecu "close current tab">
-<!ENTITY  pref.newtab "close all tabs and open a new tab">
-<!ENTITY  pref.home "close all tabs and go to home">
+<!ENTITY  pref.newtab "close all tabs and open new-tab page">
+<!ENTITY  pref.home "close all tabs and go to home page">
 <!ENTITY  pref.blank "close all tabs and open a blank page ">
-<!ENTITY  pref.newtabe "close all tabs and open a new tab,then minimize">
-<!ENTITY  pref.homee "close all tabs and go to home,then minimize">
-<!ENTITY  pref.blanke "close all tabs and open a blank page,then minimize">
+<!ENTITY  pref.newtabe "close all tabs, open new-tab page and minimize">
+<!ENTITY  pref.homee "close all tabs, go to home page and minimize">
+<!ENTITY  pref.blanke "close all tabs, open a blank page and minimize">
 <!ENTITY  pref.warn "warning">
-<!ENTITY  pref.warning1 "if choose options with 'close all tabs',there'll be NO WARNINGs">
+<!ENTITY  pref.warning1 "if choose options with 'close all tabs', there'll be NO WARNINGs">
 <!ENTITY  pref.warning2 "before close them, use them really carefully">
+<!ENTITY  pref.enable "enable:">

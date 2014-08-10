@@ -5,9 +5,10 @@
 	<Description about="urn:mozilla:install-manifest">
 	
 		<em:id>{028515da-ee06-46dc-a125-3fbe4c470297}</em:id>
-		<em:name>clear all tabs and minimize when closing, keep firefox always ready to use</em:name>
-		<em:version>1.3</em:version>
-		<em:description>close all the tabs and launch a new tab, then minimize if "close button" is clicked , so firefox will not actually quit, keep ff always ready to use. based on Fredrik Savje's "Minimize On Start and Close"</em:description>
+		<em:name>close all tabs and minimize when close pressed, close tab(s) on Esc (Delete) </em:name>
+		<em:version>1.4.1</em:version>
+		<em:description>close all tabs and launch a new tab, then minimize if "close button" is clicked , so firefox will not actually quit, just go to backgroud. based on Fredrik Savje's "Minimize On Start and Close"
+And, close current tab (or all tabs) if you pressed 'Esc' or 'Delete'</em:description>
 		<em:creator>zm1990s</em:creator>
 		<em:optionsURL>chrome://mosc/content/options.xul</em:optionsURL>
 		<em:iconURL>chrome://mosc/content/icon.png</em:iconURL>
@@ -17,7 +18,7 @@
         <em:locale>zh-CN</em:locale>
         <em:creator>zm1990s</em:creator>
         <em:name>关闭/ESC 增强插件</em:name>
-        <em:description>让关闭按钮和 Esc 变得强大，点击关闭按钮后可以选择最小化，或是关闭所有标签再最小化等。ESC可用来关闭当前标签，关闭所有标签并前往主页等等</em:description>
+        <em:description>让关闭按钮和 Esc(Delete) 变得强大，点击关闭按钮后可以选择最小化，或是关闭所有标签再最小化等。ESC可用来关闭当前标签，关闭所有标签并前往主页等等</em:description>
       </Description>
     </em:localized>
 		<!-- Firefox -->

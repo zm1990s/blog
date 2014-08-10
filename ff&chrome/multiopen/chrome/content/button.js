@@ -29,15 +29,10 @@ var prefs = Components.classes["@mozilla.org/preferences-service;1"].getService(
   if (closeother == true)
     {
   //   alert("hello");
-      for (i=0; i< url.length ;i++){
-	    if (i == 0) {
-		      gBrowser.selectedTab = gBrowser.addTab(url[i]);
+        gBrowser.selectedTab = gBrowser.addTab(url[0]);
 		      gBrowser.removeAllTabsBut(gBrowser.selectedTab);
-		      }
-	      else
-	      {
-		gBrowser.addTab(url[i]);		
-	      }
+      for (i=1; i< url.length ;i++){
+	    gBrowser.addTab(url[i]);		
 	};
   }
 

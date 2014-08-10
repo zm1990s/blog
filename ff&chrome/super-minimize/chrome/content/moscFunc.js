@@ -1,7 +1,6 @@
 //Minimize on start and close class
 var mosc_028515da = new function(){
     this.preferencesManager = Components.classes["@mozilla.org/preferences-service;1"].getService(Components.interfaces.nsIPrefBranch);
-	
 	//Minimizes the window
 	this.initMinimize = function(){
 		window.minimize();
@@ -18,7 +17,7 @@ var mosc_028515da = new function(){
 		{
 
 	 
-	opt1 =  mosc_028515da.preferencesManager.getIntPref("setup.minimizeOnClose");
+	opt1 =  mosc_028515da.preferencesManager.getIntPref("extensions.ctb.minimizeOnClose");
 switch (opt1)
 {
 case 0:
@@ -29,39 +28,30 @@ case 1:
 	e.preventDefault();
   break;
 case 2:
-		while( gBrowser.visibleTabs.length >1) {
-gBrowser.removeCurrentTab();
-}	
-var home = 'about:newtab'
-
- gBrowser.addTab(home);
-gBrowser.removeCurrentTab();
+		
+var prefs = Components.classes["@mozilla.org/preferences-service;1"].
+ getService(Components.interfaces.nsIPrefBranch)
+var home = prefs.getCharPref("browser.newtab.url");
+gBrowser.selectedTab = gBrowser.addTab(home);
+gBrowser.removeAllTabsBut(gBrowser.selectedTab);
 		  window.minimize();
 			e.preventDefault();
   break;
 case 3:
 {
-  		while( gBrowser.visibleTabs.length >1) {
-gBrowser.removeCurrentTab();
-}	
-var prefBranch = Components.classes["@mozilla.org/preferences-service;1"].
-  getService(Components.interfaces.nsIPrefBranch);
-var home = prefBranch.getCharPref("browser.startup.homepage");
- gBrowser.addTab(home);
-gBrowser.removeCurrentTab();
+	var home=  gHomeButton.getHomePage();
+gBrowser.selectedTab = gBrowser.addTab(home);
+gBrowser.removeAllTabsBut(gBrowser.selectedTab);
+
 		  window.minimize();
 			e.preventDefault();
 		};
   break;
 case 4:
 
-		while( gBrowser.visibleTabs.length >1) {
-gBrowser.removeCurrentTab();
-}	
 var home = 'about:blank'
-
- gBrowser.addTab(home);
-gBrowser.removeCurrentTab();
+gBrowser.selectedTab = gBrowser.addTab(home);
+gBrowser.removeAllTabsBut(gBrowser.selectedTab);
 		  window.minimize();
 			e.preventDefault();
   break;
@@ -73,8 +63,9 @@ gBrowser.removeCurrentTab();
 	
 	//close all tabs on Esc-press
 	this.closeAllTabOnEsc = function(e){
-	  if(e.keyCode == 27 ){
-	   opt2 = mosc_028515da.preferencesManager.getIntPref("setup.closeAllTabOnEsc");		      
+
+	  if( e.keyCode == 27 &&mosc_028515da.preferencesManager.getBoolPref("extensions.ctb.enableEsc") == true ||e.keyCode == 46 &&mosc_028515da.preferencesManager.getBoolPref("extensions.ctb.enableDelete") == true){
+	   opt2 = mosc_028515da.preferencesManager.getIntPref("extensions.ctb.closeAllTabOnEsc");		      
 switch (opt2)
 {
 case 0:
@@ -84,43 +75,37 @@ gBrowser.removeCurrentTab();
 e.preventDefault();
   break;
 case 2:
-		while( gBrowser.visibleTabs.length >1) {
-gBrowser.removeCurrentTab();
-}	
-var home = 'about:newtab'
-
-gBrowser.addTab(home);
-gBrowser.removeCurrentTab();
+  var prefs = Components.classes["@mozilla.org/preferences-service;1"].
+ getService(Components.interfaces.nsIPrefBranch)
+var home = prefs.getCharPref("browser.newtab.url");
+gBrowser.selectedTab = gBrowser.addTab(home);
+gBrowser.removeAllTabsBut(gBrowser.selectedTab);
 e.preventDefault();
   break;
 case 3:
-{	while( gBrowser.visibleTabs.length >1) {
-gBrowser.removeCurrentTab();
-}	
-var prefBranch = Components.classes["@mozilla.org/preferences-service;1"].
-  getService(Components.interfaces.nsIPrefBranch);
-var home = prefBranch.getCharPref("browser.startup.homepage");
- gBrowser.addTab(home);
-gBrowser.removeCurrentTab();
+{
+  var home=  gHomeButton.getHomePage();
+gBrowser.selectedTab = gBrowser.addTab(home);
+gBrowser.removeAllTabsBut(gBrowser.selectedTab);
 			e.preventDefault();
 		};
   break;
 case 4:
-		while( gBrowser.visibleTabs.length >1) {
-gBrowser.removeCurrentTab();
-}	
+
 var home = 'about:blank'
-gBrowser.addTab(home);
-gBrowser.removeCurrentTab();
+gBrowser.selectedTab = gBrowser.addTab(home);
+gBrowser.removeAllTabsBut(gBrowser.selectedTab);
+
 e.preventDefault();
   break;
 }
 	  }
+
 };
 }
 //Listeners
 // - Start-up
-if(mosc_028515da.preferencesManager.getBoolPref("setup.minimizeOnStart") == true)
+if(mosc_028515da.preferencesManager.getBoolPref("extensions.ctb.minimizeOnStart") == true)
 {
 	window.addEventListener("load", mosc_028515da.initMinimize, false);
 }
@@ -129,4 +114,6 @@ if(mosc_028515da.preferencesManager.getBoolPref("setup.minimizeOnStart") == true
 window.addEventListener("close", mosc_028515da.minimizeOnClose, false);
 
 // - Esc-press
+
 window.addEventListener("keypress", mosc_028515da.closeAllTabOnEsc, false);
+
