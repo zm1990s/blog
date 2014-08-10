@@ -6,7 +6,7 @@
 	
 		<em:id>{028515da-ee06-46dc-a125-3fbe4c470297}</em:id>
 		<em:name>close all tabs and minimize when close pressed, close tab(s) on Esc (Delete) </em:name>
-		<em:version>1.4.1</em:version>
+		<em:version>1.4.2</em:version>
 		<em:description>close all tabs and launch a new tab, then minimize if "close button" is clicked , so firefox will not actually quit, just go to backgroud. based on Fredrik Savje's "Minimize On Start and Close"
 And, close current tab (or all tabs) if you pressed 'Esc' or 'Delete'</em:description>
 		<em:creator>zm1990s</em:creator>
