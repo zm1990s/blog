@@ -1,0 +1,1858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wp="http://wordpress.org/export/1.0/">
+  <channel>
+    <title>fly with me</title>
+    <description></description>
+    <link>http://my.opera.com/community/</link>
+    <generator>My Opera</generator>
+    <wp:wxr_version>1.0</wp:wxr_version>
+    <wp:base_site_url>http://my.opera.com/</wp:base_site_url>
+    <wp:base_blog_url>http://my.opera.com/flow1058424266/blog/</wp:base_blog_url>
+    <wp:tag><wp:tag_slug>ubuntu</wp:tag_slug><wp:tag_name><![CDATA[ubuntu]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug></wp:tag_slug><wp:tag_name><![CDATA[紫]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug></wp:tag_slug><wp:tag_name><![CDATA[雏菊]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug></wp:tag_slug><wp:tag_name><![CDATA[手机]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>wallpapers</wp:tag_slug><wp:tag_name><![CDATA[wallpapers]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>music</wp:tag_slug><wp:tag_name><![CDATA[music]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>computer</wp:tag_slug><wp:tag_name><![CDATA[computer]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>taylor-swift</wp:tag_slug><wp:tag_name><![CDATA[taylor swift]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>macbuntuubuntuglobal-menudocky</wp:tag_slug><wp:tag_name><![CDATA[macbuntuï¼ubuntuï¼è®¾ç½®ï¼Global Menuï¼dockyï¼]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>diskgeniusdiskman</wp:tag_slug><wp:tag_name><![CDATA[磁盘工具，diskgenius，使用方法，diskman]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>mac</wp:tag_slug><wp:tag_name><![CDATA[mac]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>wallpaper</wp:tag_slug><wp:tag_name><![CDATA[wallpaper]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>w3m</wp:tag_slug><wp:tag_name><![CDATA[w3m]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>terminal-browser</wp:tag_slug><wp:tag_name><![CDATA[terminal browser]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>ubuntu1010</wp:tag_slug><wp:tag_name><![CDATA[ubuntu10.10]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>terminal</wp:tag_slug><wp:tag_name><![CDATA[terminal]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>browser</wp:tag_slug><wp:tag_name><![CDATA[browser]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug></wp:tag_slug><wp:tag_name><![CDATA[终端浏览器，终端，浏览器]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>ubuntu</wp:tag_slug><wp:tag_name><![CDATA[ubuntu软件，软件中心]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>ubuntuub</wp:tag_slug><wp:tag_name><![CDATA[ubuntu，笔记本外放和耳机，同时响，ub]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>ubuntugeditmp3</wp:tag_slug><wp:tag_name><![CDATA[ubuntu中文乱码，乱码，gedit乱码，mp3乱]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>ubuntu</wp:tag_slug><wp:tag_name><![CDATA[ubuntu软件]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug></wp:tag_slug><wp:tag_name><![CDATA[软件中心]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>ubuntu</wp:tag_slug><wp:tag_name><![CDATA[ubuntu中文乱码]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug></wp:tag_slug><wp:tag_name><![CDATA[乱码]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>gedit</wp:tag_slug><wp:tag_name><![CDATA[gedit乱码]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>mp3</wp:tag_slug><wp:tag_name><![CDATA[mp3乱码]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>rar</wp:tag_slug><wp:tag_name><![CDATA[rar乱码]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug></wp:tag_slug><wp:tag_name><![CDATA[笔记本外放和耳机]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug></wp:tag_slug><wp:tag_name><![CDATA[同时响]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>ub</wp:tag_slug><wp:tag_name><![CDATA[ub耳机不响]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>macbuntuubuntuglobal-menu</wp:tag_slug><wp:tag_name><![CDATA[macbuntuÃ¯Â¼ubuntuÃ¯Â¼Ã¨Â®Â¾Ã§Â½Â®Ã¯Â¼Global MenuÃ]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>macbuntuubuntuubuntuglobal-me</wp:tag_slug><wp:tag_name><![CDATA[macbuntu，ubuntu设置，ubuntu美化，Global Me]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>never-again-all-the-life</wp:tag_slug><wp:tag_name><![CDATA[Never Again All The Life]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug></wp:tag_slug><wp:tag_name><![CDATA[此生不再]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug></wp:tag_slug><wp:tag_name><![CDATA[幾米]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>12</wp:tag_slug><wp:tag_name><![CDATA[12星座]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>preety-beauty</wp:tag_slug><wp:tag_name><![CDATA[preety beauty]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug></wp:tag_slug><wp:tag_name><![CDATA[桂纶镁]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>36</wp:tag_slug><wp:tag_name><![CDATA[第36个故事，桂纶镁]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>smplayer</wp:tag_slug><wp:tag_name><![CDATA[smplayer]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>smplayersmplayersmplayer</wp:tag_slug><wp:tag_name><![CDATA[smplayerè®¾ç½®ï¼smplayerå­å¹ä¹±ç ï¼smplayerè®]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>smplayersmplayer-</wp:tag_slug><wp:tag_name><![CDATA[smplayerè®¾ç½®ï¼smplayerå­å¹ä¹±ç ]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>dark</wp:tag_slug><wp:tag_name><![CDATA[dark]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>osd-lyrics</wp:tag_slug><wp:tag_name><![CDATA[OSD Lyrics]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>audacious</wp:tag_slug><wp:tag_name><![CDATA[audacious]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>ubuntu</wp:tag_slug><wp:tag_name><![CDATA[ubuntu歌词]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>linux</wp:tag_slug><wp:tag_name><![CDATA[linux歌词]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>ubuntu</wp:tag_slug><wp:tag_name><![CDATA[自定义ubuntu启动画面]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>ubuntu</wp:tag_slug><wp:tag_name><![CDATA[更改ubuntu启动画面]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>windowsubuntu</wp:tag_slug><wp:tag_name><![CDATA[windows和ubuntu到底哪个好]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>win7</wp:tag_slug><wp:tag_name><![CDATA[win7]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>blender</wp:tag_slug><wp:tag_name><![CDATA[blender]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>feet-3d-model</wp:tag_slug><wp:tag_name><![CDATA[feet 3d  model]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>audacious</wp:tag_slug><wp:tag_name><![CDATA[audacious乱码]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>cue</wp:tag_slug><wp:tag_name><![CDATA[cue]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug></wp:tag_slug><wp:tag_name><![CDATA[腾讯]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>qq</wp:tag_slug><wp:tag_name><![CDATA[qq]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>webqq</wp:tag_slug><wp:tag_name><![CDATA[webqq]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>qq</wp:tag_slug><wp:tag_name><![CDATA[qq邮箱]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>qq</wp:tag_slug><wp:tag_name><![CDATA[qq校友]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>freebsd82</wp:tag_slug><wp:tag_name><![CDATA[freeBSD8.2]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>freebsd</wp:tag_slug><wp:tag_name><![CDATA[freebsd]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>freebsd</wp:tag_slug><wp:tag_name><![CDATA[freebsd图形界面]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>freebsd</wp:tag_slug><wp:tag_name><![CDATA[freebsd安装]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>words</wp:tag_slug><wp:tag_name><![CDATA[words]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>photo</wp:tag_slug><wp:tag_name><![CDATA[photo]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>debian</wp:tag_slug><wp:tag_name><![CDATA[debian]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>something-about-death--fear</wp:tag_slug><wp:tag_name><![CDATA[Something About Death & Fear]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>dream</wp:tag_slug><wp:tag_name><![CDATA[dream]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>death-and-fear</wp:tag_slug><wp:tag_name><![CDATA[Death and Fear]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>fear-of-death</wp:tag_slug><wp:tag_name><![CDATA[fear of death]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>fear</wp:tag_slug><wp:tag_name><![CDATA[fear]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>death</wp:tag_slug><wp:tag_name><![CDATA[death]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>PRIVATE</wp:tag_slug><wp:tag_name><![CDATA[PRIVATE]]></wp:tag_name></wp:tag>
+    <wp:tag><wp:tag_slug>FRIENDS-ONLY</wp:tag_slug><wp:tag_name><![CDATA[FRIENDS-ONLY]]></wp:tag_name></wp:tag>
+    
+        <wp:author>
+        <wp:author_id>1000</wp:author_id>
+        <wp:author_login>flow1058424266</wp:author_login>
+        <wp:author_display_name><![CDATA[flow]]></wp:author_display_name>
+        <wp:author_email>1058424266@qq.com</wp:author_email>
+        <wp:author_first_name><![CDATA[]]></wp:author_first_name>
+        <wp:author_last_name><![CDATA[]]></wp:author_last_name>
+    </wp:author>
+
+        <pubDate>Tue, 19 Oct 2010 09:03:42 GMT</pubDate>
+    <item>
+      <title><![CDATA[六款超炫酷概念手机 透明设计吸引眼球]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/19489582</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/19489582#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-19489582</guid>
+      <pubDate>Tue, 19 Oct 2010 09:03:42 GMT</pubDate>
+      <category domain="tag" nicename=""><![CDATA[手机]]></category>
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->“你与未来只是一个科技的距离！”，一句看似普通的话完美地诠释了科技发展的日新月异！手机界的革命同样不曾终止过，诸如全屏触控、太阳能充电、远程视频等等我们以前从未想过的功能现在早已让我们觉得习以为常了。思想有多远，我们就能走多远，阅机无数的你可曾想过未来的手机是什么样的？好吧，不妨随笔者一起来看看几款由全球各国顶级设计师打造的概念机吧，款款足以谋杀你的眼球。<br/><br/>概念手机一：Window Phone <br/><br/>这款由Seunghan Song设计，在International Design Excellence Awards上获奖的天气预报手机目前并没有被正式的命名，不过由于其采用窗口式的全触控机身，我们暂且把它称之为“Window Phone”。这款Window Phone相当吸引眼球，采用了全透明设计的机身，在屏幕未点亮的情况下，犹如一块经过细致处理的“水晶”一样晶莹剔透。设计初衷是因为设计师Seunghan Song不满他所在小镇上的气象局每日提供的天气预报不够准确，所以决定将外界的实时气象融合在手机中，可以给用户提供每天准确的实时气象。<span class='imgleft'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/18/252/525/34202403.jpg' /></span><span class='imgleft'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/12/252/525/34202397.jpg' /></span><br/>更好玩的是它的手写功能，整个手机从本质上说是全屏触摸的，但是要启动这个触摸功能，你得对着屏幕哈气，屏幕就变雾了，然后，再用手指在上面划拉就成了，那感觉，就像小的时候趴在结了水汽的厨房玻璃上给正在忙碌的妈妈留言一般，温馨而浪漫。<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/11/252/525/34202396.jpg' /></span><br/><br/>呼气写字，很浪漫吧<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/10/252/525/34202395.jpg' /></span><br/><br/>拨打电话<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/9/252/525/34202394.jpg' /></span><br/><br/>回复信息<br/><br/>看到这里你是不是想到什么了？索爱X5抑或LG GD900e？然而索爱X5仅仅是采用透明材质的屏幕，LG GD900e也只不过采用了透明键盘，体现的只能说是创造力而远非革命。这款机器采用一体成型设计，没有任何缝隙和接口，没有任何按键，就是一款纯粹的“玻璃”，极具前瞻性和颠覆性。唯一让笔者很纠结的一个问题是：如果天气炎热，冲着手机呵气无法形成水雾时该如果手写输入呢？<br/><br/>概念手机二：Wrist Phone <br/><br/>下面这款由设计师Shirley A. Roerts设计的腕表手机配色极为简单，通体采用白色作为主色调，同时搭配以黑色的数字键，整体显得简洁时尚。同时这款腕表手机采用可弯曲的造型设计，其配置了拥有14个键位的数字键盘，并且搭载了一块小屏幕。用户可以把这款腕表手机随意弯曲，日常时可以作为手表戴在手腕上，而使用电话功能时则可以铺平以方便拨号。<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/8/252/525/34202393.jpg' /></span><br/><br/>图为：可弯曲的腕表式概念手机<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/1/252/525/34202386.jpg' /></span><br/><br/>图为：可弯曲的腕表式概念手机<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/254/251/525/34202384.jpg' /></span><br/><br/>图为：可弯曲的腕表式概念手机<br/><br/>因为手表是个很多人一般都会佩戴的东西，所以现在各种电子厂商都想将自家产品与手表融合，增强便携性。手表加个MP3之类的功能还是好实现，但要以手表的形式实现手机的功能，无疑难度上会大大增加，现在市面上也能见到一些所谓的腕表手机，不过长相做工都不敢恭维，功能的话。。。再不济也能当块表使吧。要是能有上面这样功能与气质并重的腕表手机问世的话，肯定能获得无数人的青睐。<br/><br/>  <br/><br/>概念手机三：Mac Phone <br/><br/>如果将苹果Mac笔记本的风格延续到手机，手机会变成什么样？东京设计师Mac Funamizu设计了这番神奇的超简约手机景象。待机时，它就像梦幻的太空，又如深邃的海洋。<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/253/251/525/34202383.jpg' /></span><br/><br/>全屏触摸状态<br/><br/>激活键盘后，该机又如传统的直板机一般，只不过多了一份浓重的苹果风。除了有虚拟键盘外，倒是跟iPod Nano如出一辙。<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/250/251/525/34202380.jpg' /></span><br/><br/>虚拟键盘以及上方的屏幕项目<br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/249/251/525/34202379.jpg' /></span><br/><br/>Calling状态，一如既往的干净<br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/245/251/525/34202375.jpg' /></span><br/><br/><br/>难道是盲文！<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/246/251/525/34202376.jpg' /></span><br/><br/>还是款横版翻盖带虚拟全键盘的手机<br/><br/>打开侧翻盖，该机又摇身一变成了Mini版的Mac笔记本了，是不是很漂亮啊？当然，整个设计中最有特色的还是新鲜的侧翻版显示屏，采用电子墨水技术，显得十分科幻前卫。这要是能真的推出来，估计全世界的果粉又要疯了。<br/><br/><br/>概念手机四：Glassy Phone <br/><br/>下面这款仍然是东京设计师Mac Funamizu的作品。设计师的想法是将几层透明的LCD叠在一起，以完成多层或者立体图案的展示。如果有厂商愿意尝试，相信用这种多层LCD的技术制作手机也不是什么难事，不过还是要先将易刮伤与易摔碎等问题处理好。<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/244/251/525/34202374.jpg' /></span><br/><br/>图为：Glassy概念手机<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/243/251/525/34202373.jpg' /></span><br/><br/>图为：Glassy概念手机<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/242/251/525/34202372.jpg' /></span><br/><br/>图为：Glassy概念手机<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/241/251/525/34202371.jpg' /></span><br/><br/>图为：Glassy概念手机<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/238/251/525/34202368.jpg' /></span><br/><br/>图为：Glassy概念手机<br/><br/>如果只考虑形状的话，目前倒是有几款手机与这款概念手机十分相似，比如去年面世的诺基亚Twist 7705、刚刚问世的微软Kin One和即将面世的MOTO Flipout，貌似这还是个潮流趋势哦。<br/><br/> <br/><br/><br/>概念手机五：盲人手机 <br/><br/>这款拥有强大功能的高科技触摸式手机是专为盲人设计，由工业设计师Zhenwei You设计。手机屏幕上显示的是盲文，盲人可以通过触摸它来获得信息，该手机还具有读书、识物、声音提示和导航等功能，相当的不错，虽然现在还只是概念产品不过看上去可行性很高。<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/240/251/525/34202370.jpg' /></span><br/><br/>看上去手感还不错<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/239/251/525/34202369.jpg' /></span><br/><br/>不过就是有点像剃须刀。。。<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/237/251/525/34202367.jpg' /></span><br/><br/>扫描了文字后不知道是转为盲文呢还是转为声音<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/231/251/525/34202361.jpg' /></span><br/><br/>除了文字扫描别的也能识别<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/229/251/525/34202359.jpg' /></span><br/><br/>镜头边上貌似还有闪光灯，够全面<br/><br/>确实弱势群体需要我们大家更多的关注，现在专门为残障人士设计的相关产品也还是太少，希望这样的产品能尽快面世，造福残障人士。<br/><br/><br/><br/>概念手机六：木质手机 <br/><br/>环保型材料诸如竹子木头的用处是越来越多了，从以前家居用途逐步深入到了高科技产品中。华硕创先使用大自然中竹子来做笔记本。现在，韩国的一只设计团队的Hyun Jin Yoon和Eun Hak Lee两人则打算使用木质材料来做手机啦。<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/234/251/525/34202364.jpg' /></span><br/><br/>确实能与大自然融为一体<br/><br/>高科技与大自然完美融合的设计理念贯穿于整个设计过程。在“古老”的木头手机上，功能一点也不老土——触摸式按键、摄像头。可能朋友会认为这款手机的用户界面（User Interfaces）做的如此难看，会吸引大家目光吗？如果有这样想法的话那么看看Moto历史上卖的较好的Razr吧。那款手机的用户界面不也一样难看吗？<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/230/251/525/34202360.jpg' /></span><br/><br/>这款木头手机三围为4.5 x 10.4 x 9.8cm，身形还比较玲珑<br/><br/><span class='img'><img alt='' src='http://img1.gtimg.com/digi/pics/hv1/233/251/525/34202363.jpg' /></span><br/><br/>恩。。。屏幕小了点，长得很像三星的MP3<br/><br/>现在低碳环保是最热的一个话题了，很多手机都以环保为卖点，像最近索爱的J10与J20都是采用的可降解材料外壳，虽然不及木头环保来得彻底，也算是个可喜的进步吧。以木头为材质做手机，创意是很不错，只是不知道放久了会不会生蛀虫呢？]]></content:encoded>
+      <wp:post_date>2010-10-19 11:10:42</wp:post_date>
+      <wp:post_date_gmt>2010-10-19 09:10:42</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[《雏菊》告诉我们的]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/19489772</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/19489772#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-19489772</guid>
+      <pubDate>Tue, 19 Oct 2010 09:06:58 GMT</pubDate>
+      <category domain="tag" nicename=""><![CDATA[雏菊]]></category>
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->影片告诉我们，故事的结局是：朴宜失去了惠英，失去了活下去的意义，他为惠英报仇，杀死了自己的老板和他手下所有的杀手，当然包括那个向惠英和郑宇开枪的人。然后，与老板同归于尽……  <br/><br/>可是，最后一组镜头在告诉我们，这一切，都被改变了: <br/>   <br/>   《雏菊》的结尾，从三个人聚在屋檐底下，到举向空中的雏菊花，都是有涵义的。  <br/><br/>1、惠英跑过来，三个人聚在屋檐下。惠英的旁白：我还在等待我的初恋，当然这一刻不可能就出现我的初恋——惠英的初恋就在身边。是郑宇（警察），也是朴宜（雨盛）。  <br/><br/>2、惠英画板上的颜色流了下来——那代表雏菊花的颜色，流了下来，预示着雏菊的爱最终要逝去。  <br/><br/>3、颜料流到了朴宜脚下——惠英的爱的真正的归属，真正的爱人，是朴宜。  <br/><br/>4、朴宜发现惠英就在身边——不用我说了吧？雨盛倾情的表演，太棒了，那种惊喜和幸福！！！  <br/><br/>5、郑宇看着惠英的颜料流下来，跟朴宜对视，微笑——两个男人惺惺相惜。还有，对惠英的爱，郑宇是观望的，郑宇是欣慰的。  <br/><br/>6、雨停了，郑宇的同事读出屋檐上广告牌的话： <br/>不管怎样，未来是可以改变的（No matter what,future can be changed.） 。 <br/>未来是可以改变的——注意！！！这是一句重要的话，这句话预示着，结局不是悲剧。“未来是可以改变的”。朴宜会改变他的未来，将要去改变他的未来。  <br/><br/>7、举向空中的雏菊花，伴着一句“Flowers!!”——朴宜将说出他心中的爱，勇敢地追求他的爱，他会去改变命运中的未来。  <br/><br/>    结尾向我们揭示了主人公真正的命运，揭示了雏菊的爱的真正的归属——原来一切都不是我们看到的，原来未来会被朴宜改变——向阳的雏菊预示了朴宜那一刻的信念：future can be changed！！！ ——让我们来祝福纯洁的爱情，祝福朴宜和惠英的永恒的幸福生活！！！]]></content:encoded>
+      <wp:post_date>2010-10-19 11:10:58</wp:post_date>
+      <wp:post_date_gmt>2010-10-19 09:10:58</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[原来英文也可以写得那么凄美]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/19498522</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/19498522#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-19498522</guid>
+      <pubDate>Tue, 19 Oct 2010 13:17:56 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->1。如果只是遇见，不能停留，不如不遇见。 <br/>If we can only encounter each other rather than stay with each other,then I wish we had never encountered. <br/>2。宁愿笑着流泪，也不哭着说后悔。心碎了，还需再补吗？ <br/>I would like weeping with the smile rather than repenting with the cry,when my heart is broken ,is it needed to fix? <br/>3。没有谁对不起谁，只有谁不懂得珍惜谁。 <br/>No one indebted for others,while many people don&#39;t know how to cherish others. <br/>4。命里有时钟需有 命里无时莫强求 <br/>You will have it if it belongs to you,whereas you don&#39;t kvetch for it if it doesn&#39;t appear in your life. <br/>5。当香烟爱上火柴时，就注定受到伤害 <br/>When a cigarette falls in love with a match,it is destined to be hurt. <br/>6。爱情…在指缝间承诺 指缝…。在爱情下交缠。 <br/>Love ,promised between the fingers <br/>Finger rift,twisted in the love <br/>7。没有人值得你流泪，值得让你这么做的人不会让你哭泣。 <br/>No man or woman is worth your tears, and the one who is, won’t make you cry. <br/>8。记住该记住的，忘记该忘记的。改变能改变的，接受不能改变的。 <br/>Remember what should be remembered, and forget what should be forgotten.Alter what is changeable, and accept what is unchangeable. <br/><br/>Love is like a butterfly. It goes where it pleases and it pleases where it goes. <br/>爱情就像一只蝴蝶，它喜欢飞到哪里，就把欢乐带到哪里。 <br/>If I had a single flower for every time I think about you, I could walk forever in my garden. <br/>假如每次想起你我都会得到一朵鲜花，那么我将永远在花丛中徜徉。 <br/>Within you I lose myself, without you I find myself wanting to be lost again. <br/>有了你，我迷失了自我。失去你，我多么希望自己再度迷失。 <br/>At the touch of love everyone becomes a poet. <br/>每一个沐浴在爱河中的人都是诗人。 <br/>Look into my eyes - you will see what you mean to me. <br/>看看我的眼睛，你会发现你对我而言意味着什么。 <br/>Distance makes the hearts grow fonder. <br/>距离使两颗心靠得更近。 <br/>I need him like I need the air to breathe. <br/>我需要他，正如我需要呼吸空气。 <br/>If equal affection cannot be, let the more loving be me. <br/>如果没有相等的爱，那就让我爱多一些吧。 <br/>Love is a vine that grows into our hearts. <br/>爱是长在我们心里的藤蔓。 <br/>If I know what love is, it is because of you. <br/>因为你，我懂得了爱。 <br/>Love is the greatest refreshment in life. <br/>爱情是生活最好的提神剂。 <br/>Love never dies. <br/>爱情永不死。 <br/>The darkness is no darkness with thee. <br/>有了你，黑暗不再是黑暗。 <br/>We cease loving ourselves if no one loves us. <br/>如果没有人爱我们，我们也就不会再爱自己了。 <br/>There is no remedy for love but to love more. <br/>治疗爱的创伤唯有加倍地去爱。 <br/>When love is not madness, it is not love. <br/>如果爱不疯狂就不是爱了。 <br/>A heart that loves is always young. <br/>有爱的心永远年轻。 <br/>Love is blind. <br/>爱情是盲目的。 <br/><br/><br/>1.A bad workman always blames his tools. 拙匠总怪工具差。 <br/>2.A contented mind is a perpetual feast. 知足长乐。 <br/>3.A good beginning is half the battle. 好的开端等于成功一半。 <br/>4.A little pot is soon hot. 壶小易热，量小易怒。 <br/>5.All lay loads on a willing horse. 好马重负。 <br/>6.A merry heart goes all the way. 心情愉快，万事顺利 。 <br/>7.Bad excuses are worse than none. 狡辩比不辩护还糟 。 <br/>8.Character is the first and last word in the success circle. <br/>人的品格是事业成功的先决条件。 <br/>9.Cleanliness is next to godliness. 整洁近于美德 。 <br/>10.Courtesy costs nothing. 彬彬有礼，惠而不费 。 <br/>11.Doing nothing is doing ill. 无所事事，必干坏事。 <br/>12.Early to bed, early to rise, make a man healthy, wealthy, and wise. <br/>睡得早，起得早，聪明、富裕、身体好 。 <br/>13.Empty vessels make the most noise. 满瓶子不响，半瓶子晃荡 。 <br/>14.Every man hath his weak side. 人皆有弱点 。 <br/>15.Everything ought to be beautiful in a human being: face, dress, soul and idea. <br/>人的一切都应当是美丽的：容貌、衣着、心灵和思想。 <br/>16.Extremes are dangerous. 凡事走向极端是危险的 。 <br/>17.Good advice is harsh to the ear. 忠言逆耳 。 <br/>18.Grasp all, lose all. 欲尽得，必尽失 。 <br/>19.Great hopes make great men. 伟大的理想造就伟大的人物。 <br/>20.Handsome is he who does handsomely. 行为美者才真美。 <br/>21.Have but few friends, though many acquaintances. 结交可广，知己宜少。 <br/>22.Hear all parties.兼听则明，偏听则暗 。 <br/>23.He is a wise man who speaks little. 智者寡言。 <br/>24.He is not laughed at that laughs at himself first. <br/>有自知之明者被人尊敬。 <br/>25.He is rich enough that wants nothing. <br/>无欲者最富有，贪欲者最贫穷。 <br/>26.He is truly happy who makes others happy. <br/>使他人幸福的人，是真正的幸福。 <br/>27.Honesty is the best policy. 诚实乃上策。 <br/>28.Hope for the best and prepare for the worst.?? 抱最好的希望，作最坏的准备 。 <br/>29.Idleness is the root of all evil. 懒惰是万恶之源 。 <br/>30.If we dream, everything is possible. 敢于梦想，一切都将成为可能。 <br/>31.Kind hearts are the gardens, kind thoughts are the roots, kind words are flowers and kind deeds are the fruits. <br/>仁慈的心田是花园，崇高的思想是根茎，友善的言语是花朵，良好的行为是果实。 <br/>32.Laugh, and the world laughs with you; Weep, and you weep lone. <br/>欢笑，整个世界伴你欢笑。哭泣，只有你独自向隅而泣 。 <br/>33.Life is measured by thought and action not by time. <br/>衡量生命的尺度是思想和行为，而不是时间。 <br/>34.Life is not all beer and skittles. 人生并非尽是乐事 。 <br/>35.Long absent, soon forgotten. 别久情疏 。 <br/>36.Look before you leap. 三思而后行 。 <br/>37.Lookers-on see most of the game. 旁观者清，当局者迷。 <br/>38.Manners make the man.观其待人而知其人 。 <br/>39.Misfortune tests the sincerity of friends. 患难识知交。 <br/>40.No cross, no crown.没有苦难，就没有快乐 。 <br/>41.Nobody&#39;s enemy but his own. 自寻苦恼 。 <br/>42.One man&#39;s fault is another man&#39;s lesson. 前车之覆，后车之鉴 。 <br/>43.Pardon all men, but never thyself. 严以律已，宽以待人。 <br/>44.Reason is the guide and light of life. 理智是人生的灯塔 。 <br/>45.Sadness and gladness succeed one another. 乐极生悲，苦尽甘来 。 <br/>46.Still waters run deep.流静水深，人静心深 。 <br/>47.The fire is the test of gold; adversity of strong men. 烈火炼真金，逆境炼壮士 。 <br/>48.The fox may grow grey, but never good. 江山易改，本性难移 。 <br/>49.The more a man learns, the more he sees his ignorance. 知识越广博，越感已无知 。 <br/>50.Virtue is a jewel of great price. 美德是无价之宝 。 <br/>51.Weak things united become strong. 一根筷子易折断，十根筷子硬如铁 。 <br/>52.We can&#39;t judge a person by what he says but by what he does. <br/>判断一个人，不听言语看行动 。 <br/>53.Where there is a will there is a way. 有志者，事竟成 。 <br/>54.Will is power. 意志就是力量 。 <br/>55.Wise men are silent; fools talk. 智者沉默寡言，愚者滔滔不绝 。 <br/>56.Wise men learn by others&#39; harm, fools by their own. <br/>智者以他人挫折为鉴，愚者必自身碰壁方知觉。 <br/><br/><br/>1 <br/>夏天的飞鸟，飞到我的窗前唱歌，又飞去了。 <br/>秋天的黄叶，它们没有什么可唱，只叹息一声，飞落在那里。 <br/>stray birds of summer come to my window to sing and fly away. <br/>and yellow leaves of autumn, which have no songs, flutter and fall <br/>there with a sign. <br/>2 <br/>世界上的一队小小的漂泊者呀，请留下你们的足印在我的文字里。 <br/>o troupe of little vagrants of the world, leave your footprints in my words. <br/>3 <br/>世界对着它的爱人，把它浩翰的面具揭下了。 <br/>它变小了，小如一首歌，小如一回永恒的接吻。 <br/>the world puts off its mask of vastness to its lover. <br/>it becomes small as one song, as one kiss of the eternal. <br/>4 <br/>是大地的泪点，使她的微笑保持着青春不谢。 <br/>it is the tears of the earth that keep here smiles in bloom. <br/>5 <br/>无垠的沙漠热烈追求一叶绿草的爱，她摇摇头笑着飞开了。 <br/>the mighty desert is burning for the love of a bladeof grass who <br/>shakes her head and laughs and flies away. <br/>6 <br/>如果你因失去了太阳而流泪，那么你也将失去群星了。 <br/>if you shed tears when you miss the sun, you also miss the stars. <br/>7 <br/>跳舞着的流水呀，在你途中的泥沙，要求你的歌声，你的流动呢。你肯挟 <br/>瘸足的泥沙而俱下么？ <br/>the sands in your way beg for your song and your movement, dancing <br/>water. will you carry the burden of their lameness? <br/>8 <br/>她的热切的脸，如夜雨似的，搅扰着我的梦魂。 <br/>her wishful face haunts my dreams like the rain at night. <br/>9 <br/>有一次，我们梦见大家都是不相识的。 <br/>我们醒了，却知道我们原是相亲相爱的。 <br/>once we dreamt that we were strangers. <br/>we wake up to find that we were dear to each other. <br/>10 <br/>忧思在我的心里平静下去，正如暮色降临在寂静的山林中。 <br/>sorrow is hushed into peace in my heart like the evening among <br/>the silent trees <br/><br/><br/>A star has 5 ends; <br/><br/>A square has 4 ends; <br/><br/>A triangle has 3 ends; <br/><br/>A line has 2 ends; <br/><br/>A life has one end. <br/><br/>But I hope your happiness has no end. <br/><br/><br/><br/>1. 记住该记住的，忘记该忘记的。改变能改变的，接受不能改变的。 <br/>Remember what should be remembered, and forget what should be forgotten. Alter what is changeable, and accept what is mutable. <br/>2.鱼对水说你看不到我的眼泪，因为我在水里。水说我能感觉到你的眼泪，因为你在我心里。 <br/>“You couldn’t see my tears cause I am in the water.” Fish said to water. <br/>“But I could feel your tears cause you are in my heart.” Answered water. <br/>3.人生短短几十年，不要给自己留下了什么遗憾，想笑就笑，想哭就哭，该爱的时候就去爱，无谓压抑自己。 <br/>Your life only lasts for a few decades, so be sure that you don&#39;t leave any regrets. Laugh or cry as you like, and it‘s meaningless to oppress yourself. <br/>4． 生命中，不断地有人进入或离开。于是，看见的，看不见了；记住的，遗忘了。生命中，不断地有得到和失落。于是，看不见的，看见了；遗忘的，记住了。然而，看不见的，是不是就等于不存在？记住的，是不是永远不会消失？ <br/>There is someone that is coming or passing away in your life around the clock, so you may lose sight of those seen, and forget those remembered. There is gain and loss in your life, so you may catch sight of those unseen, and remember those forgotten. Nevertheless, doesn’t the unseen exist for sure? Will the remembered remain forever? <br/>5． 后悔是一种耗费精神的情绪。后悔是比损失更大的损失，比错误更大的错误。所以不要后悔。 <br/>Penitence is something that enervates our spirit, causing a greater loss than the loss itself and making a bigger mistake than the mistake itself. So never regret.<br/>]]></content:encoded>
+      <wp:post_date>2010-10-19 15:10:56</wp:post_date>
+      <wp:post_date_gmt>2010-10-19 13:10:56</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[听着很舒服，很美]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/19539492</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/19539492#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-19539492</guid>
+      <pubDate>Wed, 20 Oct 2010 05:53:56 GMT</pubDate>
+      <category domain="tag" nicename="music"><![CDATA[music]]></category>
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Fplayer.youku.com%2Fplayer.php%2Fsid%2FXMjQxMDY3OTY%3D%2Fv.swf&amp;height=375&amp;width=620" width="626" />
+<br/><br/><br/>title:<strong>valder fields</strong><br/>artist:<strong>tamas wells</strong><br/><span class="aligncenter"><br/>i was found on the ground by the fountain <br/>                                          (我被发现时就躺在一股泉水旁)<br/>about a fields of a summer stride <br/>                                          (那是一片充满夏日气息的土地)<br/>lying in the sun after i had tried <br/>                                          (当我感到些许疲倦时)<br/>lying in the sun by the side <br/>                                          (便躺在阳光下,小路旁)<br/>we had agreed that the council would end up <br/>                                          (我们都认为议会应该趁早解散)<br/>three hours over time <br/>                                          (再有三个小时的存在都嫌多)<br/>shoe laces were tied at the traffic lights <br/>                                          (鞋带为信号灯所左右)<br/>i was running late i could apply <br/>                                          (所以我跑得迟了,我可以申请的)<br/>for another one i guessed <br/>                                          (我想是为另一个人)<br/>after parking stores at best <br/>                                          (毕竟做足准备才是最好的)<br/>they said there would be delays <br/>                                          (他们说这或许有些迟了啊)<br/>only temporary pay <br/>                                          (毕竟这付出显得过于短暂)<br/>music<br/>for another one i guess <br/>                                          (我想是为另一个人)<br/>after parking stores at best <br/>                                          (毕竟做足准备才是最好的)<br/>they said there would be delays <br/>                                          (他们说这或许有些迟了啊)<br/>only temporary pay <br/>                                          (毕竟这付出显得过于短暂)<br/>she was found on the ground in a gown <br/>                                          (她穿着长袍躺在那里)<br/>in a fountainfilled by the summer asleep <br/>                                          (睡在这片夏日田野里)<br/>staring at the concrete,trying not to cry <br/>                                          (看看这景象试着不去哭泣)<br/>when he said that he loved his life <br/>                                          (他说他很享受这样的生活)<br/>music<br/>we had agreed that the council <br/>                                          (我们都觉得那会议组会)<br/>should take his keys to the bedroom door <br/>                                          (拿走他卧室的钥匙)<br/>incase she stepped outside <br/>                                          (如果万一他要在门外徘徊)<br/>and was found in two days <br/>                                          (两天后在发现)<br/>in valder fields with a mountain view <br/>                                          (他在一片山色美景中)<br/></span><br/>end<span class="alignright"></span>]]></content:encoded>
+      <wp:post_date>2010-10-20 07:10:56</wp:post_date>
+      <wp:post_date_gmt>2010-10-20 05:10:56</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[语丝小辑]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/19546172</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/19546172#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-19546172</guid>
+      <pubDate>Wed, 20 Oct 2010 08:11:52 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Fwww.8box.com%2Ffeed%2F200_7030A0_hot_10_2%2Fradio.swf&amp;height=375&amp;width=620" width="626" />
+<br/>真正的友情不依靠什么。<br/>不依靠事业、祸福和身份，不依靠经历、方位和处境。<br/>它在本性上拒绝功利，拒绝归属，拒绝契约，<br/>它是独立人格之间的互相呼应和确认。<br/>它使人们独而不孤，互相解读自己存在的意义。<br/>因此所谓朋友，也只不过是<br/>互相使对方活得更加溫暖、更加自在的那些人。<br/>　　　　　　　　——余秋雨 <br/><br/>唯一能真正持久的爱是能接受一切的爱——<br/>能接受一切的失望、一切的失败与一切的背叛，<br/>甚至能接受最终最深的欲望也只是单纯地相依为伴这样<br/>一个悲哀的事实。<br/>　　　　　　　　——格雷安．葛林 Graham Greene<br/><br/>你有信仰就年轻，疑惑就年老；<br/>有自信就年轻，畏惧就年老；<br/>有希望就年轻，绝望就年老；<br/>岁月使你皮肤起皱，但是失去了热忱，就损伤了灵魂。 <br/>　　　　　　　　—— 卡耐基 <br/><br/>雪花是自然界最脆弱的东西，<br/>然而当它們凝聚在一起时，能做让人意想不到的事。<br/>Snowflakes are one of nature&#39;s most fragile things,<br/>but just look what they can do when they stick together.<br/>　　　　　　　　——薇丝塔．凯利 Vista M. Kelly<br/><br/><br/>不该在任何东西上寻找完美，不该在向任何东西要求完美，<br/>既不该向爱情、美丽和幸福要求，也不应该向德行去要求；<br/>只有热爱完美才能成为有德之人，才能达到人类所达到的美丽和幸福的疆界。<br/>　　　　　　　　——缪塞 <br/><br/>生活，就是理解。<br/>生活，就是面对现实微笑，就是越过障碍注视未来。<br/>生活，就是自己身上有一架天平，在那上面衡量善与恶。<br/>生活，就是有正义感，爱真理，有理智，就是始志不渝、诚实不欺、<br/>表里如一、心智纯正，<br/>并且对权利与义务同等重视。<br/>生活，就是知道自己的价值，自己所能做到的与自己所应该做到的。<br/>生活，就是理智。<br/>　　　　　　　　——雨果 <br/><br/>风格是心灵的外在标志，是比一个人的脸更为可靠的性格表示。<br/>模仿别人的风格，就象戴上了面具；因为面具永远不会尽善尽美，<br/>所以它很快就激起人们的厌恶和憎恨，原因在于面具是无生命的，<br/>正因为这个原因，甚至最丑陋的活人面孔也比面具好。<br/>　　　　　　　　——叔本华<br/><br/>善于内控的人，更有成功的理念；<br/>喜于压力的人，更有成功的基础；<br/>勇于奋斗的人，更有成功的希望；<br/>乐于变革的人，更有成功的机会；<br/>敢于抗争的人，更有成功的对策；<br/>耐于挫折的人，更有成功的快乐；<br/>成功就是铁精炼成钢，梦成真！<br/>　　　　　　　　——孟 莲 <br/><br/>成熟是一种明亮而不刺眼的光辉，<br/>一种圆润而不腻耳的音声，<br/>一种不再需要对別人察颜观色的从容，<br/>一种终于停止向周围申诉求告的大气，<br/>一种不理会哄闹的微笑，<br/>一种洗刷了偏激的淡漠，<br/>一种无须声张的厚实，<br/>一种并不陡峭的高度。<br/>　　　　　　　　——余秋雨<br/><br/>人生是各种不同的变故、循环不已的痛苦和欢乐组成的。那种永远不变的蓝天只存在于心灵中间，向现实的人生去要求未免是奢望。 <br/><br/>　　　　　　　　---巴尔扎克 <br/><br/><br/>我所向往的是排遣一切功利的真爱和心灵的默契相通。<br/>　　　　　　　　—付雨 <br/><br/>每个人的一生都在时光中渡过，所做所为都会留下记忆的印迹，就好象是被雕刻的时光，或深或浅地刻在自己生命的里程碑上。其实我想念的并不是真正的过去，而是过去曾经给过我的记忆。生命中的一些美好的片段，就象四季里的缕缕霞光，不可触摸，却能穿越时光的阻隔，照亮回忆中的每个角落。 <br/>　　　　　　　　——画云<br/>]]></content:encoded>
+      <wp:post_date>2010-10-20 10:10:52</wp:post_date>
+      <wp:post_date_gmt>2010-10-20 08:10:52</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[全球最值得听的、最好听英文歌]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/19547772</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/19547772#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-19547772</guid>
+      <pubDate>Wed, 20 Oct 2010 08:50:01 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Fwww.8box.com%2Ffeed%2F200_FFCFCF_list_294285_2%2Fradio.swf&amp;height=375&amp;width=620" width="626" />
+<br/><br/>1. don&#39;t cry--guns n&#39; roses这首歌曾唱哭了千万人。总是能够触痛了心底最软的地方，心抽痛着,眼圈红了，却没有眼泪渗出，每多听一次就多一次的依恋... <br/><br/>2. fade to black--ＭＥＴＡllic金属乐队也有很经典歌曲,相信国内有好多人都是听了这首歌的前奏才去学吉他的!ＭＥＴＡLLICA经典中的经典,也是ＭＥＴＡLLICA饱受争议的作品,因为当时有乐迷自杀就是出于这首歌，胆小别听哦~ <br/><br/>3. dreaming my dream--cranberries有着王菲一样变幻倚俪的唱腔，高雅离开了原本浩渺的苍穹来到人间，它带着冷漠的美艳，但又说着人身上的变动和永恒，爱尔兰的卡百利乐队就这样汲取了精灵与传说的浩渺气质，沟通了人间和天空的美，把人的故事，爱情，历史，死亡，社会都融进那飘忽而真切的女声中...(卡百利，本是蔓声浆果的藤蔓) <br/><br/>4. dying in the sun--cranberries不断地重复着放这首歌,简短迂回的旋律,简短迂回的歌词。平躺在这样的歌里,晕乎乎的,渴望在阳光下睡死... <br/><br/>5. never grow old--cranberries 最近常听朋友们说时间过得好快~! 感觉自己在一天一天的虚度光阴! 不由得想起了这支歌~! <br/><br/>6. far away from home--groove coverage德国新晋乐队,这首歌已被众多知名DJ誉为当今舞曲最为精华的传世之作，听了不下几百遍了，旋律好的很，女声好的很... <br/><br/>7. knocking on heaven&#39;s door--guns n&#39; roses(“野蛮师姐”主题曲)艾薇儿翻唱的和枪花版的都给人一种爽歪的感觉，当然女生版的更加恬静，睡觉之前是要听的奥。 <br/><br/>8. imagine--john lennon约翰列侬是全世界最成功的摇滚乐队“甲壳虫”（或叫披头士）(beatles)的灵魂人物，死于1980年12月8日，是被一名狂热的歌迷开枪打死的，他的死震惊了世界，他在六十年代吸毒，目无宗教和governme-nt，在七十年代致力研究东方宗教和宣扬童话般的爱(有一颗小星星是以他的名字命名的)，这声音听来象预言者的祈祷，而歌词依然是固执的理想，或许列侬所要求的泰国绝对，太过纯洁，但作为梦，难道你我就不曾有过吗？ <br/><br/>9. yesterday--beatles这么经典的还说什么呢，电台点播率已经超过一亿次了，没听过的太逊了。 <br/><br/>10. let it be--beatles昔日创下了榜史纪录,也是Beatles解散时成员们的心态写照。有时候生命的意义在于过程,至于结果就让它Let it be... <br/><br/>11. it&#39;s my life--bon jovi曾用来做CS的MTV背景音乐。 <br/><br/>12. that&#39;s why(you go away)--meachael learns to rock半路在一家美发店的门前听到了that&#39;s why (you go away)的钢琴版!!! 感觉很好,这样听起来That&#39;s why就更经典了! (放的声音越大越有感觉哦) <br/><br/>13. you can&#39;t say(韩剧&quot;爱上女主播&quot;主题曲)相信大家对这首歌不会感到陌生了哦!!!每当旋律一起就能体会其中的柔情... <br/><br/>14. yesterday yes a day 温柔醇厚的声音,静静地用心体会,很舒服的21岁的挪威女孩marlin,自己写歌自己唱,一首充满浪漫气息的法国歌曲,就像爱人在你耳 边轻轻呢喃,超好听的... <br/><br/>15. heal the world--meachael kjackson他是疯狂热爱和不羁职责的承受者，年轻的巨富，心理怪异而各声纯洁的奇人，他富于创造，不向任何一个流派*拢，虽然,杰克逊现在的形象不好,但他曾经为世界的慈善事业作了很大的贡献,这首歌也正是他心意的表现吧...最起码他在音乐方面的高度是谁都无法否认的。 <br/>16. the girl is mine--meachael jackson.纯洁的仿佛童话，干净的让人不敢呼吸... <br/><br/>17. delicious way--仓木麻衣。我本人也十分仇恨日本人的，但是听到这么纯洁的歌曲感觉到音乐真的是没有国界的哎~~ <br/><br/>18. under the sea小美人鱼(the little mermaid)插曲,可总感觉张邵晗唱的更有活力。再听听原唱的，就知道东西方文化的差异在哪里了。 <br/><br/>19. fighter--Christina 厚重有力的嗓音穿透着我的耳膜,装饰着闪亮碎钻的眼眸冲击着我的视网膜...希望有一天,我能够成为那个fighter... 蛮有爆发力的一首歌。 <br/><br/>20. without you--mariah carey我喜欢的歌星！因为她在唱功方面显得极为细腻,而且她的声线真的是性感迷人而且非常有爆发力和感染力...~~这是高音上唯一可与i will always love you媲美的歌，下面还有一首两人合唱的，绝对体现唱功哦~~ <br/><br/>21. when you believe--mariah carey n&#39; whitney houston不多说了，任何人都唱不成这样的。 <br/><br/>22. Crying in the Rain大概算的上是欧美最具生命力的情歌之一了，这首出自民谣女歌手Carole King的作品对原来舒缓深情的作品来了一次颠覆性的改造... <br/><br/>23. never say goodbye--Hayley Westenra充满曼陀铃和竖琴声音的歌曲当中透显出一个宁静而美丽的少女形象，歌曲是从爱尔兰传统歌曲中改编过来，Hayley Westenra的声音如同丝线一般，在演唱技巧上更已达到完美的境地，而嗓音天生的优美更是让人不得不赞叹和艳羡。 <br/><br/>24. Sugar Ray&#39;s Someday。Sugar Ray(据说应该翻译作“拔丝”乐队-_-bbb)，他们的音乐风格用一个字就可以形容——Summer，他们只在夏天出片，歌儿一听就让人想起夏天——总是阳光明媚、活泼愉快。与此相反的，他们的歌词却是比较深的，那个身上有着13个纹身、英俊得完全不像个rock band主唱的Mark McGrath经常用很夸张的肢体语言在MTV中摇摆，加上十分十分正宗的传统摇滚式配器，恐怕在今天活着的乐队中找不出第二个这样的band。 <br/><br/>25. Iris-- Goo Goo Dolls清脆急促的吉他solo，John Rzeznik饱含沧桑的低沉嗓音，对世事、爱情满腹的疑问，后面的爆发，“And I don&#39;t want the world to see me, &#39;Cause I don&#39;t think that they&#39;d understand. When everything&#39;s made to be broken, I just want you to know who I am!” 这是有着无穷韵味的箴言。 <br/><br/>26. Mystical Machine Gun--Kula Shaker比较难得的是，Kula Shaker的音乐受了很多东方思想的影响，这一点同时表现在歌词、音乐和配器之中。乐队唯一真正意义上的专辑就是《Peasants, Pigs &amp; Astronauts》专辑干净的声音，迷幻的吉他，如印度梵音般的和声，充满现场感的录音，总之在当时背景下，属于绝对的异类。 <br/><br/>27. Elemental--tears for fears.其实只是主唱oland Orzab一个人而已，整张专辑所有词曲、每一轨录音(器乐、主唱、和声)全部出自这家伙一人之手(口)，真是吓了一跳(原来世界上真的有全才啊)！ <br/><br/>28. gone away--the off spring是一个比较有争议的乐队。跟99%的美国摇滚乐队一样，也是来自学校同学的组合，经过很长时间的地下活动，终于走到地上，给人留下最深刻印象就是主唱Bryan Holland的十分金属化的硬朗狂放的唱腔,歌词有着对世事无情的玩弄和嘲讽。 <br/><br/><br/><br/>29. A Question Of Lust--peche Mode很容易和“冷”这个字联系起来，冷冰冰的纯电子音乐，冷冷的唱腔，冷僻的歌词，似乎特别适合目前这个季节来听... <br/><br/>30. this is how we do it蛮欢快的一首现代英文混音dj舞曲，偶个人比较喜欢。 <br/><br/>31. boom boom boom各位爱跳舞的朋友，这就是你们的音乐，做为音乐和舞蹈的信徒，你们起床要放的音乐。 <br/><br/>32. Earth song--meachael jackson请保护大自然!~ 崇高的敬意!~ 看过mv后真的感觉心里堵堵的... <br/><br/>33. everybody dance now相信看过韩国综艺节目情书的朋友不会陌生吧~里面好多背景音乐就是用的这个，尤其是uncle shin的抖动dance甩你的双手，很简单的一个步骤，音乐炸进你的头，活着就要开心些嘛！！！顺便说一下， 我超级喜欢那个张英兰~~~~ <br/><br/>34. the day you went away--M2M是当之无愧的小甜甜咯，相信谁都不会忍心伤害这样的女生，不过歌词有点伤感，我们从来都不知道珍惜所拥有的直到永远的失去它,将如何承受这种痛苦,现在，我不得不说，我是真的真的失去了你... <br/><br/>35. when you say nothing at all--Krauss多次被评为世界最美的女声,坐拥11座格莱美奖,被无数人翻唱过... 男孩地带的也同样也是不可错过的哦！ <br/><br/>36. hero--enrique iglesias出生在马德里,有着西班牙人独有的深邃的双眸,冷峻而又性感的脸庞,富有磁性的嗓音,再加上他那令人神魂颠倒的外表... <br/><br/>37. god is a girl--groove coverage从个人角度看sweetbox和groove coverage是给我印象最深的两个女唱乐队，下面还有几首歌都是她们的，很喜欢女主唱有些慵懒而很清脆的声音,他们的风格...喜欢听这种节奏感强，比较热闹的歌曲。觉得这个乐队的风格还是挺新鲜的，也比较大众化，应该会有不少朋友会喜欢，因为大众不等于庸俗。 <br/><br/>38. she--groove coverage <br/><br/>39. can&#39;t get over you--groove coverage <br/><br/>40. 7 years and 50 days--groove coverage <br/><br/>41. encore une fois--helene segara一首抒情法语歌,哀而充满无奈的歌,你能体会到它的忧伤,也许有一天 我会离开你,途跋涉寻找真的自己也许有一天...也许有一天... <br/><br/>42. je m appelle helene--helene rolls听了首法语歌后觉得法语太美了,让人感觉说法语的人嘴上摸了奶油,...于记忆深处,要我找到简单的爱情,于我的爱情,歌词中有着淡淡的伤感... <br/><br/>43. here i am--bryan adams那是布赖恩亚当斯的作品,我想大家应该都听过他那首绝对经典的歌“( Everything I Do )吧，这个帅帅的沧桑男人的声音是谁都无法抗拒的哦。 <br/><br/>44. Everything i do--bryan adams不多说了，绝对经典中的经典。 <br/><br/>45. all that you can&#39;t leave behind--毫无疑问,U2是80年代英国最受欢迎的摇滚乐团,不过我个人只喜欢这一首，具体也说不出为什么，可能感觉声音和旋律搭配的很棒吧~~ <br/><br/>46. big big world--Emilia看上去是一个爱整洁的乖女孩,尤其在唱“Big,Big World”这样的慢歌时,她显得十分纯情而古典。目前Emilia的唱片在瑞典已卖过了3白金的数量。而首支单曲“Big,BigWorld”则成为了瑞典历史上流行速度最快的一支... <br/><br/>47. right here waiting--rachard max这是一首很经典的老歌,歌唱了刻骨铭心的爱情... 这是我曾经最爱的一首老歌,相信每个人也都听过无数遍,但依然是... <br/><br/>48. stay--williams(野蛮师姐主题曲)特别特别特别的欢快，每次不知道为了什么一心烦就不由自主想听这首歌,连我们宿舍一个平时不怎么愿意听歌的哥们也喜欢上了这首... <br/><br/>49. live forever--Oasis 是近十年来英国最受欢迎和最受评论家承认的乐队之一;live forever是我朋友推荐给我的，听过后感觉真的很不错呢... <br/><br/>50. life for rent--dido清爽的时节,清爽的女孩儿,清爽的音乐。Life for rent，把整个生命都出租出去，不属于任何人，无根地飘荡，听起来有一些伤感。 <br/><br/>51. promise don&#39;t come easy跟着CD慢慢的哼着，记不清楚是什么时候第一次听了，若有若无的思绪缠绕着自己，象梦一样。 <br/><br/>52. lonely--nana是一首黑人说唱歌曲,同时加入了R&amp;B和Blues的曲风,歌曲的当中还有女声的伴唱,旋律非常优美。不会再有第二首歌可以超越...歧视,家庭的破碎... <br/><br/>53. dilemma--kellyrowland与饶舌巨星nelly搭档演唱的歌曲，这首歌曲虽然风格老套，但仍然在全美电台创下近两个月蝉联冠军宝座的纪录。 <br/><br/>54. you took my heart away舒缓的节奏，简洁的编曲，十足的优美旋律，都展现了mltr最擅长的迷人功力。 <br/><br/>55. helene segara-encore une fois一首经典法语歌，同样将法国浓郁的浪漫气息，法国当红歌手helene segara 专辑,她的音乐和她的人一样别有风情。她的嗓音并不是十分突出，但声音中有一种魅惑迷离的特质。 <br/><br/>56. sealed with a kiss 以吻封缄，经典美国乡村音乐，一首极具浪漫色彩的老歌，叙离别情，但不伤感；道分手苦，但不低沉。饱尝相思之苦的恋人们听来，肯定别有一番滋味... <br/><br/>57. only time--enya无由的哀愁随着Only Time的歌声涌上心头。而当爱情灭绝、心泣莫名、欲盖弥彰的绝望凄清，却只有时间为唯一的目击者... <br/><br/>58. i will be missing you记得第一次听它的时候，只记得旋律很HIP-POP，直到后来无意中才知道了它的来历。于是找来下载，听，一遍又一遍。 <br/><br/>59. civil war--guns n&#39; roses在美国这样一个国度，一支摇滚乐队创作出这样一首忧国忧民(当然也可以理解成激愤)的歌曲，这不是对摇滚乐的反判，恰恰是对摇滚更好的诠释。我想，摇滚乐在国外之所以有那么高的地位正是由于国外的很多摇滚乐队有着对社会、对国家的主人精神以及对音乐的深入理解和精彩绝伦的演绎。国内呢？只有流行乐泛滥罢了，摇滚不光是非主流，几乎成末流了...悲哀啊... <br/><br/>60. sunny came home1998年葛莱美大奖获奖作品,现在已很难找得到这样动听的旋律了. <br/><br/>61. the one--Mr big每首歌曲中都有一段经典耐听的吉他SOLO。我想有这一首歌就足以流芳百世了,即使多少年以后,这首歌也会引起人们无限的共鸣。 <br/><br/>62. to be with you--Mr big几乎所有的吉他教材都可以看到这首《与你同在》，这首歌用木吉他超越了轰鸣，用随便超越了夸张，用一群拍着首合唱的小伙子超越了舞台上的超级巨星...时间总会流逝，浪漫和现实，究竟哪一个会与你同在呢？ <br/><br/>63. stop crying your heart out--oasis称不上经典，但是也总能给人一种疲倦到不想说什么的地步，如过明天我死了... <br/><br/>64. cinderella太鄙视SHE的媚日情节，所以只好听英文版的这首半糖主义，不过发现比她们唱的好听一百倍！！！ <br/><br/>65. the sound of silence是奥斯卡最佳电影《毕业生》的主题歌,是美国流行音乐大师保罗西蒙的代表...我相信，一百个人当中会有一百个人喜欢听这歌的。 <br/><br/>66. should it matter--sissel kyrkjeb我喜欢这个低调又华美的女子,淡淡的感觉，仔细听可以听出性感哦！ <br/><br/>67. stuck in my heart旋律很优美，中间有一段很完美的合声。 <br/><br/>68. utopia--sweetbox下面三首歌都是出自sweetbox的，丢失了以后心疼到现在呢，哪位哥哥姐姐能知道哪里下的到一定告诉小弟哦，谢谢咯！！！他们的歌曲都巧妙地融合Pop、摇滚音乐，行云流水的律动带出女主唱Jade戏剧性的歌声，不仅开启歌迷的想像空间，而且扣人心弦，真的不动心都不行啊... <br/><br/>69. alright--sweetbox <br/><br/>70. one kiss--sweetbox <br/><br/>71. dreams come true--ses被无数个电台做过无数次的背景电乐，旋律响起你就知道你肯定听过的... <br/><br/>72. sweet dream很喜欢的一首歌了,张娜拉长的实在是太可爱了,有条件的朋友可以去找下这个MV看下,相当不错哦~~ <br/><br/>73. back to you--bryan adams不多说了，布莱恩.亚当斯的每一首歌都那么经典... <br/><br/>74. forever and ever-because i love you。绝对好听，因为dido就是因为这首歌红的。 <br/><br/>75. Say It Isn&#39;t So--bon jovi硬汉唱的柔情歌曲也蛮感人的嘛~~ <br/><br/>76. now and forever--richard max可能大家很少听他的歌吧`~`其实他的歌真的很不错！希望能和大家一起分享啊！ <br/><br/>77. angle of mine一个很老的乐队唱的,具体名字我忘了,超好听。 <br/><br/>78. dream cranberries就是大名鼎鼎的卡百利乐队 ...这首《Dream》选自他们第一张专辑 王菲曾经翻唱过,翻唱得...我都听不出真假...可惜每次出去唱王菲的歌都感觉在糟蹋音乐哎~~ <br/><br/>79. faint--lincoln park林肯公园,乐队名字是因为每天乐队的例行练习结束回家时,他都会驾车路过林肯公园,重要的是,他们的平均年龄不过二十出头哦...他们的音乐给人蛮另类的感觉 <br/><br/>80. somewhere i belong--lincoln park节奏蛮快然后有点另类的歌。 <br/><br/><br/><br/>81. *****--meredith brooks开朗轻快的曲风很讨人喜欢，名字(妖精)是不好听了一点点，但整首歌却是有一点我行我素，特立独行并不会为任何人改变。 <br/><br/>82. westlife有一段时间,很喜欢Westlife的歌,每天在他们的歌声中吃饭，看书，入睡。 <br/><br/>83. the power of love--celion dion提起席琳迪翁(Celine Dion),大家都知道她的演唱以倾情投入而闻名于世,她的音色极具表现力,声域宽广，很有张力，最喜欢的歌曲,，完美的歌曲。 <br/><br/>84. a new day has come--celion dion她以满腔的爱与希望蕴育出另一个炽热的生命，她歌唱生涯中第八张英文专辑「a new day has come真爱来临」，在细腻悠扬、情感丰沛的歌声中，感受到旺盛的生命能量，热烈地传送到世界每个角落。 <br/><br/>85. more than word*--**treme被翻唱了无数遍的歌，只用一把木吉他伴奏，但他高贵的气质却随着真情流露，胜过了有着华丽织体的热闹声音，当然，这首歌最迷人的，还是天衣无缝的合声部分--那轻轻的，起伏的，隐现并滑翔而逝的伴唱，只有真正胸怀开阔，品位脱俗的人才能这样写情歌，也只有真正温柔可爱的人才值得被这样的歌声围绕。 <br/>86. killing me softly with his song--roberta flack 由于年代久远，这首歌不可避免地带上了留声机时代遗留下来的贵族味道，一遍遍地重复“killing me softly with his song”，她已经醉了，已经无力逃脱了，她更象是自言自语，捧着胸口喃喃自语而脑子里眼睛里全是他全是他全是他啊... <br/><br/>87. can you feel the love tonight--Elton joh工整清晰的吐字，彬彬有礼的抒情，不紧不慢的钢琴，只能有那些拥有严谨文化传统的中老年英国人来展现。 <br/><br/>88. lemon tree--fool\\&#39;s gardon5个得国小伙子组成的“傻子花园”乐队，可根本没想过要写一首叫做《柠檬树》的英文歌，给一个台湾女孩子(苏慧伦)翻唱成中文版，在这个东方大国漂起！“ i wonder how, i wonder why, yesterday you tell me about the blue blue sky...” <br/><br/>89. vincent--don mclean这位歌词有着诗一样已经的青年为人了精神殉道者，荷兰后印象派画家，伟大的疯子文森特梵高献上了感人的一曲，这首歌唱到了艺术家的孤独和世人的不义，唱到了崇高的痛苦和爱，唱到了内心矛盾，唱到了神，宁静和永远... <br/><br/>90. one love--bob marley他用歌声带给人快乐，并为公正而斗争，这样的一生足以使任何一位歌者在死神面前保持尊严，牙买加总统参加了他的葬礼。 <br/><br/><br/>91. careless whisper--wham威猛是中国改革开放以来最早接受的西方流行音乐，现在听来真的是别有一番滋味。 <br/><br/>92. don&#39;t cry for me, argentina--maonna她卖弄性感，出售神圣？可是她并不比任何人虚伪，当她撕开人们的虚伪时，我们听到的是一副越唱越好的嗓子，和一种越来越真实的性格。阿根廷前总统夫人依维塔确有一生传奇的经历--寒门女子最终身居国母，用圣洁的博爱感动了整个国家，她为穷人所做的一切，她的真诚和无私，在歌声得到了永生。 <br/><br/>93. two steps behind--defleppardKB海峡拥有高超的不鲁斯吉他技巧，低沉嗓音的半说半唱，成熟睿智的歌词，以及难以言表的宽厚情怀，整个八十年代，不知多少人依*他们的音乐，完成了由青春向成年的过渡，不知多少人被那悠远延绵的意境带走，超脱于现实的无聊纷争... <br/><br/>94. no more i love you--annie lennox此人于1995年推出了专辑“Medusa”(《美杜莎》)美杜莎，是希腊女神中最狰狞古怪的一个，把超人的魔力给了这个歌手，让她有力，跌宕起伏，在我们想象之上拖曳高音，延续着从唯美派文学到新古典音乐的影响，也徘徊在艺术和商业之间，沟通着尘世的想象。 <br/><br/>95. my heart will go on--celine dio*我深信，这是即使小学生也听过而且非常喜欢的一首歌。 <br/><br/>96. ***sing you now--meachael bolton这个男人具有轻易征服听众的才能，曾是美国电台播放给“面的”司机听的最佳人选，可以用最直接的方法来美化我们的听觉，而且，我们根本无须费心去听，只要跟着，哼着，忙自己的，快乐就产生了。 <br/><br/>97. yesterday once more唱者卡伦卡彭特被称为美国的邓丽君，当她死于神经性厌食症时，人们突然发现，在所有那些包装精良，华美诱人的热门金曲中，可能只有卡伦卡彭特的声音值得被收藏，她把悠长的旋律唱得光芒耀眼，即使怀旧，都充满了对生活的感恩，她的歌声始终在呼唤人们热爱的本能。 <br/><br/>98. goodbye--air supply 80年代最受欢迎的一对组合,他们高低的配合优美的歌词动听的旋律令人难以抗拒。喜欢这样凄美华丽的声音，唱出那句痛彻心肺的“There&#39;s no other way than to say goodbye” <br/><br/>99. your song--Elton john平滑流畅的钢琴和Elton john淡淡柔情的演唱，似乎就是和爱人相拥坐在黄昏中的木屋顶，看远处夕阳西下，与世上最最甜美的双眸对望，任似水年华静静流淌，这时不用很多钱，不用大房子，只要有一首由爱人所唱，但却只属于自己的歌就足够了... <br/><br/>100. hotel california--Eagles我喜欢那充满磁性的嗓音，木吉他弹奏出简单幽怨的调子外，我想，喜欢它的另一个理由便是对回忆的孤独感受。这样的曲子，适合一个人听，一遍又一遍地重听，随乐韵飘荡到广袤却寂寥的 ]]></content:encoded>
+      <wp:post_date>2010-10-20 10:10:01</wp:post_date>
+      <wp:post_date_gmt>2010-10-20 08:10:01</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[生命的意义 ]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/19596102</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/19596102#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-19596102</guid>
+      <pubDate>Thu, 21 Oct 2010 06:58:49 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->生活，就是理解。<br/>生活，就是面对现实微笑，就是越过障碍注视未来。<br/>生活、就是自己身上有一架天平，在那上面衡量善与恶。<br/>生活，就是有正义感，爱真理，有理智，就是始终不渝、诚实不欺、表里如一、心智纯正，并对权利与义务同等重视。<br/>生活，就是知道自己的价值，自己所能做到的与自己所应该做到的，<br/>生活，就是理智。<br/>　　　　　　　　——雨　果<br/><br/><br/>　　人只有在过精神生活的时候才是自由的。对精神而言，死亡是不存在的，因此过精神生活的人不再受死的束缚。<br/>　　　　　　　　——斯宾诺莎<br/><br/><br/>　　我们决不可忘记那些至高的和永久的价值，惟有它们，生活才有意义，我们应当尽可能把它们作为一份遗产传给我们的子孙，而这份遗产该比我们从自己的父母手里接受下来的那一份还要更加纯净，更加丰富。<br/>　　　　　　　　——爱因斯坦<br/><br/><br/>　　如果每个人都知道自己能干些什么，那末生活会变得多么美好！因为每个人的能力都比他自己感觉到的大得多。他会变得比自己想象的更为勇敢；他会变得更坚韧、更有力、更能适应环境。<br/>　　　　　　　　——格拉宁<br/><br/><br/>　　生命是一去不复返的！眼前保得了的切莫要放手；一放手，你就永远找不回来。死使你变成空人，就像那些树木掉叶子后空枝一样；终于越来越空，连你自己也凋谢了，也落了下来。<br/>　　　　　　　　——高尔斯华绥<br/><br/><br/>边地头　有人问一位智者，什么是生命中最重要的时间、人与事。他说：最重要的时间是现在，因为人在此刻有力量控制自己；最重要的人是现在与你交涉的人，因为谁也不能保证你还会与世上的任何人相遇；最重要的事是爱这个人，因为每个人来到世上的惟一目的就是去爱别人。<br/>　　　　　　　　——托尔斯泰 <br/><br/><br/>　　我绝不认为生到世界上来，在世界上过这样的生活是悲哀的事，因为我们有理由相信自己生来是有某种贡献的。而当死来临的时候，我便像走出客栈那样踏出人生、舍弃生命；因为我们知道我们在世上的存在只有一个过程、是暂时的——这是我们无法逃避的命运。<br/>　　　　　　　　——西塞罗<br/><br/><br/>　　死与空虚比较还没有那么可怕，如果有比较空虚的东西。无论生或死都与你无涉：生，因为你还在；死，因为你已经不在了。<br/>　　没有人在他的时辰未到之前死去。你所留下来的时间，与你未生前的时间一样不属于你，而且亦与你毫无关系。<br/>　　你的生命尽处，它亦尽在那里。生命的用途并不在长短，而在于我们怎样利用它。许多人活的日子并不长，却活了很长久。趁你在的时候留意吧。你活得充分与否，全在你的意志，而不在于年龄。 <br/>　　　　　　　　——蒙　田<br/><br/><br/>　　对永生的信仰不可能从随便什么人那里都能得到，人不可能说服自己相信永生。为了具有永生的信仰，就应当让永生存在。而为了让永生存在，就应当理解自己的生命存在于不可能死的那个东西里。因此，只有完成自己生命事业的人，只有在这个生命中建立可他身上容纳不了的与世界的新关系的人才能相信未来的生命。 <br/>　　　　　　　　——托尔斯泰<br/><br/><br/>　　人的生命是短暂、脆弱的，但只要活着就应该让他有意义、有光彩，就应该以坚强的意志而奋斗。生命的意义不在于寿命的长短，而在于他的内容和质量。<br/>　　　　　　　　——伊 夫<br/><br/>　　生命的意义并不是你偶然的发现，就像发现迹找到宝藏。生命的意义要在生活中去体验。你根据以往的经历创造意义，你用情感和执著成就意义，你借人类世代相传的人生经验来塑造意义，依照你的天分和理解力来形成意义，你的信念构筑意义，你所热爱的人和事产生意义，你的价值观建造意义，生命的全部都在其中。是你把各种因素融合起来形成你的人生。让生活变得既有尊严又有意义吧！如果人生能这样过，世俗的成败就无关紧要了。<br/>　　　　　　　　——约翰·加德纳<br/><br/><br/>　　生命的多少用时间计算，生命的价值用贡献计算！<br/>　　　　　　　　——裴多非 <br/><br/><br/>　　一个人不能为了另一个人而活着，包括生活、情感等，也就是说，一个生命的存在不能依附于另一个生命，因为只有在实现独立人格情况下，生命存在的意义才会有真正的意义。<br/>　　　　　　　　——画云 <br/>]]></content:encoded>
+      <wp:post_date>2010-10-21 08:10:49</wp:post_date>
+      <wp:post_date_gmt>2010-10-21 06:10:49</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[If you played these games, you are very clever]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/19596282</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/19596282#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-19596282</guid>
+      <pubDate>Thu, 21 Oct 2010 07:42:21 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Fgames%2F17.swf&amp;height=375&amp;width=620" width="626" />
+<br/><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Fgames%2F14(1).swf&amp;height=375&amp;width=620" width="626" />
+<br/><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Ffiles%2F14.swf&amp;height=375&amp;width=620" width="626" />
+<br/><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Fgames%2F12.swf&amp;height=375&amp;width=620" width="626" />
+<br/><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Fgames%2F12(1).swf&amp;height=375&amp;width=620" width="626" />
+<br/><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Fgames%2F11.swf&amp;height=375&amp;width=620" width="626" />
+<br/><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Fgames%2F10.swf&amp;height=375&amp;width=620" width="626" />
+<br/><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Fgames%2F10(1).swf&amp;height=375&amp;width=620" width="626" />
+<br/><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Fgames%2F8.swf&amp;height=375&amp;width=620" width="626" />
+<br/><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Fgames%2F7.swf&amp;height=375&amp;width=620" width="626" />
+<br/><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Fgames%2F7(1).swf&amp;height=375&amp;width=620" width="626" />
+<br/><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Fgames%2F4.swf&amp;height=375&amp;width=620" width="626" />
+]]></content:encoded>
+      <wp:post_date>2010-10-21 09:10:21</wp:post_date>
+      <wp:post_date_gmt>2010-10-21 07:10:21</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[leona lewis]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/19942172</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/19942172#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-19942172</guid>
+      <pubDate>Tue, 26 Oct 2010 08:51:36 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Fplayer.youku.com%2Fplayer.php%2Fsid%2FXMjE3NjcwNjMy%2Fv.swf&amp;height=375&amp;width=620" width="626" />
+<br/>Leona Lewis Nude (born 3 April 1985) is an English singer-songwriter and winner of the third series of the popular television talent show &quot;The X Factor,&quot; which is like &quot;American Idol,&quot; but with a shroud of mystery surrounding it.<br/><span class='img'><img alt='' src='http://3.bp.blogspot.com/_Z3AfIG0atJw/Su0K_njZiaI/AAAAAAAAAH0/TmRUgU4M3Ng/s400/leona-lewis_03.jpg' /></span><br/>Her debut single, &quot;A Moment like This&quot;, was released in December 2006, breaking a world record after it was downloaded fifty thousand times within thirty minutes. Kelly Clarkson was NOT HAPPY! Her debut album, Spirit, was released in November 2007, and became the fastest selling debut album ever in both the United Kingdom and the Republic of Ireland. It is claimed Leona Lewis Pictures will be the first winner of a major television talent show in both the UK and U.S. to be given a major global launch with the release of the album. Reuben Studdard was said to weep, and then console himself with a tub&#39;s worth of Peanut Butter sandwiched between two Oreo Cookie Pizzas.<br/>Leona always wanted to get into music and at the age of five her parents sent her to the Sylvia Young Theatre School, despite fearing it would cripple them financially.]]></content:encoded>
+      <wp:post_date>2010-10-26 10:10:36</wp:post_date>
+      <wp:post_date_gmt>2010-10-26 08:10:36</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>leona</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:comment>
+        <wp:comment_id>1</wp:comment_id>
+        <wp:comment_author>Yushab</wp:comment_author>
+        <wp:comment_date_gmt>2010-10-30 11:10:16</wp:comment_date_gmt>
+        <wp:comment_date>2010-10-30 13:10:16</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[Looks fantastlc!]]></wp:comment_content>
+      </wp:comment>
+      <wp:comment>
+        <wp:comment_id>2</wp:comment_id>
+        <wp:comment_author>flow1058424266</wp:comment_author>
+        <wp:comment_date_gmt>2010-10-31 09:10:13</wp:comment_date_gmt>
+        <wp:comment_date>2010-10-31 10:10:13</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[yeah]]></wp:comment_content>
+      </wp:comment>
+
+    </item>
+    <item>
+      <title><![CDATA[Where'd You Go ，I Miss You]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/21695542</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/21695542#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-21695542</guid>
+      <pubDate>Sun, 14 Nov 2010 15:05:16 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Fplayer.youku.com%2Fplayer.php%2Fsid%2FXMjM3MTMxMDg%3D%2Fv.swf&amp;height=375&amp;width=620" width="626" />
+]]></content:encoded>
+      <wp:post_date>2010-11-14 16:11:16</wp:post_date>
+      <wp:post_date_gmt>2010-11-14 15:11:16</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>whered-you-go-i-miss-y</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/21982992</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/21982992#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-21982992</guid>
+      <pubDate>Thu, 18 Nov 2010 12:21:38 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->i like you:lol: ]]></content:encoded>
+      <wp:post_date>2010-11-18 13:11:38</wp:post_date>
+      <wp:post_date_gmt>2010-11-18 12:11:38</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>i-like-you-lol</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/21994772</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/21994772#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-21994772</guid>
+      <pubDate>Thu, 18 Nov 2010 16:45:00 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->new opera ,i like]]></content:encoded>
+      <wp:post_date>2010-11-18 17:11:00</wp:post_date>
+      <wp:post_date_gmt>2010-11-18 16:11:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>new-opera-i-like</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23088062</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23088062#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23088062</guid>
+      <pubDate>Thu, 9 Dec 2010 02:03:55 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->I will try to use two languages to write my blog:) :) :) ]]></content:encoded>
+      <wp:post_date>2010-12-09 03:12:55</wp:post_date>
+      <wp:post_date_gmt>2010-12-09 02:12:55</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>i-will-try-to-use-two-languages-to-write-my</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23090242</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23090242#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23090242</guid>
+      <pubDate>Thu, 9 Dec 2010 03:14:47 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><a href="http://www.ubuntuhome.com/5step-mac.html" target="_blank">http://www.ubuntuhome.com/5step-mac.html</a>]]></content:encoded>
+      <wp:post_date>2010-12-09 04:12:47</wp:post_date>
+      <wp:post_date_gmt>2010-12-09 03:12:47</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>http-www-ubuntuhome-com-5step-mac-html</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:comment>
+        <wp:comment_id>3</wp:comment_id>
+        <wp:comment_author>saint2001</wp:comment_author>
+        <wp:comment_date_gmt>2010-12-13 09:12:37</wp:comment_date_gmt>
+        <wp:comment_date>2010-12-13 10:12:37</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[hi happy to meet you]]></wp:comment_content>
+      </wp:comment>
+      <wp:comment>
+        <wp:comment_id>4</wp:comment_id>
+        <wp:comment_author>flow1058424266</wp:comment_author>
+        <wp:comment_date_gmt>2010-12-15 04:12:35</wp:comment_date_gmt>
+        <wp:comment_date>2010-12-15 05:12:35</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[happy to meet you too]]></wp:comment_content>
+      </wp:comment>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23165612</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23165612#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23165612</guid>
+      <pubDate>Fri, 10 Dec 2010 14:11:33 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>15</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->怀疑自己有强迫症，很多事，明明想去做，但是总是想理由的不去做:cry: ]]></content:encoded>
+      <wp:post_date>2010-12-10 15:12:33</wp:post_date>
+      <wp:post_date_gmt>2010-12-10 14:12:33</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23236572</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23236572#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23236572</guid>
+      <pubDate>Sun, 12 Dec 2010 05:27:28 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>16</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->别以为我不记得，我只是将它藏在心里，别以为我不在乎，只是我害怕我的在乎有伤害]]></content:encoded>
+      <wp:post_date>2010-12-12 06:12:28</wp:post_date>
+      <wp:post_date_gmt>2010-12-12 05:12:28</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23401052</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23401052#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23401052</guid>
+      <pubDate>Wed, 15 Dec 2010 04:44:08 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>17</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->很冷]]></content:encoded>
+      <wp:post_date>2010-12-15 05:12:08</wp:post_date>
+      <wp:post_date_gmt>2010-12-15 04:12:08</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[INSECTS]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23413652</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23413652#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23413652</guid>
+      <pubDate>Wed, 15 Dec 2010 10:47:49 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>18</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><a href="/LaThuong/albums/showpic.dml?album=4742802&amp;picture=71535402" target="_blank"><span class='img'><img alt='' src='http://files.myopera.com/LaThuong/albums/4742802/090603171333794624[1' /></span>.jpg]</a> ]]></content:encoded>
+      <wp:post_date>2010-12-15 11:12:49</wp:post_date>
+      <wp:post_date_gmt>2010-12-15 10:12:49</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>insects</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23441072</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23441072#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23441072</guid>
+      <pubDate>Thu, 16 Dec 2010 03:06:11 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>19</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->it&#39;s only after we&#39;ve lost everything ,that we&#39;re free to do anything<br/>只有我们失去了一切，我们才能随心所欲的做事情]]></content:encoded>
+      <wp:post_date>2010-12-16 04:12:11</wp:post_date>
+      <wp:post_date_gmt>2010-12-16 03:12:11</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>its-only-after-weve-lost-everything-that</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23523982</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23523982#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23523982</guid>
+      <pubDate>Sat, 18 Dec 2010 04:07:57 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>20</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->四级，希望过了，然后六级，愿幸运陪伴我]]></content:encoded>
+      <wp:post_date>2010-12-18 05:12:57</wp:post_date>
+      <wp:post_date_gmt>2010-12-18 04:12:57</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23650042</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23650042#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23650042</guid>
+      <pubDate>Tue, 21 Dec 2010 11:22:42 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>21</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->Is a natural fear of death？]]></content:encoded>
+      <wp:post_date>2010-12-21 12:12:42</wp:post_date>
+      <wp:post_date_gmt>2010-12-21 11:12:42</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>is-a-natural-fear-of-death</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:comment>
+        <wp:comment_id>5</wp:comment_id>
+        <wp:comment_author>anonymous</wp:comment_author>
+        <wp:comment_date_gmt>2010-12-30 10:12:47</wp:comment_date_gmt>
+        <wp:comment_date>2010-12-30 11:12:47</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[Anonymous writes:<br/><br/>fuk]]></wp:comment_content>
+      </wp:comment>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23658742</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23658742#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23658742</guid>
+      <pubDate>Tue, 21 Dec 2010 15:01:47 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>22</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->working in the air ，google air ，qq air :) ]]></content:encoded>
+      <wp:post_date>2010-12-21 16:12:47</wp:post_date>
+      <wp:post_date_gmt>2010-12-21 15:12:47</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>working-in-the-air-google-air-qq-air</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23832332</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23832332#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23832332</guid>
+      <pubDate>Sun, 26 Dec 2010 07:15:12 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>23</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->damn it,win7 ]]></content:encoded>
+      <wp:post_date>2010-12-26 08:12:12</wp:post_date>
+      <wp:post_date_gmt>2010-12-26 07:12:12</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>damn-it-win7</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23862142</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23862142#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23862142</guid>
+      <pubDate>Mon, 27 Dec 2010 04:32:11 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>24</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->I like English ,but I fear English,I fear make mistakes in grammar]]></content:encoded>
+      <wp:post_date>2010-12-27 05:12:11</wp:post_date>
+      <wp:post_date_gmt>2010-12-27 04:12:11</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>i-like-english-but-i-fear-english-i-fear-make</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23885482</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23885482#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23885482</guid>
+      <pubDate>Mon, 27 Dec 2010 16:27:42 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>25</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->happy birthday to me:) ]]></content:encoded>
+      <wp:post_date>2010-12-27 17:12:42</wp:post_date>
+      <wp:post_date_gmt>2010-12-27 16:12:42</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>happy-birthday-to-me</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[the day after tomorrow ,is the last day of ...]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23942582</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23942582#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23942582</guid>
+      <pubDate>Wed, 29 Dec 2010 04:01:15 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>26</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->the day after tomorrow ,is the last day of 2010:happy: ]]></content:encoded>
+      <wp:post_date>2010-12-29 05:12:15</wp:post_date>
+      <wp:post_date_gmt>2010-12-29 04:12:15</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>the-day-after-tomorrow-is-the-last-day-of</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/23999782</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/23999782#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-23999782</guid>
+      <pubDate>Thu, 30 Dec 2010 11:44:11 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>27</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->google search:&quot;cloud&quot; ,and you&#39;ll find a game named &quot;cloud&quot; ,I like it]]></content:encoded>
+      <wp:post_date>2010-12-30 12:12:11</wp:post_date>
+      <wp:post_date_gmt>2010-12-30 11:12:11</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>google-search-quot-cloud-quot-and-youll-find</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/24006682</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/24006682#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-24006682</guid>
+      <pubDate>Thu, 30 Dec 2010 15:19:36 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>28</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->who am I ? ]]></content:encoded>
+      <wp:post_date>2010-12-30 16:12:36</wp:post_date>
+      <wp:post_date_gmt>2010-12-30 15:12:36</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>who-am-i</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/24007572</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/24007572#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-24007572</guid>
+      <pubDate>Thu, 30 Dec 2010 15:43:07 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>29</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--> I am happy because &quot; i lost someone who never love me and she lost someone who really love her &quot;  :) ]]></content:encoded>
+      <wp:post_date>2010-12-30 16:12:07</wp:post_date>
+      <wp:post_date_gmt>2010-12-30 15:12:07</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>i-am-happy-because-quot-i-lost-someone-who</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/24029642</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/24029642#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-24029642</guid>
+      <pubDate>Fri, 31 Dec 2010 04:23:53 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>30</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->some people say &quot;if a man meet you today and stay together with you ,it means that the man want to have you accompany next year&quot; :heart: ]]></content:encoded>
+      <wp:post_date>2010-12-31 05:12:53</wp:post_date>
+      <wp:post_date_gmt>2010-12-31 04:12:53</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>some-people-say-quot-if-a-man-meet-you-today</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/24057952</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/24057952#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-24057952</guid>
+      <pubDate>Fri, 31 Dec 2010 16:32:15 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>31</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->happy new year]]></content:encoded>
+      <wp:post_date>2010-12-31 17:12:15</wp:post_date>
+      <wp:post_date_gmt>2010-12-31 16:12:15</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>happy-new-year</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[goodbye 2010]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/24064062</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/24064062#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-24064062</guid>
+      <pubDate>Fri, 31 Dec 2010 19:13:48 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>32</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->今天，新的一年来到了，想想2010，有很多很多的记忆，真想全部记下来，但是留恋过去是不好的，我更应该向明天看齐！<br/>这或许是我2010年唯一一篇公开的日志吧。<br/>2010年，最后几天不得不说是我度过最不好的日子，尤其是今天。<br/>先从昨天（2010最后一天）开始，昨天过的确实很不顺，要平常的度过我想2010也不会有什么遗憾吧。前天晚上睡的很迟，为的是昨天迟起，确实做到了，起来之后简单的洗漱，吃了点就去上课了，这应该是大学最后一堂英语课了吧，和以往一样，60多人的班级仍只有部分人去了，比以往能多几个吧。课上，没有什么的特别的，直到下课老师说照相我才意识到这是最后一堂课了，想想这学期，我来到一个新的班级，老师也是新老师，还没怎么接触，就要分手，也许以后再也见不着面了，有点伤悲吧。<br/>下午实验考试，我知道我不会，我也知道我不会看，然后到考试我的确什么都没看带本书去了，在一个班里作为一个特殊的个体存在，很多事都会不顺，一学期下来，班里50人，我就认识少数几个女生和十几个男生，虽说我不喜欢社交，但是这也出乎我的意料。（到了新班级，同学在一起的唯一机会就是每周三节的专业课和2节实验课，即使在这些时间，也有人不上课。班里仅有的两次班级活动，一次我不知道，一次因课没去。）继续说考试的事吧，我特殊，学号排在最后，实验考试是分批考，我最后一批，和几个女的一起考，貌似只认识一个，考试的结果是：我不会做，但是我尝试着做了，我没抄，因为我对我的结果还抱有意一丝希望。考完后回宿舍，风还是那么大，那么狠狠的吹着。<br/>回到宿舍，下载了两夜的电锯惊魂7终于下载好了，可是电脑非得不配合，装了三个播放器，一个播起来卡（别的电影都没事），一个干脆找不到快捷方式了，没办法打开，还有一个怎么都不支持字幕，总是显示乱码，在网上找了几种解决办法，一一试过都不行，finally，那个播放器崩溃了，再也打不开了。<br/>鉴于这种情况，我新建了一个电脑账户，一切问题貌似解决了，安心的看起了电锯惊魂7，还有30分钟结束时，隔壁宿舍的同学进来了，我没怎么注意，直到他突然从椅子上掉下去，躺在地上睡着了，手里还拿着半跟点着的烟。面对这么一个醉鬼，我确实不知道怎么办了，先掐灭烟头，想把他弄起来坐着，发现我确实很弱，非常弱，以前的种种锻炼在他面前只能说浮云。我还是坚持镇静的看我的电影，没看多久，室友回来了，这才勉强的把同学扶到垫子上躺着，盖了个被子，我又可以安心的看电影了，老天保佑我平安的看完了电影。<br/>接着开始装备我的新电脑账户吧，要想把一个未加工的系统默认界面装备成以前那样，确实不容易，还得转移以前账户所有的资料，仅仅移动资料还不够得一个一个文件的修改文件所有组和权限。。during this， 那醉鬼出状况了，不时的说这说那，真有点醉的味道，对于醉了的人应该特别照顾，这点我还是知道的，他一出声，我就过去看看，就这样，持续一个小时，我几乎什么没干，或者说，还干了错事，以前账户里有些日记，电子书之类的忘了复制过来，然后直接删除那账户了，很悲剧，虽说我只最近写了十几篇，可是那是我想写而写的，是有目的的，，，，悲剧，昨天，就是那么不顺，也许是我多想了，但是，我确实觉得很不顺。<br/>然后前天吧，基本没事，天奇冷，中午想吃点热的，然后要了一份混沌，加一份烧卖，7.5.够贵的，差点没吃完，吃完后实在柰不住困觉，一觉就睡到3点，期间，王的老同学在宿舍玩，那声音好大，还好我练就了一身听摇滚音乐能睡着的本领，坚持了躺了四小时，然后去听讲座，面对一群大一的，我很是不爽。周四晚上，做了很久以来最强大的事，从6点到快12点没动的坐在椅子上，那可是真实的六个小时，12点去上厕所，才发现站不稳了，腿疼。<br/>周三，是我这学期最讨厌又不讨厌的一天，周三上午没课，我可以睡到1点再起，可是下午有我最讨厌的模电，还是一个必须去的课。<br/>周二，it’s my big day！my 19-year-old birthday。一年前，她们说，人的阴历生日和阳历生日每隔19年会重逢一次，那天，确实是，11.23=12.28。多么好的一天，我真正的19了。那天0点，我说我今天要24小时不睡觉，睁着眼过完这个生日，我没做到，但是差点做到。熬夜看了部电影，然后复习一门考试，到早上7点，实在是坚持不了了，睡了，早上的听力翘了，直接睡到下午考试，考试还算顺利，虽然一夜的复习都没用上，只要考试没事，一切都可以忽略。很早之前，我说我19的生日不过，我是没过，只有几个人说了生日快乐，我在心里说过。<br/>再之前，记得的就不多了。<br/>不过四级那点事我还是记得的，这是最裸的一次考试，裸到我连考试规则都不知道，带着蓝色的笔去考试了，还好热心人借我一只黑笔，要不我真是未考先挂了。四级之前，人人都在说四级，四级对我来说已经成了一个词，就像网络名词一样，仅仅是词。每次我想看英语，都是打开电脑，打开熟悉的人人网，看着同学的一举一动，同时打开qq，等着我的网友。<br/>四级的第二天，是我爸的生日，我忘记了，也许是四级影响，我忘的一干二净。那么彻底，手机上的日程安排也没通知我。<br/>四级的第三天，我想了很多，我应该放弃人人网了，人人上的东西太多了，太不实了，看看我在人人上的痕迹，只有自己写的3篇日志，转的不到10篇的日志，分享的20几个链接，n多登陆奖励，还有每天必发的心情。。。除了这些，我确实找不到别的，而每天我至少会在人人上花一个小时。我果断的领取了很多登陆奖励，完成了我的许诺，送给她一些礼物。然后，goodbye ，renren，or ，never goodbye。<br/>时间往前推移，考四级前些天，选修课全部结课，两门比较喜欢的选修都没有考试，很好，轻易的就拿到了学分，还有两个，得写论文，一个三千字，一个没要求。在我爸和百度的帮助下，3000字论文花了4小时完成。说实话当时没注意，后来写第二篇论文时才发现，那个要求至少写3000字的论文，我写了将近24000字，汗，估计老师也会郁闷一小会吧。<br/>第二篇论文在开课时老师就说了：who am i？（通过学习认识家文化，了解自己）开始觉得这个问题应该不难，到写的时候才知道什么是所谓的人生三大问题（人从哪来，到哪去，我是谁？）之一！完全不知道从哪里开始写，在时间的逼迫下，开笔了，也不知道到底怎么写，就讲了从小到大记忆深刻的一些故事，然后一个总结：我生活在世上总会有用的，这就是我人生的意义。。<br/>前几天，一个女同学说她电脑慢，让我看看，然后我们就在学校小高级餐厅碰面了，如我所料，吃饭时候气氛很尴尬，我也不知道说什么，就那样半个小时一句话不说的度过了。之后，给她看电脑，还聊了起来。我的总结是，以后多接触女的吧，哈哈，哈哈。。。<br/>对了，给小豆过生日，生平第一次给同学过生日，玩的很开心，虽然有点狂，弄得我没衣服穿，不过还是不会忘记那晚，我不会忘记的，不会<br/>校园10佳歌手比赛，去年的不同时间，同样的比赛上，我遇见了两个大学以来最早认识的女同学，也许在别人看来没什么特殊，但我就喜欢将这看为特殊，大一有段时间上课一直和他们混在一起，习惯的听他们聊天，吃零食。。而估计以后没机会了吧。。<br/>写到这里，不知道写什么了。。。。。睡觉吧，明天继续。。<br/>]]></content:encoded>
+      <wp:post_date>2010-12-31 20:12:48</wp:post_date>
+      <wp:post_date_gmt>2010-12-31 19:12:48</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>goodbye-2010</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[goodbye 2010（ part 2）]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/24179522</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/24179522#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-24179522</guid>
+      <pubDate>Mon, 3 Jan 2011 21:30:29 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>33</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->这两天元旦，真好，没课，可以一直宅着，不过我确实宅到家了，一天只吃一顿饭，睡很多小时，其余时间都在电脑旁。<br/>本来打算前天写这个的，可是一直没状态，前两天宿舍就我一个人，那么好的时光全部留给玩了，开大音响听歌，看恐怖电影，感觉很棒。<br/>现在继续吧，虽然很累了，不过有音乐陪伴。2010年，我的感觉就是几乎没什么收获。<br/>大一第二学期，大概就是2010年开始没多久吧，我记得当时我把我的电脑给了别人，打算到学校新买，原来计划是等i系列处理器发展再成熟些，价格降些再买，后来发现我没电脑的生活是过不了的，开学第一周我就借了基本书，感觉都很喜欢，希望能看完，结果是几乎没心情看，勉强花了一个月时间看完一本。大多数时间都是在用手机聊天。<br/>最后在几周时间内，快速的买了电脑，当初向家里要钱时确实没想到家人想都没想就问要多少。有了电脑，按照原计划，学习flash，确实学了些，简单的用法，到后来到flash动作时，觉得有些难，就不怎么看了，然后很多时间是继续玩电脑，装各种不同的系统玩。<br/>大一有一次偶尔知道了ubuntu系统，后来才慢慢的了解到了windows外的那片天空，并且喜欢上了他。<br/>pc安装mac系统，不是稀奇的事，我一直也想试试，开始比较失败，去网吧下载6.5gb的超大系统，下了三次才下载好，后来刻盘，失败两次。最后终于刻好盘了，发现我那是正宗的mac盘，只能在mac上用，普通pc得用破解版，或者自己破解，那张原版mac盘算是没用了。按照网上说的，我试了很多种办法安装，都以失败告终。最后决心不装了，当时都快期末了，得安心复习了。<br/>放假前一个月，我连了校内50元的网，可以不限时不限量的上网了，当时我只记得我是疯狂的用pps看电影，然后整夜的不关机下载东西，有一天看到一篇关于linux发行版的文章，里面介绍了世界上最华丽的linux，opensuse，于是想尝试一下，就花了两天时间下载了，然后装了，玩了一段时间，觉得不好，遇到一点问题就得重新装，很费事。<br/>2010年4月，ubuntu10，04发行了，我专门下载了64位的dvd，也是玩，最后还是删了，没有网络的ubuntu几乎就不能用。<br/>电脑就在我这样反复装系统的时候疯了，终于有一天由于我错误操作，磁盘分区表错误了，然后一次性两个磁盘没了，用了很多种办法都不行，只好格式化了，损失的所有电影和部分英语，部分学习资料。<br/>之后就没怎么动电脑了，可是还是再次将一个盘弄坏了，就在高考那几天。那个盘里有我所有照片，包括壁纸和高中大学所有的。无奈，我花了一夜时间用磁盘工具易事恢复那些照片，挽回了一部分，还有一部分丢了。<br/>自那次之后，我对资料安全性就比较在意了，至少到现在没出过同样地事。<br/>大一下学期，开学打算辅修一个专业，但是去咨询了一下，很麻烦，而且貌似只有我一个辅修那个，就决定先不辅了。后来，听说这学期可以转专业，于是就报了名，当时对转专业的什么事项都不太清楚，通过姚知道了很多。<br/>转专业考试前几周，学委通知考试，只考英语和数学，听了那消息我确实很高兴，没有专业课考试，我就花了些天看了看高数，英语一点没看，我对英语一直是那态度，考试什么的从来不看，考完试有点沮丧，英语听力没做好，高数有一些题没做，但是最后考试结果出来时，我通过了，应该是老天助我吧，或者说没人和我竞争转专业，之后有个转专业面试，我也顺利通过。就这样，我转专业成功。<br/>上学期，班里也组织了很多活动，写给未来自己的一封信，高考志愿者。<br/>高考志愿者，那两天很辛苦，一天都站在外面，晚上回去还得收拾电脑，不过那段时间值得记忆。站在外面看别人高考确实是第一次，我感受到了很多。<br/>上学期没怎么聊天，可能是一直在忙着别的事，或者和某人有了隔阂。<br/>上学期最不能忘的就是差点挂科。到期末了，大家都忙着复习，我却怎么都不想看，可能是因为要转专业了，觉得现在考的学分没有什么意义。然后他们都说看那干什么，就确实没看了（除了英语数学），到最后一门了，自然地理，只剩两天时间，我还是看了，通宵看，划了半个本子，到考试那天，我记得是下午，班服刚做好，于是穿着班服去考试，天不助我，我在第一排，想抄都没办法，夹着对地理的恐惧心理，考砸了，有些名词解释明明是看过的，可是就是不会，好吧，完了。<br/>就这样带着遗憾了了那学期。<br/>夏天回家，不是件易事，那次是一个人回，从北京走，就在放假前一天，宿舍停电了，而且走的只剩我一个人，刚好回家前天晚上他们去夜猫，我就跟着去了，唱了半夜，嗓子有点哑了，第二天，早早的就坐车去了火车站，等了两小时，上了火车，到了北京，第一件事是找吃的，那么大个地方就找到了个麦当劳，吃好了，向北京西站出发，早查好可以坐公交直达，于是找站盘，愣是没找到，问别人说是在西面那里有个车站，我就提着很重的包往西走，走了半小时发现不对，没车站，我却是快崩溃了，那天北京刚好还是晴。继续往西走了会，看到站盘了，去看了看，发现我从北京站走到了下一站。整整一站公交路线呐！有去西站的，方向反了，看看对面，对面的站盘竟然在左上200米处，我实在是不想走了，会死人的。。。原来预计会提前两小时到西站，没想到紧紧张张的，差点迟了才到，怪我的车票买的早，2号厢，是双层，进去后的唯一感觉是热！而且，靠窗，没窗帘，有太阳暴晒。我就是在这样的情况下，忍着困度过了4小时，终于太阳下山了。晚上才发现车厢热不是太阳晒的，是空调坏了，汗！我带的水都不够喝了。那晚我几乎是没睡，给谁谁也睡不着。那就不是人呆的地方，密封车厢+夏天+很多人+没空调，我算是无语了。<br/>半夜出来查票了，我完了，学生证给别人了。结果是悲剧的。<br/>之后安全到达西安，上了最后一趟车。原以为可以安全回家，谁想在大巴上拉肚子了，很急的那种，厚着脸皮跟司机说了，他的回答也很悲剧，现在在山上的高速上，不能停车，等下山到那里加油站停吧，我又问得多久，答十几分钟吧，等了半小时，下山了，上完厕所还得交钱，终于在有生之年第二次见收费厕所了。<br/>回到家就感冒了，应该是火车上晒的，睡了好些天才好。<br/>在家里面除了看电脑就是睡觉了，和聊天，和很少的几个人聊。没别的。<br/>不对，还有一件不能忘的事，和刘伟聊天，听说他在改卷，我很在意，先打探了下成绩，他不透露，最后说最差，不到50，我又问倒数第二多少，他没说。我说了很多话让他帮忙改了我的成绩，说了很多好话，看他的态度是不可能了，于是讽刺了他，说他无情。。。之后不知道他是去吃饭还是怎么，没回我，第三天，接到一个消息，说：这次就放过你了，下次好好学。当时我很激动！<br/>夏天，还是有优点的，在老家我可以在外面上网聊天。老家手机信号不好，只能在室外用手机。<br/>假期就那么快的结束了，到了这学期。。。]]></content:encoded>
+      <wp:post_date>2011-01-03 22:01:29</wp:post_date>
+      <wp:post_date_gmt>2011-01-03 21:01:29</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>goodbye-2010-part-2</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/24219122</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/24219122#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-24219122</guid>
+      <pubDate>Tue, 4 Jan 2011 16:16:30 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>34</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->Look not mournfully into the Past,It comes not back again. Wisely improve the Present, It is thine. Go forth to meet the shadowy Future, without fear——不要悲叹过去,它一去不返；明智地把握现在，它在你的掌握之中。怀着一颗勇敢的心 毫不畏惧 迎接那朦胧的未来。]]></content:encoded>
+      <wp:post_date>2011-01-04 17:01:30</wp:post_date>
+      <wp:post_date_gmt>2011-01-04 16:01:30</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>look-not-mournfully-into-the-past-it-comes-not</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[music catch ,play with music]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/24220822</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/24220822#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-24220822</guid>
+      <pubDate>Tue, 4 Jan 2011 17:20:47 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>35</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Fwww.chafanhou.com%2Fsites%2Fdefault%2Ffiles%2Fgames%2FMusicCatch2.swf&amp;height=375&amp;width=620" width="626" />
+]]></content:encoded>
+      <wp:post_date>2011-01-04 18:01:47</wp:post_date>
+      <wp:post_date_gmt>2011-01-04 17:01:47</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>music-catch-play-with-music</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/24624012</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/24624012#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-24624012</guid>
+      <pubDate>Thu, 13 Jan 2011 07:47:25 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>36</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->damn exams]]></content:encoded>
+      <wp:post_date>2011-01-13 08:01:25</wp:post_date>
+      <wp:post_date_gmt>2011-01-13 07:01:25</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>damn-exams</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/24851022</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/24851022#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-24851022</guid>
+      <pubDate>Tue, 18 Jan 2011 08:50:59 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>37</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->going home]]></content:encoded>
+      <wp:post_date>2011-01-18 09:01:59</wp:post_date>
+      <wp:post_date_gmt>2011-01-18 08:01:59</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>going-home</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/25083232</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/25083232#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-25083232</guid>
+      <pubDate>Sun, 23 Jan 2011 09:42:28 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>38</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->saw]]></content:encoded>
+      <wp:post_date>2011-01-23 10:01:28</wp:post_date>
+      <wp:post_date_gmt>2011-01-23 09:01:28</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>saw</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/25499722</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/25499722#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-25499722</guid>
+      <pubDate>Wed, 2 Feb 2011 13:31:37 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>39</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->happy new year everyone]]></content:encoded>
+      <wp:post_date>2011-02-02 14:02:37</wp:post_date>
+      <wp:post_date_gmt>2011-02-02 13:02:37</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>happy-new-year-everyone</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/25748681</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/25748681#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-25748681</guid>
+      <pubDate>Tue, 8 Feb 2011 16:55:01 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>40</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->i am not ignoring  you .i am just waiting  for you to talk to me first]]></content:encoded>
+      <wp:post_date>2011-02-08 17:02:01</wp:post_date>
+      <wp:post_date_gmt>2011-02-08 16:02:01</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>i-am-not-ignoring-you-i-am-just-waiting</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/26517621</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/26517621#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-26517621</guid>
+      <pubDate>Wed, 23 Feb 2011 18:25:00 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>41</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->time to go back to school]]></content:encoded>
+      <wp:post_date>2011-02-23 19:02:00</wp:post_date>
+      <wp:post_date_gmt>2011-02-23 18:02:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>time-to-go-back-to-school</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/26768221</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/26768221#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-26768221</guid>
+      <pubDate>Mon, 28 Feb 2011 15:55:36 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>42</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->玫瑰在说：<br/>钢琴可以更浪漫， <br/>钢琴可以更简单，<br/>钢琴也可以不那么正经。<br/><br/>我只想说，<br/>幸福和浪漫往往不自知，<br/>珍惜一切努力得到的东西，<br/>不要再失去，<br/>无论是理想还是爱人。]]></content:encoded>
+      <wp:post_date>2011-02-28 16:02:36</wp:post_date>
+      <wp:post_date_gmt>2011-02-28 15:02:36</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/26868421</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/26868421#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-26868421</guid>
+      <pubDate>Wed, 2 Mar 2011 13:28:48 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>43</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->Not every effort there is a harvest, but each time the harvest must be hard, which is not a fair irreversible propositions. 不是每一次努力都会有收获，但是，每一次收获都必须努力，这是一个不公平的不可逆转的命题。]]></content:encoded>
+      <wp:post_date>2011-03-02 14:03:48</wp:post_date>
+      <wp:post_date_gmt>2011-03-02 13:03:48</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>not-every-effort-there-is-a-harvest-but</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[China In My Eyes]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/27204361</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/27204361#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-27204361</guid>
+      <pubDate>Tue, 8 Mar 2011 17:35:03 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>44</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->I born in china ,and I grow up in China.every day I saw  many things happens.I write this blog to record some things happen to me,and how do I feel about those.<br/>English is my second language ,so i may make some mistakes in grammar or vocabulary.<br/>①<br/>In my eyes,many Chinese ashamed to talk about sexes.this may affected by China&#39;s long history . In china&#39;s school,you may not see a girl and a boy kiss each other during hole middle school , because school are not allowed love , either do their parents .<br/>when many students are in universities ,their parents may not allowed  their child love and tell them to study hard and get scholarship or get Postgraduate degree . but after university ,many parents are urge to find a mate for their son or daughter.<br/>unlike other country ,Chinese very care you are a virgin or not . so many people may not have sex until they get married.<br/>I think china&#39;s Sexual education have many problems .Although in junior high school, textbooks have some parts about the sexes , many teachers skip these parts and let students study by themselves.<br/>I know noting about sexes before Junior high school .Sounds pathetic.<br/>②<br/>Chinese people think family is more important than any other thing ,if you leave your parents alone after you work ,you are not filial,then people will look down on you .<br/>Last semester  I learned a subject named Family . The teacher said that Chinese people are more care about their family while Americans are more care about their couples . Chinese think parents is important , you can find a new couple but you can&#39;t have another mother.<br/>More Family relationships may made people more rely on other people. In college ,all the costs paid by parents.<br/>③<br/>How to study ,study what, what you can do after study? <br/>I think it may be problems for many Chinese students.Of course it made by China education system.<br/>During high school ,A math teacher told us a story:&quot;many years ago ,he went to UK attend a lecture,he meet a middle school and asked him a question:98*345=? ,he thought the boy may tell him the answer after calculation,but  the boy use a calculator and then give him the answer &quot;.<br/>In china , the boy must be called idiot ,but I think it&#39;s smart. The boy knows the fast way to get the answer.<br/>Saying studies,we must study the subject we interested in ,not subject can make us rich.Then we study things is to use them ,English is only important for those who need to use it,not for everyone. third, we aren&#39;t researchers ,we just need to know how to use a thing not how to make it.<br/>China is lack of Inventor , I think it all cause by China education system.study make student a study machine not a person with his own mind.<br/>④<br/>then ,China is too crowded .<br/>China is a big country , many farmers can&#39;t live just rely on planting crops. so they most go to other place make business or do some heavy works.some women become baby sister .So,Urban population become big. you can see people any where any time.<br/> &quot;nian&quot; is the biggest festival in China .so everyone will go home wherever they are. this can cause traffic problems.During those days,many people can&#39;t buy train ticket. <br/>If you got a ticket. the next biggest problems is “crowded”. you must take two hours waiting the train,or you might miss your train because you can&#39;t get in the train in that crowded. <br/>During the trip ,you had better not eat or drink.because train full of people you can&#39;t go to bathroom.<br/>If you look carefully,you may found there aren&#39;t too people but there are too many packages. Every one at take least one or two big suitcase. Someone&#39;s packages are bigger than a man . I hate them. I think it&#39;s completely no need to take so much things when go home. Most packages are food and clothes.  Those things aren&#39;t expensive nor  useful . When I go out , I may just take some money ,a pen,a notebook ,one or two clothes. I don&#39;t want my trip too tired.<br/>(5)<br/>I like computers. I spend most of my time on it .  I used to dream to be a hacker. But now I thought it was too bad. I hate peoples who stolen others passwords and make lost of one&#39;s informations . China has lots of  hackers . Their work is attack others&#39; computer or spread computer virus . Once I was attacked by virus so I had to reinstall all of software . Now it can&#39;t happen again , I guess .<br/>I know most Chinese people use windows operating system. But most of these OS are piracy. And many people won&#39;t buy antivirus software , they want free.<br/>I used to use windows,but now I&#39;m using Linux. It&#39;s more quickly and more safe than windows. I heard most Chinese people won&#39;t use Linux because they thought it&#39;s hard to use them . It&#39;s a problem in face. The biggest reason is less Chinese company support it . Like QQ,a very welcomed IM software in China ,it can only use in mac or windows. <br/>In china ,almost every middle school all teach students how to use windows not Linux . They use piracy things teach students not plagiarize . How ironic！]]></content:encoded>
+      <wp:post_date>2011-03-08 18:03:03</wp:post_date>
+      <wp:post_date_gmt>2011-03-08 17:03:03</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>china-in-my-eyes</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:comment>
+        <wp:comment_id>6</wp:comment_id>
+        <wp:comment_author>theblackeagle273</wp:comment_author>
+        <wp:comment_date_gmt>2011-03-09 03:03:22</wp:comment_date_gmt>
+        <wp:comment_date>2011-03-09 04:03:22</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[Wow! That&#39;s strict and Chinese people&#39;s way of life is way harder than that in Vietnam. Same things happen in Vietnam but people have more choices of their own. We used to be ashamed to talk about sex too. In fact, schools are reluctant to equip their students with the least knowledge about safe and healthy sex. Unlike the Western, Oriental people feel shy to talk about it, even parents and their children hardly can find any comfort to discuss this issue openly and constructively. But I guess that trend has been shifting toward the Western one or what I have seen is just an inconvenient fact of social degradation. Parents always tell their children not to fall in love with anybody until they get into universities. Schools do not encourage students to perform behaviors - hugging, kissing or any intimate gesture - that are somewhat contrast to tradition. Still, some of them defy those warnings and act like what they see in movies just like they want to show the whole world that they are practicing their right to love and have relationships regardless of advices and warnings from others. Some manage to hide their feelings when they know they have fallen in love with someone else. <br/><br/>Just like you say, when their children graduate from universities, parents urge them to have a family so that they will have a grandson or granddaughter. It&#39;s so funny. Virginity is one of the biggest concern here for a man judging  a woman. There happened many tragic stories which led to regretful results just because of virginity matter.<br/><br/>We are also taught that we should respect and care about family, especially our parents, more than anyone else, even our wife or girlfriend. It&#39;s true that we only have one dad and one mom. Girls are out of the question since there are many out there for us to choose. lol.<br/>Most of the students when they get into college have to rely on parents to pay their tuition as it&#39;s hard for them to find part-time job which gives then sufficient salary to afford their life as well as college tuition.<br/><br/>In Vietnam, students are advised to do maths on their own without help from calculator or modern tools. It is said that by brainstorming they can sharpen their mind and way of thinking. There were times when a calculator was too luxurious for a anyone to have, teachers as well as students had to do the maths by conventional methods. But now, calculators have become so ubiquitous and students would think it&#39;s smart and best to use calculators for math. lol.<br/><br/>Talking about education, our educational system is way ineffective and needs improving. We have more options in choosing the subject. Almost every students pick up hot major which enables them to have lucrative job or position after graduation. And many more. It will take forever to list them down. What we see has been rooted deeply in society and it&#39;s hard to change it. Even if change is possible, the only matter left is time. 50 years may 100 years later. ]]></wp:comment_content>
+      </wp:comment>
+      <wp:comment>
+        <wp:comment_id>7</wp:comment_id>
+        <wp:comment_author>flow1058424266</wp:comment_author>
+        <wp:comment_date_gmt>2011-03-09 16:03:43</wp:comment_date_gmt>
+        <wp:comment_date>2011-03-09 17:03:43</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[ <p class="cite">Originally posted by theblackeagle273:</p><blockquote class="bbquote"><p>What we see has been rooted deeply in society and it&#39;s hard to change it</p></blockquote><br/>it&#39;s hard to live in developing country ,we have to study a lot difficult things to get a good grade and find a good job.<br/>last year ,I choose to study Information Engineering ，but now I find it&#39;s too difficult to study,I don&#39;t think it can be used in future work  :( :(<br/>]]></wp:comment_content>
+      </wp:comment>
+      <wp:comment>
+        <wp:comment_id>8</wp:comment_id>
+        <wp:comment_author>theblackeagle273</wp:comment_author>
+        <wp:comment_date_gmt>2011-03-09 16:03:13</wp:comment_date_gmt>
+        <wp:comment_date>2011-03-09 17:03:13</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[The same here too. I just want to go away from this country. Just want to live abroad in developed countries like US, UK and Europe ones. Most of the majors students study have no practical use for future work; what we are taught hardly bear relevance to job requirements. The only think that helps them make impression on employers is English. Ironically, foreign language is an effective and ultimate tool when we apply for a job. Employers in Vietnam concern more about the employees&#39; language level than their college score reports. <br/>I&#39;m studying law but want to be a businessman rather than a lawyer. So weird and Funny. Man. Everything is in chaos in my country as well as in yours. ]]></wp:comment_content>
+      </wp:comment>
+      <wp:comment>
+        <wp:comment_id>9</wp:comment_id>
+        <wp:comment_author>flow1058424266</wp:comment_author>
+        <wp:comment_date_gmt>2011-03-10 16:03:46</wp:comment_date_gmt>
+        <wp:comment_date>2011-03-10 17:03:46</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[<p class="cite">Originally posted by theblackeagle273:</p><blockquote class="bbquote"><p> US, UK and Europe ones</p></blockquote><br/>I think your English must be very good:) ]]></wp:comment_content>
+      </wp:comment>
+      <wp:comment>
+        <wp:comment_id>10</wp:comment_id>
+        <wp:comment_author>theblackeagle273</wp:comment_author>
+        <wp:comment_date_gmt>2011-03-10 16:03:09</wp:comment_date_gmt>
+        <wp:comment_date>2011-03-10 17:03:09</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[Thanks. English is my only hope for the future and the only thing I invest most of my time studying with the best intention. :)]]></wp:comment_content>
+      </wp:comment>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/27260031</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/27260031#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-27260031</guid>
+      <pubDate>Wed, 9 Mar 2011 14:52:32 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>45</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->too tired ,:ko: ]]></content:encoded>
+      <wp:post_date>2011-03-09 15:03:32</wp:post_date>
+      <wp:post_date_gmt>2011-03-09 14:03:32</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>too-tired-ko</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/27356492</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/27356492#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-27356492</guid>
+      <pubDate>Fri, 11 Mar 2011 08:56:05 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>46</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->another weekend. time to:)  rest]]></content:encoded>
+      <wp:post_date>2011-03-11 09:03:05</wp:post_date>
+      <wp:post_date_gmt>2011-03-11 08:03:05</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>another-weekend-time-to-rest</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[where are you from?]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/27461432</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/27461432#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-27461432</guid>
+      <pubDate>Sun, 13 Mar 2011 12:24:26 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>47</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><a href="http://www2.clustrmaps.com/counter/maps.php?url=http://my.opera.com/flow1058424266" id="clustrMapsLink"><img src="http://www2.clustrmaps.com/counter/index2.php?url=http://my.opera.com/flow1058424266" style="border:0px;" alt="Locations of visitors to this page" title="Locations of visitors to this page" id="clustrMapsImg" />
+</a>
+<a href="http://www.danasoft.com"><img src="http://www.danasoft.com/sig/101065.jpg" border="0" /></a><div style="font-family:arial,sans-serif;font-size:11px;"><p>Sign by Danasoft - <a href="http://www.danasoft.com">For Backgrounds and Layouts</a></p></div>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Ffiles.myopera.com%2Fflow1058424266%2Fflash%2Fjiu.swf&amp;height=375&amp;width=620" width="626" />
+]]></content:encoded>
+      <wp:post_date>2011-03-13 13:03:26</wp:post_date>
+      <wp:post_date_gmt>2011-03-13 12:03:26</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>my-visters</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>1</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/27500242</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/27500242#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-27500242</guid>
+      <pubDate>Mon, 14 Mar 2011 07:39:27 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>48</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->I don&#39;t want to study college .I want live in my way]]></content:encoded>
+      <wp:post_date>2011-03-14 08:03:27</wp:post_date>
+      <wp:post_date_gmt>2011-03-14 07:03:27</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>i-dont-want-to-study-college-i-want-live</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:comment>
+        <wp:comment_id>11</wp:comment_id>
+        <wp:comment_author>anonymous</wp:comment_author>
+        <wp:comment_date_gmt>2011-07-30 10:07:51</wp:comment_date_gmt>
+        <wp:comment_date>2011-07-30 12:07:51</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[Anonymous writes:<br/><br/>i hate to study and i love to being simply]]></wp:comment_content>
+      </wp:comment>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/28089142</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/28089142#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-28089142</guid>
+      <pubDate>Fri, 25 Mar 2011 01:53:41 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>49</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->once my Chinese teacher said,A person&#39;s handwriting  are always the same,  whatever he write .English or Chinese . use pen or Writing brush]]></content:encoded>
+      <wp:post_date>2011-03-25 02:03:41</wp:post_date>
+      <wp:post_date_gmt>2011-03-25 01:03:41</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>once-my-chinese-teacher-said-a-persons</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/28104132</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/28104132#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-28104132</guid>
+      <pubDate>Fri, 25 Mar 2011 06:59:03 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>50</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->love can&#39;t be planed]]></content:encoded>
+      <wp:post_date>2011-03-25 07:03:03</wp:post_date>
+      <wp:post_date_gmt>2011-03-25 06:03:03</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>love-cant-be-planed-2</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/28179732</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/28179732#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-28179732</guid>
+      <pubDate>Sat, 26 Mar 2011 15:43:49 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>51</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->i feel so empty :( ]]></content:encoded>
+      <wp:post_date>2011-03-26 16:03:49</wp:post_date>
+      <wp:post_date_gmt>2011-03-26 15:03:49</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>i-feel-so-empty</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/28255882</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/28255882#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-28255882</guid>
+      <pubDate>Mon, 28 Mar 2011 04:11:29 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>52</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->Alright ,from now on , my computer can only use English ~~ I change my system into English ,but Chinese keyboard input method doesn&#39;t work ......:( :(      ]]></content:encoded>
+      <wp:post_date>2011-03-28 06:03:29</wp:post_date>
+      <wp:post_date_gmt>2011-03-28 04:03:29</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>alright-from-now-on-my-computer-can-only</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[colors]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/28873962</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/28873962#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-28873962</guid>
+      <pubDate>Fri, 8 Apr 2011 11:17:01 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>53</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><span class='imgcenter'><img alt='' src='http://files.myopera.com/flow1058424266/blog/colors.png' /></span>]]></content:encoded>
+      <wp:post_date>2011-04-08 13:04:01</wp:post_date>
+      <wp:post_date_gmt>2011-04-08 11:04:01</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>colors</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[     2011.-.-]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/29030172</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/29030172#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-29030172</guid>
+      <pubDate>Tue, 12 Apr 2011 04:22:47 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>54</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->  现在，是2011年4月11日晚上快12点。<br/> 这篇日志是最近以来第一篇纪事的，将通过网络博客和空间同时发布（部分内容空间省略）。<br/> 这学期，真是很要命的一学期，开学就有压力了。。一看那课表，真是要命的！除了慢班英语的时间，几乎找不到别的空闲时间。这还只是大二的课！！大一的课就完全是没有时间学习了。<br/> 上学期，干了很多蠢事，课很少，但是还是挂了，以53的分数挂了，挂的很悲惨，不过这53都是靠真本事弄的，后悔当初么有抄，有人给我发答案我考完才知道，真是很悲剧。<br/> 大一的课没补，虽然只有两门，我还是没有看，到最后没有考试，这学期发现，如果考了，应该必过~~~~~~<br/> 上学期期末，下载了很多美剧，打算回家看完，结果很悲，连一部都没看完，倒是看完了所有的动漫，几乎所有的电影。在家看什么效率真是很低的。<br/> 回家继续学了学ps，学的同时悲剧产生。那个教程的主讲叫万成羲，我的偶像啊，adobe所有软件，还有3dmax等软家几乎通吃，不过，看完他的教程，感觉压力很大，，我完全没有必要学什么ps，premier，ae之类的，学这些毕业了没一点用，要做设计吧，没有想象力，还不够专业，学那写真是浪费时间。上学期学了一段premier，现在忘的差不多了，他讲ps时提到影音专业的学习premier只用一节课，真是深深打击我了，在这种打击下，我还是看完了所有教程，就当做看电影吧~~~~<br/> 曾经想学adobe那些软件的激情，没了~~~<br/> 时间往后走，这学期，几乎就是硬这么过来。继承上学期的传统，全宿舍集体0点以后睡觉。一个假期没上网，回来之后狠上网，刷微博，写博客，看博客。。然后就是玩电脑~~~~~<br/> 话说，我真是浪费太多的时间在电脑上面了，上学期是，这学期也是。大一的时候以牺牲电脑为代价，学会了如何修电脑系统，现在还算比较专业了，遇见的问题也很多了。<br/> 到大二下学期，在网友的介绍下，知道了linux系统，然后就一个劲的钻研linux系统各个发行版，最后确定用ubuntu了。。<br/> 上学期，这学期很多时间也都花在那上面了。经过半年挣扎，从windows中解脱了！！！前些天，完全单linux系统！<br/> 关于系统的事，还是不说了，要说的话能写上万字了。。<br/> 也许是这学期太忙，真的没有时间看电影了，从开学到现在，也就一周连续看了十几部，然后就什么都没干。一个lie to me从上学期看到现在还有一集未看。<br/> 现在整天泡在微博上，简直比人人还陷的深。不过，比人人值，我确实通过微博知道了很多，至少日本地震这事，第一时间知道的~~<br/> 现在不怎么聊天，或者说不知道和谁聊天，以前喜欢看有谁谁在线，看看空间，看看qq校友。。。那次后，生气了，，不理就不理，大批的删了一个月来所有没聊天的人，好友少了很多，空间安静了很多，一半的动态都是我的~嘻嘻~<br/> 然后关闭qq校友，谁要找我就不容易了。少些事还是好的。以后有事就短信电话~~<br/> 上周，很悲剧，移动硬盘被摔坏！！！！损失不太大。那次之后，我决定换新硬盘，要不那新硬盘再被摔了，坏了就完了。<br/> 不知道是不是我忘了，上次买了瓶咖啡，70元，貌似比上学期贵了很多！！！！！！现在zhengfu真是不给力，物价太能长了，两年学没上完，饭价就涨了2元。今天听说油价又涨了，虽然涨了几毛。微博上看：中国油价仍低于美国，可是腾讯新闻上写中国油价是外国11倍！！！不知道哪个是对的，要是后者，那zf真该死了算了。。<br/> 前写天看了部电影《八月迷情》，很好看，里面配乐很棒，昨天专门花时间找里面的音乐，唯有一个巴赫的没找到，google搜到的都是youtube上的，可惜不能访问！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！今天越想越生气，百度了下中国封youtube的原因，有人说是里面外国有人发政治性质的视频，还有人说为了防止国家机密泄露。说法很多，但原因都是tmd狗屁！！！中国3亿网名我还不信骂不过老外！等你升级了中国破网络再说机密的事。封个网站算个屁，你有种把香港那边也封了。。。。。<br/> 最近网络环境貌似紧张，一个博友的两个外国博客都被强了，我的opera还好安在。前写天说google地图7月可能退出中国，我表示惋惜。。今天又听说firefox可能被封，，我算是很无语了，干脆咱们关门吧！什么东西都别用外国的了，操作系统用红旗！不对，红旗内核也是老外的。电脑处理器也别用外国的了，用山寨arm吧。。<br/> 这两周累死，看书，上课，周末也有事，每天睡的迟起的早，真快要崩溃了。<br/> 天气在好转，后天貌似会有雨，估计雨下过后天会大热吧。同学让我去泰山，纠结ing，，5.1真不想那么累，但是在宿舍又太宅，纠结~~~~~<br/> 最近喜欢上一个歌手：p!nk。唱的歌很好听，那带点沙哑的声音很有磁性。歌的风格我喜欢。<br/> 现在上课真不想听，也听不懂。两个老师一上课还都说去年挂级率是多少，真是打击人。<br/> 还想写！不知道写什么~~~~~to be continued!]]></content:encoded>
+      <wp:post_date>2011-04-12 06:04:47</wp:post_date>
+      <wp:post_date_gmt>2011-04-12 04:04:47</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>2011</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[2011.点.点..]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/29033602</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/29033602#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-29033602</guid>
+      <pubDate>Tue, 12 Apr 2011 06:30:23 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>55</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->  假期回去，看了饶雪漫的《左耳》，一部曾经感动过我的书，然后又看了《沙漏》全集，可能没有看全，这本书很变态，1.2.3时间上连接的，可是每本书都以不同人的语气写，害得我没看清有些细节，或许那些细节本来就是留给读者的吧。但是还是觉得不爽，故事还是明了点好。<br/>  这两本书，前者中吧啦的死看的我纠结死，伤心了好久。我真是有时会像书中的小耳朵一样想变坏，但是好像又有区别，她是真正的好孩子想变坏，我貌似本来也不是什么好孩子。以前看了部电影《fight club》一部很经典的电影，讲的是精神分裂的人的故事，暂时不谈他的病。电影中他厌倦的生活，想要改变，于是抛弃了物质生活，打架，喝酒，创建了fight club。电影中有一句我最喜欢的话：只有失去一切之后，我们才能随心所欲的做事。我想变坏和这差不多吧，不在乎规则，不在乎别人言论，不在乎很多事，这样就能随心所欲的做事。<br/>  《沙漏》主人公，看着她的故事，也会让人觉得难受；瘦弱的身体加交替性厌食暴食症，好悲惨。书中，没有说明她和她高中的好朋友为何分开，也许是因为太多的误解吧。<br/>  《remrember me》，我比较欣赏的一部电影，不很悲的喜剧吧，有人死，但是死的还算有价值，至少改变了身边的很多人，让许多人记住了他。网上有人对这部电影评价很差，我只是觉得他们没有仔细看电影。有人说，电影结局为何要将2001年911事件放在电影里，我觉得，这样，也是想让我们在记住主人公的时候不忘911，不忘和主人公一样在911中逝去的那些人吧。<br/>  家里人一直说我像个小孩子，看动画片，可是我就是觉得日本动漫很好，完全比看电视剧有意义。<br/>  《air》第一次知道这个还是在高中，同学p3里有一个《鸟之诗.秋风》，当时以为只是一首歌，后来知道是动画音乐。我喜欢音乐，有几次就是听动画里面音乐好才看动画的，《air》只有十几集，很短，我不得不说我没看懂，或许是没有好好理解，这动画是讲友谊的，对于友谊缺失的我来说或许就是看不懂。不过，还是很看好这个动画，动画里面每个场景都描写的很唯美，安静的很的小村子，没有多少人，面朝大海，有时真是想到动画里面去，过那种很安逸的生活。]]></content:encoded>
+      <wp:post_date>2011-04-12 08:04:23</wp:post_date>
+      <wp:post_date_gmt>2011-04-12 06:04:23</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>2011-2</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[a flash game,by moving your mouse control the drunk man and don't let him fall down(I can let him walk 73m,and you?)]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/29333402</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/29333402#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-29333402</guid>
+      <pubDate>Wed, 20 Apr 2011 08:43:09 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>56</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><iframe allowfullscreen="allowfullscreen" frameborder="0" height="381" scrolling="no" src="http://embed.myopera.com/video/?url=http%3A%2F%2Fftp.116.com.cn%2Fpub%2Fertong%2Fyoulechang%2Fyouxiji%2Fjiugui.swf&amp;height=375&amp;width=620" width="626" />
+]]></content:encoded>
+      <wp:post_date>2011-04-20 10:04:09</wp:post_date>
+      <wp:post_date_gmt>2011-04-20 08:04:09</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>a-flash-game-use-your-mouse-control-the-drunk-man-and-dont-let-him-fall</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[use words to draw a photo]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/30404782</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/30404782#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-30404782</guid>
+      <pubDate>Sat, 21 May 2011 02:43:09 GMT</pubDate>
+      <category domain="tag" nicename="photo"><![CDATA[photo]]></category><category domain="tag" nicename="words"><![CDATA[words]]></category>
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>57</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->last year , I saw a picture in a Beijing subway station . it made by many words . yesterday i try to use photoshop draw a pic like that ~<br/><span class='imgcenter'><img alt='' src='http://files.myopera.com/flow1058424266/blog/wenzi2.png' /></span> <br/><span class='imgcenter'><img alt='' src='http://files.myopera.com/flow1058424266/blog/wenzi222.png' /></span> <br/>i think the second pic is better~<br/>these two pic made by two different ways]]></content:encoded>
+      <wp:post_date>2011-05-21 04:05:09</wp:post_date>
+      <wp:post_date_gmt>2011-05-21 02:05:09</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>use-words-to-draw-a-photo</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[CET6]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/31463692</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/31463692#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-31463692</guid>
+      <pubDate>Sat, 18 Jun 2011 19:26:09 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>58</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->today Is my big day , cet6~<br/>I write this for only one reason,use English to write down my English exam<br/>just like last  last semester ,when I attend the band 4 examination,I never study English for it before , when other people busy in remembering English words or doing English test papers ,I just watch my movies or watch &lt;desperate housewives&gt;. only one month ,I watch it to season 7,i&#39;m really enjoy it ,but it&#39;s shame that only have 7season of it.<br/>back to the main theme , I pass the CET4 test ,as my roommate said,you must can pass it . finally ,  got 455 of 720. it&#39;s not a good score,but ,truly ,that&#39;s what   deserve it.   don&#39;t regret.<br/>2:30pm,I took my radio and pens walked to examination room, the weather is not very hot ,but is hot , Ijust wear short pants and T-shirt and slippers,actually  I wear like this for two weeks and no one say something until today. a management person stop me and asked me what was i doing there, I show my admission ticket and told him I came here to take the exam , then he said :&quot;so you just wear this ? this is not a market that you can wear anything you want , this is a national exam , you don&#39;t think its not suitable for you to wear like this ? &quot;. oh god ! I was really shocked , I don&#39;t even image someone can say that to me.everywhere you can find people wear more less and bareness than me ,especially women.I think he must saw them,it&#39;s really common during summer.and if I wear like that,who else care but him.the world is change,you need to adapt it. I can only say he is too conservative, I look down upon him! Besides,who else very care about the exam??during college,it&#39;s hard to find a one who really care about exams and scores. <br/>The exam hadn&#39;t begin , i feel a little nervous ,may be the man bothered me or something,so what,I can do nothing but breath slowly.I can still remember when I took college entrance examination. I seat in the end of a row , it&#39;s my schoolmate in middle school seat front of me.a friend we met in third year of middle school.in this situation ,I can do really nothing. during math exam ,the first one even gave me money to help him with math,i was really nervous that time . this may affect my scores~~~<br/>This time I don&#39;t feel the examination questions are too difficult , of course except for Cloze,which I even don&#39;t recognize the word in the text. And then ,it&#39;s really rush to finish all the question in that time , i did&#39;t finish it , a reading comprehension question I don&#39;t have time to answer.<br/>After exam ,I didn&#39;t talk about it at all. for me it&#39;ll bring me bad luck, I always believe it. now ,i just hope i can get a good score ,I don&#39;t want to do it again ,it&#39;s really a waste of time and money.<br/>finally , I wanna take something lately happens, it&#39;s the end of semester again, everyone worry about exams,me too~~I didn&#39;t really study this year,I don&#39;t like it ~I want use my time to do my thing not to listen boring class,besides,teachers are really bad(one teacher always call herself teacher Wang~I really can&#39;t stand it,it feels like she want everyone know she is a teacher). these days I became a little worry about all exam,last year more than 1/4 students did&#39;t pass exams,averagely.I always think I may become one of them...<br/>this semester I got nothing but study some computer skills.I don&#39;t find me a girl friend i really want one, but,who knows why,I may don&#39;t have courage to tell a gril I am interest her....or ,I really didn&#39;t find a one.<br/>it&#39;s too late tonight,i have sleep after 2 am for two weeks,now i adapt it ..maybe need some time for me to change my biological clock..]]></content:encoded>
+      <wp:post_date>2011-06-18 21:06:09</wp:post_date>
+      <wp:post_date_gmt>2011-06-18 19:06:09</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>cet</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:comment>
+        <wp:comment_id>12</wp:comment_id>
+        <wp:comment_author>silent9999</wp:comment_author>
+        <wp:comment_date_gmt>2011-06-23 22:06:47</wp:comment_date_gmt>
+        <wp:comment_date>2011-06-24 00:06:47</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[Have you finished the examinations? I have some girl friends, I can share with you :lol:]]></wp:comment_content>
+      </wp:comment>
+      <wp:comment>
+        <wp:comment_id>13</wp:comment_id>
+        <wp:comment_author>flow1058424266</wp:comment_author>
+        <wp:comment_date_gmt>2011-06-24 02:06:23</wp:comment_date_gmt>
+        <wp:comment_date>2011-06-24 04:06:23</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[:love: i would like to but ....we are so far  away^_^.besides, i can&#39;t talk Vietnamese. so .i just waiting for my true love comes to me]]></wp:comment_content>
+      </wp:comment>
+      <wp:comment>
+        <wp:comment_id>14</wp:comment_id>
+        <wp:comment_author>silent9999</wp:comment_author>
+        <wp:comment_date_gmt>2011-06-24 02:06:10</wp:comment_date_gmt>
+        <wp:comment_date>2011-06-24 04:06:10</wp:comment_date>
+        <wp:comment_approved>1</wp:comment_approved>>
+        <wp:comment_content><![CDATA[yeah yeah yeah :D]]></wp:comment_content>
+      </wp:comment>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/31465732</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/31465732#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-31465732</guid>
+      <pubDate>Sat, 18 Jun 2011 19:33:19 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>59</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->it&#39;s fun~after translating a really hard understanding English article , i feel very easy to read others or write sth.]]></content:encoded>
+      <wp:post_date>2011-06-18 21:06:19</wp:post_date>
+      <wp:post_date_gmt>2011-06-18 19:06:19</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>its-fun-after-translation-a-really-hard-to</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/31492022</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/31492022#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-31492022</guid>
+      <pubDate>Sun, 19 Jun 2011 17:08:09 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>60</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->i don&#39;t know how to describe what have done today , it&#39;s really too silly .like a fool!!!!]]></content:encoded>
+      <wp:post_date>2011-06-19 19:06:09</wp:post_date>
+      <wp:post_date_gmt>2011-06-19 17:06:09</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>i-dont-know-how-to-describe-what-have-done</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[sad, only sad]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/31492832</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/31492832#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-31492832</guid>
+      <pubDate>Sun, 19 Jun 2011 17:42:26 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>61</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->in this world full of sadness , i don&#39;t  know what can i say, what i need to say.<br/>life can&#39;t always go on  as what you thought .<br/>]]></content:encoded>
+      <wp:post_date>2011-06-19 19:06:26</wp:post_date>
+      <wp:post_date_gmt>2011-06-19 17:06:26</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>sad-only-sad</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/31493082</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/31493082#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-31493082</guid>
+      <pubDate>Sun, 19 Jun 2011 17:50:14 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>62</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->it&#39;s really when you lost something ,you know it&#39;s precious than what you thought before, and you really need .. but ,it&#39;s gone .]]></content:encoded>
+      <wp:post_date>2011-06-19 19:06:14</wp:post_date>
+      <wp:post_date_gmt>2011-06-19 17:06:14</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>its-really-when-you-lost-something-you</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/31562132</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/31562132#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-31562132</guid>
+      <pubDate>Tue, 21 Jun 2011 19:58:23 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>63</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->oooo,fucking tired...i really wan&#39;t hit someone...]]></content:encoded>
+      <wp:post_date>2011-06-21 21:06:23</wp:post_date>
+      <wp:post_date_gmt>2011-06-21 19:06:23</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>oooo-fucking-tired-i-really-want-hit</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/31729172</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/31729172#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-31729172</guid>
+      <pubDate>Sun, 26 Jun 2011 09:13:00 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>64</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->Can some one tell me how to know whether a girl like you or not without asking her directly ?<br/>How to let a girl know that you like her without telling her?]]></content:encoded>
+      <wp:post_date>2011-06-26 11:06:00</wp:post_date>
+      <wp:post_date_gmt>2011-06-26 09:06:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>can-some-one-tell-me-how-to-know-whether-a</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[remember today,6.27]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/31751652</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/31751652#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-31751652</guid>
+      <pubDate>Mon, 27 Jun 2011 03:26:09 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>65</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><span style="font-size: 140%"> today at 1:00 am,i search every New Age music in amule and choose all of them to download.my computer disks seems almost full.after i finish that ,it&#39;s almost 3:00 am.then i watch a movie and two Episodes of one piece ,a very long cartoon .<br/> i didn&#39;t sleep well after that ,especially after my roommates woke up.they always talk aloud and play there computer games ,which i really hate that,it&#39;s not a 3D game,and i don&#39;t know why those people like it , for me it&#39;s only for children,they are all University students!! besides,  after 10days it will be this semester&#39;s final exam ,but they don&#39;t worry about it at all...i have noting to say about them !<br/> yesterday  i went to classroom and study ,,,it&#39;s really slow to study math by myself without studying before...I afraid i will not pass the exam,just like last semester.<br/>  I can still remember these days last semester, i want date to a girl ,,but i really don&#39;t know how to say ,we often talk in internet and rarely talk in real life . I don&#39;t know how i feel about her because i don&#39;t know who she really are.<br/>  I plan to ask her for studying together these days ,and .......really hard to say that .......<br/>:cry:  we are talking happily in internet ,but I don&#39;t know what will happened after we truly talk. I don&#39;t want lost her a very little..<br/>  She always talk to me if she see me online , did she like me too?I really want to know, our specially relationship is being 1&amp;half years. maybe it&#39;s time to change..<br/>  </span>]]></content:encoded>
+      <wp:post_date>2011-06-27 05:06:09</wp:post_date>
+      <wp:post_date_gmt>2011-06-27 03:06:09</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>remember-today-6-27</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/31752512</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/31752512#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-31752512</guid>
+      <pubDate>Mon, 27 Jun 2011 04:03:11 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>66</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->DAMN IT !!  THERE IS FLY IN MY LUNCH ,,,,,I CAN NOT STAND ANYMORE !!!!!]]></content:encoded>
+      <wp:post_date>2011-06-27 06:06:11</wp:post_date>
+      <wp:post_date_gmt>2011-06-27 04:06:11</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>damn-it</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[these are really my sad days.]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/31965322</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/31965322#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-31965322</guid>
+      <pubDate>Sat, 2 Jul 2011 08:47:03 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>67</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><span style="font-family: tahoma"><span style="font-size: 140%">   This week is really my sad week.I do nothing in this week ,,Tuesday is the hottest day in the week, i can&#39;t sleep until 4am.and in the afternoon ,I took a small test,it&#39;s really bad,a;though i can look for answers in my books.....again,I hope i can pass it like CET6.<br/>   that night, i had to took CAD exam,although I study every class but I can&#39;t draw a picture in few minutes ....<br/>  i don&#39;t know why am i always feel tired these days ,almost full day.i took some vitamin b6 last week to help me get more energy ,but it might didn&#39;t work..next Tuesday i will take 3 exam and i didn&#39;t review them yet , i always fell so bad and i don&#39;t want watch books,it only makes me fell worse,and even i read the book ,i can&#39;t remember anything next day....<br/>  i don&#39;t know what should i do next.just wait for time and didn&#39;t pass all the exam and wait for another semester?<br/>  I find myself a job in summer holidays, it will be my first job,although i miss my family ,I insist to stay in Tianjin and do the job.<br/>  ………………………………</span></span>]]></content:encoded>
+      <wp:post_date>2011-07-02 10:07:03</wp:post_date>
+      <wp:post_date_gmt>2011-07-02 08:07:03</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>these-are-really-my-sad-days</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[some very quick debian squeeze sources in China]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/32423782</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/32423782#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-32423782</guid>
+      <pubDate>Fri, 15 Jul 2011 16:33:15 GMT</pubDate>
+      <category domain="tag" nicename="debian"><![CDATA[debian]]></category>
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>68</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->deb <a href="http://ftp.sjtu.edu.cn/debian/" target="_blank">http://ftp.sjtu.edu.cn/debian/</a> squeeze main contrib non-free<br/><br/>deb <a href="http://debian.ustc.edu.cn/debian/" target="_blank">http://debian.ustc.edu.cn/debian/</a> squeeze main contrib non-free<br/><br/>deb-src <a href="http://mirrors.sohu.com/debian/" target="_blank">http://mirrors.sohu.com/debian/</a> squeeze main contrib non-free<br/><br/>deb <a href="http://http.us.debian.org/debian/" target="_blank">http://http.us.debian.org/debian/</a> squeeze main contrib non-free]]></content:encoded>
+      <wp:post_date>2011-07-15 18:07:15</wp:post_date>
+      <wp:post_date_gmt>2011-07-15 16:07:15</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>some-very-quick-debian-squeeze-sources-in-china</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/35775062</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/35775062#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-35775062</guid>
+      <pubDate>Mon, 26 Sep 2011 12:36:58 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>69</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->desperate housewives season 8,,oh ,i like it ]]></content:encoded>
+      <wp:post_date>2011-09-26 14:09:58</wp:post_date>
+      <wp:post_date_gmt>2011-09-26 12:09:58</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>desperate-housewives-season-8-oh-i-like-it</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/36417622</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/36417622#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-36417622</guid>
+      <pubDate>Tue, 11 Oct 2011 14:56:11 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>70</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->上学期挂那么多，真不知道该怎么办了，现在整天没心思看书，虽然没多少课了，但是还担心到大四补不完，真的有点想不开，，现在，每天坚持写东西30天了。还有70天，不知道70天之后事情会不会改变]]></content:encoded>
+      <wp:post_date>2011-10-11 16:10:11</wp:post_date>
+      <wp:post_date_gmt>2011-10-11 14:10:11</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name></wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/36575502</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/36575502#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-36575502</guid>
+      <pubDate>Sat, 15 Oct 2011 15:00:42 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>71</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->i wanna study more, but there are too many limits.]]></content:encoded>
+      <wp:post_date>2011-10-15 17:10:42</wp:post_date>
+      <wp:post_date_gmt>2011-10-15 15:10:42</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>i-wanna-study-more-but-there-are-too-many</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Something About " Death and Fear"]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/37466182</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/37466182#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-37466182</guid>
+      <pubDate>Fri, 11 Nov 2011 19:24:51 GMT</pubDate>
+      <category domain="tag" nicename="fear"><![CDATA[fear]]></category><category domain="tag" nicename="death"><![CDATA[death]]></category><category domain="tag" nicename="fear-of-death"><![CDATA[fear of death]]></category><category domain="tag" nicename="death-and-fear"><![CDATA[Death and Fear]]></category>
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>72</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more--><span style="font-family: georgia"><span style="font-size: 140%">  i kind of like studying things about death lately.and like to think about death and fear..well,i might think out some thing .<br/>long long ago ,I always think a question .is fear death naturally ? someone answer me ,why care about that ?? yes,don&#39;t think about it is an answer ,but ,finally ,you have to face it,maybe sometime you needs to face it if you want to live.for example, you have a cancer or sth.<br/>    I recently read a book ,it says that everyone fear death because death means &quot;endless nothing&quot;,you will disappeared ,maybe your mind will gone too. maybe this is true,we all fear it because of it ,but how many people really think about it ?I think not much.or just someone need or who like philosophy. <br/>   In the book it also says  terrorists don&#39;t fear death because they always been told afterlife is how beautiful and death can let you forget all the pain and none-happy stuffs.it&#39;s a honor to death for something .I think this should be right.<br/>  I figure out that humans are motion animals,so fear almost because you think too much ,maybe you see too much ghosts movies and fear the ghosts might do the same things like movies. fear is just an animal natural , every animal do fear if they find something might do harm to them.just like we fear to touch very hot water,it hurt us.<br/>  i try to stay in a very dark and silent place,i can&#39;t stay in it over 1 minute ,during some research almost no one can stay in that place for over 10min,,most people will think many horrible thing when they got there. this is we think too much .<br/>   I learn to adapt stay alone in dark place, and control me to not think about horrible things,and told me I&#39;m all okay and I&#39;m in a very safe place,no need to fear ,just calm.  it works ,i almost dare to stay in dark alone . now it became better.<br/>  few time ago .i go to happy valley to play Roller Coaster ,it&#39;s really chilling , it makes me like face to death.it really does. then ,i don&#39;t fear it ,and keep smile all the time.because i know , i&#39;m all ok.<br/> saying all this just want to say , all we talk fear death is not really fear death, we just fear get hurts. it&#39;s an human natural ,actually threaten is not too much is just we think too much.always let you know that you are safe can help you fear nothing .even when the real threaten came ,you can face it but not very nervous.</span></span>]]></content:encoded>
+      <wp:post_date>2011-11-11 20:11:51</wp:post_date>
+      <wp:post_date_gmt>2011-11-11 19:11:51</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>something-about-death-fear</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/38436372</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/38436372#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-38436372</guid>
+      <pubDate>Thu, 8 Dec 2011 15:48:19 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>73</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->very busy  recently]]></content:encoded>
+      <wp:post_date>2011-12-08 16:12:19</wp:post_date>
+      <wp:post_date_gmt>2011-12-08 15:12:19</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>very-busy-recently</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[see you ,2011]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/39802852</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/39802852#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-39802852</guid>
+      <pubDate>Sat, 7 Jan 2012 12:40:52 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>74</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->  why “see you”? why not “Goodbye”? To me ,it&#39;s quite the same . And ,I don&#39;t think I can meet another 2011 again ,so whatever ,just a sign to say 2011 is over.<br/>  one year ago ,I can remember clearly that I wrote a post named &quot;good bye 2010&quot;,now it&#39;s &quot;see you 2011&quot;..how fast time passes .<br/>  It&#39;s really busy recently ,everyone is busy to study to prepare the final exam , me too ,but I&#39;m not so hard , after 2011,I changed a lot, I don&#39;t care it so much ,and i have no feelings about exam,maybe i was wrong ,but , I respect my mind ^.^<br/>  last semester , I failed 6 exams,only one passed.it shocks me a lot ,and my families too. during that time ,I thought a lot ,it&#39;s really pain. I didn&#39;t have a good holiday .  I was pretend to find a job and earn some money and don&#39;t go home to pass the holiday.finally ,I gave up finding a job,and went home 2days later. didn&#39;t stay at home for long,I went to shanghai later with my sis,she want to study at school and join a exam. With no extra preparation,I just buy too tickets and packaged some personal stuff and then get in the train. <br/>  Shanghai is very diff from what  I thought it might be.It&#39;s really hot and wet,and as soon as i get off from the train,all my clothes became wet.It&#39;s about 7:00 am,many markets didn&#39;t open at that time,so me and sis just went to her school.1 hours drive,spent us 25yuan,really expensive.And then I know why my sis always staying at her school and don&#39;t go out much for shopping -_-!! <br/>  I live in her office which she used to work in.It&#39;s not a office actually,just some buildings build for school drivers,the room there is not good as dormitory,but the good thing is there have air-conditioning so I don&#39;t need to care about the hot weather,which I really can&#39;t stand. I spent 15days in shanghai ,above half time sitting in her school library  reading books or spent time on internet.It&#39;s like that I live in heaven ,I don&#39;t need to care about anything,It really feels good.other time I just walk in her school,and shopped once,and went to &quot;Shanghai Happy Valley&quot;,I can still remember that time , no worries ,just happiness.Why couldn&#39;t be that all the time?????<br/>  I keep thinking this question for a very long time ,till now,I&#39;m still thinking.China is a big country ,for me ,It&#39;s a very unhappy country, as some one says,People in China just know study and work ,they spend there hole life to work just for a big house,and then marry someone,make some children,everyone all do that,they don&#39;t even know what happy is..I agree with that,and i think it&#39;s the reason why people in china have few creativity,they go through too less TRUE life,they can&#39;t find the beauty around them,all they know is just work,and work ,and work! I don&#39;t want to be one of them,I want to travel the world and then ,maybe settled in some foreign country,and do some simple jobs like server or paint or repair computers(which what I am really good at),I have too many interest ,so i can do many things if i want to.<br/>  I didn&#39;t remember things before the summer,and it&#39;s no need to,too many painful days.<br/>  so ,just pretend that 2011 is start form the summer. After the long trip in shanghai.I went back to my school.<br/>  nothing changed,still the unclear air,the grain sky ,dirty school.<br/>  I started to study some.this semester is more relax then last semester,I have just 5 classes ,and 4 of them is none important,so I don&#39;t need to spent much time on those(but finally i still spent a lot time on those) ,now ,it&#39;s almost over.<br/>  As a student living far away from home,life is just go to class and go back to dormitory,with refectory,three point line.<br/>  2012.1.1,a very normal day.spent a lot of time to sleep ,then do some readings,that&#39;s my day.<br/>  I thought it&#39;s necessary to spend some time to write this post.<br/>  Actually i believe in 2012,about some time in 2008,I read a book refer this ,I believe that,maybe the world will go to an end and lots of people died,I still want to live my life in my way.]]></content:encoded>
+      <wp:post_date>2012-01-07 13:01:52</wp:post_date>
+      <wp:post_date_gmt>2012-01-07 12:01:52</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>see-you-2011</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>1</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/41244962</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/41244962#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-41244962</guid>
+      <pubDate>Mon, 20 Feb 2012 14:27:53 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>75</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->i want to disappear right away or just become crazy .i don&#39;t want think one thing!]]></content:encoded>
+      <wp:post_date>2012-02-20 15:02:53</wp:post_date>
+      <wp:post_date_gmt>2012-02-20 14:02:53</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>i-want-to-disappear-right-away-or-just</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[2012.2.20]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/41245002</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/41245002#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-41245002</guid>
+      <pubDate>Mon, 20 Feb 2012 14:30:52 GMT</pubDate>
+      <category domain="tag" nicename="PRIVATE"><![CDATA[PRIVATE]]></category>
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>76</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->开学第一天，一节课<br/>现在听歌，很大声。<br/>刚查了成绩，56，没过<br/>愁<br/>不想想什么，睡到死<br/>不学习后能干吗<br/>很不爽<br/>wanna suicide<br/>之前何尝没那么想过。<br/>想起了家人。<br/>或者，我可以帮助家人。<br/>天才在左，疯子在右，舍不得离开是想太多。<br/>心里医生最后轻生是懦弱的表现]]></content:encoded>
+      <wp:post_date>2012-02-20 15:02:52</wp:post_date>
+      <wp:post_date_gmt>2012-02-20 14:02:52</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>2012-2-20</wp:post_name>
+      <wp:status>private</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[It's being so long,to write]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/46141822</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/46141822#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-46141822</guid>
+      <pubDate>Sun, 22 Apr 2012 13:04:10 GMT</pubDate>
+      <category domain="tag" nicename="dream"><![CDATA[dream]]></category>
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>77</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->4/22/2012 ,8:48pm ,sitting in my dormitory  ,face to the noisy notebook ,try to figure out how to spend the night.<br/>Watched too much American movies<br/>Although want to get myself a girl friend,just don&#39;t want go out.always try to tell myself :&quot;in a wrong place,you can&#39;t find the right person that could live your rest life with.&quot; why are so many Chinese girl aren&#39;t pretty ? they all seem too bitch or too dumb ,hate it .. starting like the American culture , there, one don&#39;t need to think about too much and can love freely.<br/>one more year .I don&#39;t know where i would stay after one year<br/>this afternoon ,i start to think sth about dream , After watching Randy pausch&#39;s The Last Lecture, I feel one&#39;s dream is really important, you should always work for it . I&#39;m planning do it !for my dream.<br/><br/><br/>]]></content:encoded>
+      <wp:post_date>2012-04-22 15:04:10</wp:post_date>
+      <wp:post_date_gmt>2012-04-22 13:04:10</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>its-being-so-long-to-write</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[some lossless music of Suzanne Ciani]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/47627122</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/47627122#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-47627122</guid>
+      <pubDate>Mon, 7 May 2012 07:44:34 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>78</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->Suzanne Ciani is my favorite Newage music composer .and her &lt;hotel luna&gt; and &lt;turning&gt; are my favorite musics.<br/>here is her wiki page:<br/><a href="http://en.wikipedia.org/wiki/Suzanne_Ciani" target="_blank">http://en.wikipedia.org/wiki/Suzanne_Ciani</a><br/><span style="font-size: 140%">here is her album list</span><br/><br/><br/>Seven Waves, 1982<br/>The Velocity of Love, 1986<br/>Neverland, 1988 (nominated for Grammy Award for Best New Age Album)<br/>History of My Heart, 1989<br/>Pianissimo, 1990<br/>Hotel Luna, 1991 (nominated for Grammy Award for Best New Age Album)<br/>The Private Music of Suzanne Ciani (compilation), 1992<br/>Dream Suite, 1994 (nominated for Grammy Award for Best New Age Album)<br/>Pianissimo II, 1996 (nominated for Grammy Award for Best New Age Album)<br/>A Very Green Christmas, 1997<br/>Suzanne Ciani and The Wave Live!, 1997 (Indie nominated)<br/>Turning, 1999 (Grammy and Indie nominated)<br/>Pianissimo III, 2001<br/>Meditations for Dreams, Relaxation, and Sleep, 2002<br/>Pure Romance, 2003<br/>Silver Ship, 2005 (Indie award winner)<br/>Lixiviation, 2012<br/><br/>I have her 11 albums and down here is their BT torrents .All lossless<br/><br/><br/><a href="http://files.myopera.com/flow1058424266/files/Suzanne%20Ciani.zip" target="_blank">http://files.myopera.com/flow1058424266/files/Suzanne%20Ciani.zip</a>]]></content:encoded>
+      <wp:post_date>2012-05-07 09:05:34</wp:post_date>
+      <wp:post_date_gmt>2012-05-07 07:05:34</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>some-lossless-music-of-suzanne-ciani</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[Entry]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/48161222</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/48161222#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-48161222</guid>
+      <pubDate>Mon, 14 May 2012 12:35:15 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>79</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->Desperate Housewives has ended,just leaving lot&#39;s of memories ]]></content:encoded>
+      <wp:post_date>2012-05-14 14:05:15</wp:post_date>
+      <wp:post_date_gmt>2012-05-14 12:05:15</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>desperate-housewives-has-ended-just-leaving</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[my 1st day fight against neurasthenic]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/49654762</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/49654762#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-49654762</guid>
+      <pubDate>Sat, 9 Jun 2012 14:59:10 GMT</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>80</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->neurasthenic in Chinese is 神经衰弱，it first used by Americans in 1869,The term had been used at least as early as 1829 to label a mechanical weakness of the actual nerves .Neurasthenia is currently a diagnosis in the World Health Organization&#39;s International Classification of Diseases. However, it is no longer included as a diagnosis in the American Psychiatric Association&#39;s Diagnostic and Statistical Manual of Mental Disorders.<br/>the main symptoms is one will be very tired all day even he sleep more than 10 hours per day,can&#39;t focus on one thing longer than 10 min,fell fatigue with no reason,insomnia because think too much in the bed..<br/>sounds terrible right, I&#39;m in this situation for about 3 years and just find it was a mental illness,I always thought I feel so stress(mental and physical) all day is because I sleep too late in night(abt 2AM) and wake up so early (some time 7AM,some 9am),but I do take snap during day ,1-4hours maybe.then yesterday when I read a psychology book and found i&#39;m ill!!!<br/>This could be good,&quot;the worst thing is you don&#39;t know you have a problem &quot;,,now I&#39;m ready to fight it!<br/>this is my 1st day,the main treatment methods is SEE A DOCTOR,then MEDICINE ,combine them,I can be my own DOCTOR and can change my life style as medicine.<br/>Since I know i feel tired is not because I sleep less,no need to sleep too much,when i fell tired at day time ,have coffee,this is my MEDICINE~~~<br/>About sleep well,I run every night so can get really tired,then drink milk every night,I find eat a lot (not eat a &quot;lot&quot;but eat &quot;a lot&quot;)helps with my sleep, I will feel hungry at midnight.<br/>About concentrate on one thing~~working on it now,still got no way,still think a lot when really need to focus...<br/><br/>]]></content:encoded>
+      <wp:post_date>2012-06-09 16:06:10</wp:post_date>
+      <wp:post_date_gmt>2012-06-09 14:06:10</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>my-1st-day-fight-against-neurasthenic</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+    <item>
+      <title><![CDATA[一个文本编辑器能干什么？？KDE Kate使用手册！  ]]></title>
+      <link>http://my.opera.com/flow1058424266/blog/show.dml/53185312</link>
+      <comments>http://my.opera.com/flow1058424266/blog/show.dml/53185312#comments</comments>
+      <dc:creator>flow1058424266</dc:creator>
+      <guid isPermaLink="false">urn:myopera-flow1058424266-blog-53185312</guid>
+      <pubDate>Fri, 21 Sep 2012 08:05:33 GMT</pubDate>
+      <category domain="tag" nicename="PRIVATE"><![CDATA[PRIVATE]]></category>
+      <description><![CDATA[]]></description>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>81</wp:post_id>
+      <content:encoded><![CDATA[<p></p><!--more-->一个文本浏览器能干嘛？在windows的眼里他就是个文本编辑器，专门编辑txt格式文本的，简单的格式，字体必须得在菜单栏里调，默认保存成GB2312,没了～<br/><br/><br/>Linux下，好多配置文件都是文本格式的，能直接修改，而且好多程序也可以不用IDE编写，用vi等文本编辑器就能完成，使用vi必须有个长时间的联系才能顺手，emacs吧，感觉记得有点多，最适合新手的恐怕就只有gnome的gedit，或者是KDE的Kate<br/>gedit的功能不错，貌似自动识别程序或脚本类型，然后关键字加亮，很基础，别的也没多少功能了<br/>Kate应该是个新兴的项目吧，记得KDE之前使用kwtite，现在Kate也是属于KDE的一个项目吧，有独立的开发人员。<br/><br/> 可能是基于kwrite的，界面比较像，细节不同<br/><br/> <br/>Kate支持Ctrl+滑轮调整显示大小，这点比别的编辑器好多了，很方便<br/>选中一段，支持拖放操作，剪切东西不用什么ctrl-x Ctrl-V了，而且，如果按着Ctrl拖放，就等于复制操作，很好用<br/>主窗口左边显示的是文件位置，又多个文件打开时可以在这里切换，并且，Kate会自动按照最后编辑时间用深到浅色排序，方便区分！<br/><br/> <br/>最下面内置了终端，写完脚本什么的，直接在下面的终端测试，省去另开窗口<br/>shift+ctrl+t可以垂直方向分出一个窗口，shift+ctrl+l水平上分开一个窗口，多文件编辑这样很方便（shift+ctrl+r是关闭）<br/>在tools》mode里面又近百种模式，包含各种脚本，程序模式，比如我要写shell，调到bash，然后关键词颜色都变了。如果你的脚本格式什么正确，Kate能自动识别你是什么脚本模式，然后自动高亮等等，保存过一次后生效<br/>如果使用if ，for等语句，旁边会出现一个箭头，和一些IDE一样，点击后能收起这个程序段<br/><br/> <br/>Kate支持书签，用它看txt的小说不错，Ctrl+b就是加书签，名字默认是行数，Alt+pagedown调到下个书签处<br/>Kate的tools》encoding里面能随时更改编码，中文的又GB18030,2312和GBK，一般默认是utf8<br/>Kate有自动填充功能，比如写了个shell脚本，里面有个xxxxxx变量，我输入三个xxx就会跳出xxxxxx字段，回车就自动补全了<br/>在选择一串字符时，会高亮显示文件中所有位置的这串字符，等于是即使搜索<br/>Kate默认又自动备份功能，文件名默认是filename～，可以更改格式（改前缀后缀），例如改成“前缀：“.”后缀：“～””这样文件就隐藏了<br/>Kate有个VI编辑模式，习惯VI的可以用Kate的这个模式，比终端好，因为kate支持快捷键直接保存等，VI模式等于是：输入按照vi的方式来，但是你可以使用Kate的其他快捷键<br/>Kate能调整选中字符的大小写crtl+u是小写变大写，shift+ctrl+u是变小写<br/>ctrl+d是在当前光标前加注释信息，这个会随你前面选择的mode不同改变，像shell就是在行前加#，C的话就是加//<br/>Kate有个好玩的快捷键，Ctrl+t，将当前字符后移，方便用户修改写错的地方～～我是经常的把ls输成sl，这对我来说好方便<br/>Kate能把文本文件输出成html文件，打印成pdf/ps文件<br/>Kate 该有的可以说都有了，Linux写程序会很方便<br/><br/>这是Kate的多窗口模式，挺好用的]]></content:encoded>
+      <wp:post_date>2012-09-21 10:09:33</wp:post_date>
+      <wp:post_date_gmt>2012-09-21 08:09:33</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:post_name>kde-kate</wp:post_name>
+      <wp:status>private</wp:status>
+      <wp:is_sticky>0</wp:is_sticky>
+
+    </item>
+  </channel>
+</rss>
+
