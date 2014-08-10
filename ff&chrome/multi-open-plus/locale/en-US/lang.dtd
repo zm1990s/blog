@@ -1,0 +1,17 @@
+<!ENTITY  pref.tooltip "open several urls">
+<!ENTITY  pref.label "multi open">
+<!ENTITY  pref.closetabslabel "close all tabs">
+<!ENTITY  pref.closetabstooltip "close all tabs and open 'new tab'">
+<!ENTITY  pref.open "open">
+<!ENTITY  pref.setting "settings">
+<!ENTITY  pref.title "open several urls at one time">
+<!ENTITY  pref.close "close other tabs before open urls?">
+<!ENTITY  pref.urltootip "URLs :">
+<!ENTITY  pref.info "input urls, separated by newline (Enter/Return)">
+<!ENTITY  pref.info1 "currently only support 3 lists, you can edit the urls">
+<!ENTITY  pref.info2 "but don't touch the line contains #">
+<!ENTITY  pref.info3 "only support ASCii characters">
+<!ENTITY  pref.warn "DON'T warn me on close other tabs">
+<!ENTITY  pref.warninfo "if you choose 'close other tabs', Browser might warn you, you can turn off that here">
+<!ENTITY  pref.save "save">
+<!ENTITY  pref.cancel "cancel">

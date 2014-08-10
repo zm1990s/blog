@@ -6,12 +6,12 @@ var mosc_028515da = new function(){
 		window.minimize();
 	};
 	
-	
 	//close all tabs and then open a new blank tab,then Minimize if you hit "close button"
 	this.minimizeOnClose = function(e){
-	
-	
-	  
+	//6 options:
+	// 0, do nothing ,quit 
+	// 1, minimize
+	//2-5 close all tabs and go to <newtab, homepage, blank page,usercustom page>
 	  
 		if(window.windowState.valueOf() != 2 )
 		{
@@ -55,6 +55,14 @@ gBrowser.removeAllTabsBut(gBrowser.selectedTab);
 		  window.minimize();
 			e.preventDefault();
   break;
+case 5:
+  var home=mosc_028515da.preferencesManager.getCharPref("extensions.ctb.userHomePage");
+  gBrowser.selectedTab = gBrowser.addTab(home);
+gBrowser.removeAllTabsBut(gBrowser.selectedTab);
+		  window.minimize();
+			e.preventDefault();
+  break;
+  
 } 
 		  
 		}
@@ -63,7 +71,13 @@ gBrowser.removeAllTabsBut(gBrowser.selectedTab);
 	
 	//close all tabs on Esc-press
 	this.closeAllTabOnEsc = function(e){
-
+	//7 options:
+	// 0, do nothing
+	// 1, close current page
+	//2-4 close all tabs and go to <newtab, homepage, blank page
+	//5  open usercustom page>
+        //6  close all tabs and go to custom page
+	  
 	  if( e.keyCode == 27 &&mosc_028515da.preferencesManager.getBoolPref("extensions.ctb.enableEsc") == true ||e.keyCode == 46 &&mosc_028515da.preferencesManager.getBoolPref("extensions.ctb.enableDelete") == true){
 	   opt2 = mosc_028515da.preferencesManager.getIntPref("extensions.ctb.closeAllTabOnEsc");		      
 switch (opt2)
@@ -95,9 +109,22 @@ case 4:
 var home = 'about:blank'
 gBrowser.selectedTab = gBrowser.addTab(home);
 gBrowser.removeAllTabsBut(gBrowser.selectedTab);
-
 e.preventDefault();
+
+break;
+  case 5:
+  var home=mosc_028515da.preferencesManager.getCharPref("extensions.ctb.userHomePage");
+  gBrowser.addTab(home);
+			e.preventDefault();
   break;
+  
+  case 6:
+ var home=mosc_028515da.preferencesManager.getCharPref("extensions.ctb.userHomePage");
+  gBrowser.selectedTab = gBrowser.addTab(home);
+gBrowser.removeAllTabsBut(gBrowser.selectedTab);
+			e.preventDefault();
+  break;
+  
 }
 	  }
 

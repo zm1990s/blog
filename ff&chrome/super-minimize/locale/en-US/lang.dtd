@@ -10,9 +10,15 @@
 <!ENTITY  pref.newtab "close all tabs and open new-tab page">
 <!ENTITY  pref.home "close all tabs and go to home page">
 <!ENTITY  pref.blank "close all tabs and open a blank page ">
+<!ENTITY  pref.opencusurl "close all tabs and open custom page">
+<!ENTITY  pref.onlyopencusurl "open custom page">
+<!ENTITY  pref.opencusurle "close all tabs, open custom page and minimize">
 <!ENTITY  pref.newtabe "close all tabs, open new-tab page and minimize">
 <!ENTITY  pref.homee "close all tabs, go to home page and minimize">
 <!ENTITY  pref.blanke "close all tabs, open a blank page and minimize">
+<!ENTITY  pref.customurl "custom URL:">
+<!ENTITY  pref.custominfo1 "( about:newtab for firefox speed dial)">
+<!ENTITY  pref.custominfo2 "( about:home for firefox's default homepage) ">
 <!ENTITY  pref.warn "warning">
 <!ENTITY  pref.warning1 "if choose options with 'close all tabs', there'll be NO WARNINGs">
 <!ENTITY  pref.warning2 "before close them, use them really carefully">

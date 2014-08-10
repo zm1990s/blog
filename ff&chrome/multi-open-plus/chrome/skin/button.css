@@ -1,0 +1,7 @@
+#group-open {
+	list-style-image: url("chrome://groupopen/skin/large.png");
+}
+
+toolbar[iconsize="small"] #group-open {
+	list-style-image: url("chrome://groupopen/skin/small.png");
+}
