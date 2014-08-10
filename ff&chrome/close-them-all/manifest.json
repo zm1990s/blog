@@ -1,0 +1,28 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "commands": {
+   
+      "close-all-tabs": {
+         "description": "Close all Tabs",
+         "suggested_key": {
+            "default": "Alt+Q"
+         }
+      }
+   
+   
+ 
+   },
+   "description": "close all Tabs and goto Homepage on Alt+Q ",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "manifest_version": 2,
+   "name": "Close all Tabs",
+   "permissions": [ "tabs" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.1"
+}

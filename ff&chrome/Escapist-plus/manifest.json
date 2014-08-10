@@ -1,0 +1,22 @@
+{
+   "background": {
+    "persistent": true,
+      "scripts": [ "bg.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "ears.js" ],
+      "matches": [ "<all_urls>" ]
+   } ],
+   "description": "Close tabs with the Esc key.",
+   "icons": {
+      "128": "exit-128.png",
+      "16": "exit-16.png",
+      "48": "exit-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQtLAiq9VlTvtn1dOTtgCEmohh9kXrWcHjLO9NzKndwwWXmgiKZA8HLvTFTDCtOyxwDwTYlPMLj1XxhFyhKrrtsflpAZXIzwA0eiXXaNVB2rL4OZzB1v2oCRTfX2uayDrdtSDJWxqhpN6V0uINa/9BuIqPXYmLnqW3WfnXKcCwzQIDAQAB",
+   "manifest_version": 2,
+   "name": "Escape",
+   "permissions": [ "tabs" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

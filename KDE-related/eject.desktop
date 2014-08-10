@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Service
+Encoding=UTF-8
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=all/allfiles;inode/directory;
+Icon=media-eject
+Actions=eject;
+
+[Desktop Action eject]
+Name=eject
+Name[zh_CN]=弹出
+Name[zh_TW]=彈出
+Icon=media-eject
+Exec=[ -f /tmp/um.sh ] || echo -e 'case $LANG in \n zh_CN*) \n succes="已成功弹出" \n failr="未成功弹出，请检查是否有程序占用磁盘" \n err="您需要同时安装 udisks 和 udisks2" \n;;\n zh_TW*)\n succes="已成功彈出" \n failr="未成功彈出，請檢查是否有程序佔用磁盤"\n err="您需要同時安裝 udisks 和 udisks2" \n ;; \n *)\n succes="has been removed" \n failr="failed to remove, please check\n if there is a program using the device" \n err="you need to install both udisks and udisks2" \n;; \n esac \n which udisks udisksctl||(`kdialog --error "$err"`; exit 1)||exit  \n choice=`df $@| grep sd|cut -c-8`\n xx=(`df --output=source|grep $choice `) \nlet se=0\n while [ ${#xx[*]}  -gt $se ]\ndo udisksctl unmount -b ${xx["$se"]} \n let se=$se+1\ndone\n sleep 1\n c=`udisks --detach $choice `\n if [ -z $c ]\nthen notify-send -u normal -i face-smile "$choice $succes"\n else\n notify-send -u normal -i face-sad "$failr"\n fi '>/tmp/um.sh; bash /tmp/um.sh
