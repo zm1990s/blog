@@ -15,6 +15,7 @@
 		<preferences>
 			<preference id="urls" name="extensions.groupopen.urls" type="unichar"/>
 			<preference id="closeother" name="extensions.groupopen.closeother" type="bool"/>
+			<preference id="dely" name="extensions.groupopen.delay" type="int"/>
 		</preferences>
 	
 			<groupbox> 
@@ -25,14 +26,20 @@
   <label control='Url'>&pref.info1;</label>
   <label control='Url'>&pref.info2;</label>
   <label control='Url'>&pref.info3;</label>
-   
+  </groupbox>
+  <groupbox> 
+  <hbox>
+      <label control="Delay">&pref.delay;</label>
+       <textbox  tooltiptext="&pref.delay;" preference="dely"  cols="4" type="number"  increment="100 " />
+          <label control="Delay">ms</label>
+      </hbox>
 </groupbox>
 
 <groupbox>
   	  <checkbox id="closeOther" label="&pref.close;"  />
 	 <checkbox id="warnonClose" label="&pref.warn;" style="padding-left:20px;" />
     <label control='Url'>&pref.warninfo;</label> 
-
+	
 </groupbox>
 
 	</prefpane>

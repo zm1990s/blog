@@ -7,10 +7,10 @@
 		<em:id>{508BF154-1D58-11E4-A7E3-21A91D5D46B0}</em:id>
 		<em:type>2</em:type>
 		<em:name>Multi Open plus</em:name>
-		<em:version>1.0.0</em:version>
+		<em:version>1.0.1</em:version>
 		<em:creator>zm1990s</em:creator>
-		<em:optionsURL>chrome://groupopen/content/options.xul</em:optionsURL>
-		<em:iconURL>chrome://groupopen/content/icon.png</em:iconURL>
+		<em:optionsURL>chrome://groupopenplus/content/options.xul</em:optionsURL>
+		<em:iconURL>chrome://groupopenplus/content/icon.png</em:iconURL>
 		<em:description>open a list of urls at one time, for people who like to check several websites everyday</em:description>
 		
 		 <em:localized>

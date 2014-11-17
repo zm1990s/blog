@@ -1,6 +1,6 @@
-content groupopen chrome/content/
-overlay		chrome://browser/content/browser.xul		chrome://groupopen/content/button.xul
-style  chrome://global/content/customizeToolbar.xul chrome://groupopen/skin/button.css
-skin		groupopen	classic		chrome/skin/
-locale groupopen en-US locale/en-US/
-locale groupopen zh-CN locale/zh-CN/
+content groupopenplus chrome/content/
+overlay		chrome://browser/content/browser.xul		chrome://groupopenplus/content/button.xul
+style  chrome://global/content/customizeToolbar.xul chrome://groupopenplus/skin/button.css
+skin		groupopenplus	classic		chrome/skin/
+locale groupopenplus en-US locale/en-US/
+locale groupopenplus zh-CN locale/zh-CN/

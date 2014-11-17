@@ -9,5 +9,6 @@
 <!ENTITY  pref.info3 "www.weibo.com">
 <!ENTITY  pref.warn "关闭其他标签时不要警告">
 <!ENTITY  pref.warninfo "如果勾选了关闭其他标签，浏览器会在关闭时警告，勾选后不提示！">
+<!ENTITY  pref.delay "打开页面的间隔">
 <!ENTITY  pref.save "保存">
 <!ENTITY  pref.cancel "取消">

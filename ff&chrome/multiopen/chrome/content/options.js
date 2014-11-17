@@ -7,6 +7,7 @@ var groupOpenoption = {
 		elem.checked =  !prefs.getBoolPref("browser.tabs.warnOnCloseOtherTabs");
 		elem = document.getElementById("closeOther");
 		elem.checked =  prefs.getBoolPref("extensions.groupopen.closeother");
+
     },
 
 	saveOptions: function() { 
@@ -17,6 +18,8 @@ var groupOpenoption = {
 	  prefs.setBoolPref("extensions.groupopen.closeother", elem.checked);
 	  elem = document.getElementById("warnonClose");
 	  prefs.setBoolPref("browser.tabs.warnOnCloseOtherTabs", !elem.checked);
+	   elem = document.getElementById("dely");
+	  prefs.setIntPref("extensions.groupopen.delay", elem.value);
 	  window.close();
 	}
 };

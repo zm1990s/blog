@@ -1,7 +1,7 @@
-var groupOpen = {
+var groupOpenPlus = {
   openconfig:function()
   {
-     window.openDialog('chrome://groupopen/content/options.xul',"Multi tab", 'chrome,centerscreen,dependent');
+     window.openDialog('chrome://groupopenplus/content/options.xul',"Multi tab", 'chrome,centerscreen,dependent');
   },
   closetabs:function()
   {
@@ -18,7 +18,7 @@ var groupOpen = {
         gBrowser.selectedTab = gBrowser.addTab(url[1]);
 		      gBrowser.removeAllTabsBut(gBrowser.selectedTab);
 		      
-      for (i=2; i< url.length ;i++){
+      for (i=3; i< url.length ;i++){
 	    gBrowser.addTab(url[i]);		
 	};
   }
@@ -33,9 +33,9 @@ var groupOpen = {
       
     },
 	onload: function() {
-		window.removeEventListener('load', groupOpen.onload, false);
+		window.removeEventListener('load', groupOpenPlus.onload, false);
 var prefs = Components.classes["@mozilla.org/preferences-service;1"].getService(Components.interfaces.nsIPrefBranch);
-		var firstRun = prefs.getBoolPref('extensions.groupopen.firstRun');
+		var firstRun = prefs.getBoolPref('extensions.groupopenplus.firstRun');
 
 		if (firstRun) {
 				var toolbar = document.getElementById('nav-bar');
@@ -45,7 +45,7 @@ var prefs = Components.classes["@mozilla.org/preferences-service;1"].getService(
 						toolbar.setAttribute('currentset', newset);
 						document.persist(toolbar.id, "currentset");
 				}
-				prefs.setBoolPref('extensions.groupopen.firstRun', false);
+				prefs.setBoolPref('extensions.groupopenplus.firstRun', false);
 		}
 	},
 
@@ -53,19 +53,19 @@ var prefs = Components.classes["@mozilla.org/preferences-service;1"].getService(
 	openLink: function(choice) {
 		var prefs = Components.classes["@mozilla.org/preferences-service;1"].getService(Components.interfaces.nsIPrefBranch);
 
-		var closeother = prefs.getBoolPref('extensions.groupopen.closeother');
-	  var urls = prefs.getCharPref('extensions.groupopen.urls');
+		var closeother = prefs.getBoolPref('extensions.groupopenplus.closeother');
+	  var urls = prefs.getCharPref('extensions.groupopenplus.urls');
 	//  alert(urls);
 	  var all=urls.split("#");
 	  var url=all[choice].trim();
 	//  alert(url);	  
  var url=url.split("\n");
-//groupOpen.closetabs();
- groupOpen.doit(url,closeother);
+//groupOpenPlus.closetabs();
+ groupOpenPlus.doit(url,closeother);
 
 	
 
 	}
 };
 
-window.addEventListener('load',groupOpen.onload,false)
+window.addEventListener('load',groupOpenPlus.onload,false)

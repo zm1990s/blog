@@ -1,48 +1,22 @@
 var groupOpen = {
-  closeotherandopen:function(url,delay)
+	  openurls:function(url)
+  {
+     function doit(url){
+   clearTimeout(tid);
+   alert(i);
+   gBrowser.addTab(url[i]);
+   i++;
+   if(i<url.length) tid = setTimeout(doit,2000);
+}
+      },
+  closeotherandopen:function(url)
       {
   //   alert("hello");
         gBrowser.selectedTab = gBrowser.addTab(url[0]);
 		      gBrowser.removeAllTabsBut(gBrowser.selectedTab);
-     /* var i;
-      for (i=1; i< url.length ;i++){
-	    gBrowser.addTab(url[i]);		
-	};  */
-var i = 1;
-setInterval(function() {
-                        
-			
-		//	alert(i);
-			
-                        if (i >= url.length) {
-                            return;
-			   
-                        }
-			gBrowser.addTab(url[i]);
-			++i;
-                    }, delay);return;
-
+    	     groupOpen.openurls(url);
   },
-  openurls:function(url,delay)
-  {
-    
-    
-           gBrowser.selectedTab = gBrowser.addTab(url[0]);
-    var i=1;
-setInterval(function() {
-                        
-			
-		//	alert(i);
-			
-                        if (i >= url.length) {
-                            return;
-			   
-                        }
-			gBrowser.addTab(url[i]);
-			++i;
-                    }, delay);return;
 
-	},
 
 	onload: function() {
 		window.removeEventListener('load', groupOpen.onload, false);
@@ -70,15 +44,18 @@ var prefs = Components.classes["@mozilla.org/preferences-service;1"].getService(
 	  case 0:
 		var closeother = prefs.getBoolPref('extensions.groupopen.closeother');
 	  var urls = prefs.getCharPref('extensions.groupopen.urls');
-	  var delay = prefs.getIntPref('extensions.groupopen.delay');
 	//  alert(urls);
 	  	  var url=urls.trim();
 		  var url=url.split("\n");
 		
   if (closeother == true)
-groupOpen.closeotherandopen(url,delay);
+      gBrowser.selectedTab = gBrowser.addTab(url[0]);
+		      gBrowser.removeAllTabsBut(gBrowser.selectedTab);
+    	     groupOpen.openurls(url);
+//groupOpen.closeotherandopen(url);
 	else 
-	groupOpen.openurls(url,delay);
+	 gBrowser.addTab(url[0]); 
+	 groupOpen.openurls(url);
 	 break;  //case0 结束
 	 
 	  case 1:

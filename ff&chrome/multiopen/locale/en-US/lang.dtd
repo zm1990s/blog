@@ -9,5 +9,6 @@
 <!ENTITY  pref.info3 "www.twitter.com">
 <!ENTITY  pref.warn "DON'T warn me on close other tabs">
 <!ENTITY  pref.warninfo "if you choose 'close other tabs', Browser might warn you, you can turn off that here">
+<!ENTITY  pref.delay "interval between open pages">
 <!ENTITY  pref.save "save">
 <!ENTITY  pref.cancel "cancel">
