@@ -1,0 +1,3994 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-26 17:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: zhangmin <zm1990s@gmail.com>, 2016\n"
+"Language-Team: Chinese (https://www.transifex.com/test-1-1/teams/64825/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: alerts/alert.py:32
+msgid "Personal Message"
+msgstr "私信"
+
+#: alerts/alert.py:33
+msgid "Another user has sent you a personal message."
+msgstr "您收到一条私信。"
+
+#: alerts/models.py:66
+msgid "URL Slug"
+msgstr "网址别名"
+
+#: alerts/models.py:67
+msgid "Limit to Group"
+msgstr "限制到组"
+
+#: alerts/models.py:69
+msgid "Created Date"
+msgstr "创建日期"
+
+#: alerts/models.py:71 resources/models.py:264
+#: resources/templates/resources/alert/email_resource_alert.txt:13
+#: resources/templates/resources/resource_info.html:50
+msgid "Category"
+msgstr "类别"
+
+#: alerts/models.py:185
+msgid "Hide Alerts"
+msgstr "隐藏通知"
+
+#: alerts/models.py:186
+msgid "Send Email Alert"
+msgstr "发送邮件通知"
+
+#: alerts/models.py:385
+msgid "Object ID"
+msgstr "对象 ID"
+
+#: alerts/models.py:406
+msgid "Message Body"
+msgstr "私信正文"
+
+#: alerts/templates/alerts/alert/email_footer.txt:3
+msgid "All the best,"
+msgstr "祝一切顺利，"
+
+#: alerts/templates/alerts/alert/email_footer.txt:4
+msgid "Inkscape.org Website"
+msgstr "Inkscape.org 网址"
+
+#: alerts/templates/alerts/alert/email_footer.txt:7
+msgid "Unsubscribe:"
+msgstr "取消订阅："
+
+#: alerts/templates/alerts/alert/email_footer.txt:9
+#, python-format
+msgid ""
+"If you do no longer want to receive these messages, you can edit your "
+"subscriptions and messaging settings at %(site)s%(message_settings_link)s."
+msgstr "如果你不想再收到这些私信，可以在 %(site)s%(message_settings_link)s 编辑订阅选项和通知选项。"
+
+#: alerts/templates/alerts/alert/email_message_alert.txt:2
+#: cmsdiff/templates/cmsdiff/alert/email_page_published_alert.txt:2
+#: resources/templates/resources/alert/email_resource_alert.txt:3
+#, python-format
+msgid "Dear %(recipient)s,"
+msgstr "您好 %(recipient)s，"
+
+#: alerts/templates/alerts/alert/email_message_alert.txt:4
+#, python-format
+msgid ""
+"%(sender)s, another user of the Inkscape web site, has sent you a personal "
+"message:"
+msgstr "%(sender)s，您收到 Inkscape 网站用户发来的私信："
+
+#: alerts/templates/alerts/alert/email_message_alert.txt:11
+#: alerts/templates/alerts/alert/message_alert.html:8
+msgid "Reply"
+msgstr "回复"
+
+#: alerts/templates/alerts/alert/email_message_alert.txt:12
+#, python-format
+msgid "Visit %(sender)s's profile"
+msgstr "查看 %(sender)s 的资料"
+
+#: alerts/templates/alerts/alert/email_message_alert.txt:13
+msgid "All my messages"
+msgstr "所有私信"
+
+#: alerts/templates/alerts/alert/message_alert.html:6
+#: resources/templates/resources/resourcemirror_thanks.html:11
+msgid "from"
+msgstr "发件人"
+
+#: alerts/templates/alerts/alert/message_alert.html:6
+#: alerts/templates/alerts/message_list.html:33
+#: moderation/templates/moderation/items/user.html:28
+#: person/templates/person/team_detail.html:77
+#: resources/templates/resources/alert/resource_alert.html:9
+msgid "Visit profile"
+msgstr "查看资料"
+
+#: alerts/templates/alerts/alertsubscription_confirm_delete.html:5
+#, python-format
+msgid "If you unsubscribe, you will no longer get alerts about %(alert)s."
+msgstr "如果取消订阅，您将不再受到关于 %(alert)s 的通知。"
+
+#: alerts/templates/alerts/alertsubscription_confirm_delete.html:9
+#: alerts/templates/alerts/alertsubscription_form.html:24
+#: forums/templates/comments/preview.html:30
+#: forums/templates/comments/single_comment.html:23
+#: moderation/templates/moderation/flag.html:22
+#: moderation/templates/moderation/flag_item.html:6
+#: moderation/templates/moderation/flag_item.html:9
+#: moderation/templates/moderation/items/comment.html:35
+#: moderation/templates/moderation/items/comment.html:38
+#: moderation/templates/moderation/items/resourcefile.html:37
+#: moderation/templates/moderation/items/resourcefile.html:40
+#: moderation/templates/moderation/items/user.html:60
+#: moderation/templates/moderation/items/user.html:63
+#: person/templates/person/user_detail.html:15
+#: person/templates/person/user_form.html:7
+#: projects/templates/projects/project_propose.html:42
+#: resources/templates/resources/resource_detail.html:12
+#: resources/templates/resources/resource_detail.html:118
+#: resources/templates/resources/resource_form.html:49
+#: resources/templates/resources/resource_form.html:54
+msgid "Cancel"
+msgstr "取消"
+
+#: alerts/templates/alerts/alertsubscription_confirm_delete.html:10
+#: alerts/templates/alerts/alertsubscription_list.html:76
+msgid "Unsubscribe"
+msgstr "取消订阅"
+
+#: alerts/templates/alerts/alertsubscription_form.html:6
+#, python-format
+msgid "Subscribe to %(object)s"
+msgstr "订阅 %(object)s"
+
+#: alerts/templates/alerts/alertsubscription_form.html:8 alerts/views.py:96
+#, python-format
+msgid "Subscribe to All %(alert_name)s"
+msgstr "订阅所有  %(alert_name)s"
+
+#: alerts/templates/alerts/alertsubscription_form.html:15
+#, python-format
+msgid ""
+"You will receive an email alert by default when you subscribe, but these can"
+" be switched off in your <a href=\"%(alertsettings_url)s\">subscription "
+"settings</a>."
+msgstr ""
+"默认情况下当您选择订阅时，将会收到系统的邮件通知，可以在 <a "
+"href=\"%(alertsettings_url)s\">订阅设置</a>中关闭这些通知。"
+
+#: alerts/templates/alerts/alertsubscription_form.html:17
+#, python-format
+msgid ""
+"You will <strong>NOT</strong> receive an email alert by when you subscribe, "
+"but these can be switched on in your <a "
+"href=\"%(alertsettings_url)s\">subscription settings</a>."
+msgstr ""
+"您将 <strong>不会</strong> 收到订阅邮件通知，可以在<a "
+"href=\"%(alertsettings_url)s\">订阅设置</a>中打开这些通知。"
+
+#: alerts/templates/alerts/alertsubscription_form.html:25
+msgid "Subscribe Me"
+msgstr "订阅"
+
+#: alerts/templates/alerts/alertsubscription_list.html:12
+msgid "Alert Type"
+msgstr "通知类型"
+
+#: alerts/templates/alerts/alertsubscription_list.html:13
+msgid "Hide Any Alerts"
+msgstr "隐藏所有通知"
+
+#: alerts/templates/alerts/alertsubscription_list.html:14
+msgid "Send Email Too"
+msgstr "发送邮件"
+
+#: alerts/templates/alerts/alertsubscription_list.html:25
+msgid "Currently set to default values for this type of alert."
+msgstr "重置此类型通知的设置。"
+
+#: alerts/templates/alerts/alertsubscription_list.html:46
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: alerts/templates/alerts/alertsubscription_list.html:50
+msgid "Subscriptions"
+msgstr "订阅"
+
+#: alerts/templates/alerts/alertsubscription_list.html:55
+msgid "Alert"
+msgstr "通知"
+
+#: alerts/templates/alerts/alertsubscription_list.html:56
+msgid "For"
+msgstr "收件人"
+
+#: alerts/templates/alerts/alertsubscription_list.html:57
+msgid "Action"
+msgstr "操作"
+
+#: alerts/templates/alerts/alertsubscription_list.html:70
+msgid "Subscribed to All"
+msgstr "订阅所有"
+
+#: alerts/templates/alerts/alertsubscription_list.html:81
+msgid "No alert subscriptions"
+msgstr "无任何通知订阅"
+
+#: alerts/templates/alerts/menu.html:8
+msgid "Inbox"
+msgstr "收件箱"
+
+#. Translators: Leave SOME_NUMBER intact, this is for the number of new
+#. messages
+#: alerts/templates/alerts/menu.html:12
+msgid "(SOME_NUMBER new)"
+msgstr "(SOME_NUMBER 条新消息)"
+
+#: alerts/templates/alerts/menu.html:15
+msgid "Outbox"
+msgstr "发件箱"
+
+#: alerts/templates/alerts/menu.html:17
+msgid "Message Settings"
+msgstr "私信设置"
+
+#: alerts/templates/alerts/message_form.html:5
+msgid "Write Message"
+msgstr "编写私信"
+
+#: alerts/templates/alerts/message_form.html:10
+msgid "Reply To Message"
+msgstr "回复私信"
+
+#: alerts/templates/alerts/message_form.html:12
+#: alerts/templates/alerts/useralert_list.html:26
+msgid "New Message"
+msgstr "编写新私信"
+
+#: alerts/templates/alerts/message_form.html:20
+msgid "Reply To:"
+msgstr "回复："
+
+#: alerts/templates/alerts/message_form.html:43
+#: forums/templates/comments/preview.html:31
+msgid "Send"
+msgstr "发送"
+
+#: alerts/templates/alerts/message_list.html:10
+msgid "Sent Messages"
+msgstr "发送私信"
+
+#: alerts/templates/alerts/message_list.html:33
+msgid "to"
+msgstr "给"
+
+#: alerts/templates/alerts/message_list.html:41
+msgid "No sent messages"
+msgstr "无已发送私信"
+
+#: alerts/templates/alerts/useralert_list.html:23
+msgid "Deleted"
+msgstr "已删除"
+
+#: alerts/templates/alerts/useralert_list.html:26
+msgid "New"
+msgstr "新建"
+
+#: alerts/templates/alerts/useralert_list.html:35
+msgid "Mark as Read"
+msgstr "标记为已读"
+
+#: alerts/templates/alerts/useralert_list.html:39
+msgid "Delete Alert"
+msgstr "删除通知"
+
+#: alerts/templates/alerts/useralert_list.html:49
+msgid ""
+"This alert was for an object that no longer exists. It has been deleted."
+msgstr "此通知的对象已经不存在。已被删除。"
+
+#: alerts/templates/alerts/useralert_list.html:56
+msgid "No messages or alerts to view"
+msgstr "无新私信或者通知"
+
+#: alerts/views.py:50
+msgid "Your Messages"
+msgstr "私信"
+
+#: alerts/views.py:93
+#, python-format
+msgid "Subscribe to %(object_name)s"
+msgstr "订阅 %(object_name)s"
+
+#: alerts/views.py:104
+#, python-format
+msgid "Deleted %d previous subscription(s) (superseded)"
+msgstr "已删除 %d 条之前的订阅 (被取代)"
+
+#: alerts/views.py:105
+msgid "Subscription created!"
+msgstr "订阅已创建！"
+
+#: alerts/views.py:106
+msgid "Already subscribed to this!"
+msgstr "已经订阅此项目！"
+
+#: alerts/views.py:121
+#, python-format
+msgid "Unsubscribe from %(object_name)s"
+msgstr "取消订阅 %(object_name)s"
+
+#: alerts/views.py:124
+#, python-format
+msgid "Unsubscribe from all %(alert_name)s"
+msgstr "取消订阅所有 %(alert_name)s"
+
+#: alerts/views.py:140
+msgid "Your Alert Settings"
+msgstr "通知设置"
+
+#: alerts/views.py:165
+#, python-format
+msgid ""
+"You haven't told us your mail address yet! If you would like to receive "
+"emails from inkscape.org, enter an email address <a href='%(url)s'>in your "
+"profile</a>."
+msgstr ""
+"您尚未设置邮件地址，如果想接收 inkscape.org 的邮件通知，请在<a href='%(url)s'>个人资料</a>中填写邮件地址。"
+
+#: cmsdiff/alert.py:34
+msgid "Website Page Published"
+msgstr "网页被发布"
+
+#: cmsdiff/alert.py:35
+msgid "A page on the website has been published after editing."
+msgstr "网页完成编辑并发布时通知我。"
+
+#: cmsdiff/cms_toolbar.py:31
+msgid "Alerts"
+msgstr "通知"
+
+#: cmsdiff/cms_toolbar.py:37
+msgid "Unsubscribe from this page"
+msgstr "取消订阅此页面"
+
+#: cmsdiff/cms_toolbar.py:39
+msgid "Subscribe to this page"
+msgstr "订阅此页面"
+
+#: cmsdiff/cms_toolbar.py:40
+msgid "Subscribe to all pages"
+msgstr "订阅所有页面"
+
+#: cmsdiff/cms_toolbar.py:42
+msgid "Unsubscribe from all pages"
+msgstr "取消订阅所有页面"
+
+#: cmsdiff/middleware.py:84 cmsdiff/middleware.py:115
+#, python-format
+msgid "New %(otype)s"
+msgstr "新建 %(otype)s"
+
+#: cmsdiff/middleware.py:89
+#, python-format
+msgid "Translate %(otype)s"
+msgstr "翻译 %(otype)s"
+
+#: cmsdiff/middleware.py:93
+#, python-format
+msgid "Edit %(otype)s"
+msgstr "编辑 %(otype)s"
+
+#: cmsdiff/middleware.py:96
+#, python-format
+msgid "Delete %(otype)s"
+msgstr "删除 %(otype)s"
+
+#: cmsdiff/templates/admin/cms/page/plugin/submit_line.html:3
+#: cmsplugin_news/templates/admin/cmsplugin_news/change_form.html:12
+#: cmsplugin_news/templates/admin/cmsplugin_news/change_form.html:16
+#: projects/templates/projects/projectupdate_form.html:34
+#: resources/templates/resources/gallery_form.html:24
+#: resources/templates/resources/resource_form.html:42
+#: resources/templates/resources/resource_form.html:45
+#: resources/templates/resources/resourcemirror_form.html:24
+msgid "Save"
+msgstr "保存"
+
+#: cmsdiff/templates/admin/cms/page/plugin/submit_line.html:5
+#: resources/templates/resources/resource_detail.html:119
+#: resources/templates/resources/resource_form.html:49
+#: resources/templates/resources/resource_form.html:50
+msgid "Delete"
+msgstr "删除"
+
+#: cmsdiff/templates/admin/cms/page/plugin/submit_line.html:7
+msgid "Save as new"
+msgstr "另存为"
+
+#: cmsdiff/templates/admin/cms/page/plugin/submit_line.html:8
+msgid "Save and add another"
+msgstr "保存并添加另一个"
+
+#: cmsdiff/templates/admin/cms/page/plugin/submit_line.html:9
+msgid "Save and continue editing"
+msgstr "保存并继续编辑"
+
+#: cmsdiff/templates/admin/cms/page/plugin/submit_line.html:16
+msgid "Revision Comment"
+msgstr "变更说明"
+
+#: cmsdiff/templates/cmsdiff/alert/email_page_published_alert.txt:4
+#, python-format
+msgid "you are subscribed to website changes at %(site)s."
+msgstr "您已订阅了 %(site)s 的变动通知。"
+
+#: cmsdiff/templates/cmsdiff/alert/email_page_published_alert.txt:5
+#, python-format
+msgid "The page '%(web_page)s' was changed:"
+msgstr "页面 '%(web_page)s' 已被修改："
+
+#: cmsdiff/templates/cmsdiff/alert/email_page_published_alert.txt:7
+#: cmsplugin_news/models.py:85
+#: resources/templates/resources/resource_detail.html:62
+#: resources/templates/resources/resource_detail.html:103
+#: resources/templates/resources/resource_info.html:40
+#: resources/templates/resources/resource_info.html:47
+#: resources/templates/resources/resource_view.html:44
+msgid "Link"
+msgstr "链接"
+
+#: cmsdiff/templates/cmsdiff/alert/email_page_published_alert.txt:8
+msgid "Published by"
+msgstr "发布人"
+
+#: cmsdiff/templates/cmsdiff/alert/email_page_published_alert.txt:9
+#: cmsplugin_news/models.py:97 releases/models.py:151
+msgid "Language"
+msgstr "语言"
+
+#: cmsdiff/templates/cmsdiff/alert/email_page_published_alert.txt:11
+#: cmsdiff/templates/cmsdiff/alert/page_published_alert.html:3
+msgid "Overview of changes"
+msgstr "变更概述"
+
+#: cmsdiff/templates/cmsdiff/alert/email_page_published_alert.txt:15
+#, python-format
+msgid "You can find the full diff at %(site)s%(link)s."
+msgstr "点击 %(site)s%(link)s 查看详细对比。"
+
+#: cmsdiff/templates/cmsdiff/alert/page_published_alert.html:9
+msgid "See Full Diff"
+msgstr "查看完整对比"
+
+#: cmsdiff/templates/cmsdiff/revision_diff.html:4
+msgid "Revision Diff"
+msgstr "变动对比"
+
+#: cmsdiff/templates/cmsdiff/revision_diff.html:11
+msgid "Revision Differences"
+msgstr "变动区别"
+
+#: cmsdiff/templates/cmsdiff/revision_diff.html:14
+msgid "Changes By:"
+msgstr "变动日期："
+
+#: cmsdiff/templates/cmsdiff/revision_diff.html:15
+msgid "Comment:"
+msgstr "注释："
+
+#: cmsdiff/templates/reversion/object_history.html:8
+msgid ""
+"Choose a date from the list below to revert to a previous version of this "
+"object."
+msgstr "从下方列表中选择回退此对象。"
+
+#: cmsdiff/templates/reversion/object_history.html:16
+msgid "From revision"
+msgstr "从版本"
+
+#: cmsdiff/templates/reversion/object_history.html:17
+msgid "To revision"
+msgstr "变更到"
+
+#: cmsdiff/templates/reversion/object_history.html:18
+#: forums/templates/comments/view_comment.html:5
+msgid "Comment"
+msgstr "注释"
+
+#: cmsdiff/templates/reversion/object_history.html:19
+msgid "User"
+msgstr "用户"
+
+#: cmsdiff/templates/reversion/object_history.html:20
+msgid "Date/time"
+msgstr "日期/时间"
+
+#: cmsdiff/templates/reversion/object_history.html:21
+#: cmsdiff/templates/reversion/object_history.html:50
+msgid "Revert"
+msgstr "回退"
+
+#: cmsdiff/templates/reversion/object_history.html:57
+msgid "View Diff"
+msgstr "显示对比"
+
+#: cmsdiff/templates/reversion/object_history.html:63
+msgid ""
+"This object doesn't have a change history. It probably wasn't added via this"
+" admin site."
+msgstr "此项目无任何变更记录，可能不是由此网站管理员创建的。"
+
+#: cmsplugin_news/admin.py:42
+msgid "Info"
+msgstr "信息"
+
+#: cmsplugin_news/admin.py:43
+msgid "Actual Content"
+msgstr "实际内容"
+
+#: cmsplugin_news/admin.py:95
+#, python-format
+msgid "%(count)d newsitem was published"
+msgid_plural "%(count)d newsitems were published"
+msgstr[0] "%(count)d 条新消息被发布"
+
+#: cmsplugin_news/admin.py:98
+msgid "Publish selected news"
+msgstr "发布选择的消息"
+
+#: cmsplugin_news/admin.py:106
+#, python-format
+msgid "%(count)d newsitem was unpublished"
+msgid_plural "%(count)d newsitems were unpublished"
+msgstr[0] "%(count)d 条新消息未被发布"
+
+#: cmsplugin_news/admin.py:109
+msgid "Unpublish selected news"
+msgstr "取消发布选择的消息"
+
+#: cmsplugin_news/cms_app.py:30
+msgid "News App"
+msgstr "新闻App"
+
+#: cmsplugin_news/cms_plugins.py:38
+#: cmsplugin_news/templates/cmsplugin_news/news_archive.html:8
+msgid "Latest news"
+msgstr "最新新闻"
+
+#: cmsplugin_news/forms.py:64
+msgid "English Version"
+msgstr "英文版"
+
+#: cmsplugin_news/menu.py:41
+msgid "News menu"
+msgstr "新闻菜单"
+
+#: cmsplugin_news/models.py:69
+#: cmsplugin_news/templates/cmsplugin_news/translation.html:21
+#: cmsplugin_toc/models.py:29 projects/models.py:65
+msgid "Title"
+msgstr "标题"
+
+#: cmsplugin_news/models.py:70
+msgid "Slug"
+msgstr "别名"
+
+#: cmsplugin_news/models.py:71
+msgid "A slug is a short name which provides a unique url."
+msgstr "别名是一个指向网址的短名称。"
+
+#: cmsplugin_news/models.py:73
+#: cmsplugin_news/templates/cmsplugin_news/translation.html:23
+msgid "Excerpt"
+msgstr "摘录"
+
+#: cmsplugin_news/models.py:74
+#: cmsplugin_news/templates/cmsplugin_news/translation.html:25
+msgid "Content"
+msgstr "正文"
+
+#: cmsplugin_news/models.py:76
+msgid "Published"
+msgstr "已发布"
+
+#: cmsplugin_news/models.py:77
+msgid "Publication date"
+msgstr "发布日期"
+
+#: cmsplugin_news/models.py:86
+msgid ""
+"This link will be used as absolute url for this item and replaces the view "
+"logic. <br />Note that by default this only applies for items with an empty "
+"\"content\" field."
+msgstr ""
+
+#: cmsplugin_news/models.py:98
+msgid "Translated version of another news item."
+msgstr ""
+
+#: cmsplugin_news/models.py:109 cmsplugin_news/models.py:110
+msgid "News"
+msgstr "新闻"
+
+#: cmsplugin_news/models.py:113
+msgid "Translate News"
+msgstr "翻译新闻"
+
+#: cmsplugin_news/models.py:185
+msgid "Number of news items to show"
+msgstr "新闻条目数"
+
+#: cmsplugin_news/models.py:186
+msgid "Limits the number of items that will be displayed"
+msgstr "限制将要显示的条目数"
+
+#: cmsplugin_news/settings.py:40
+msgid "News feed"
+msgstr "新闻订阅"
+
+#: cmsplugin_news/settings.py:41
+msgid "A feed full of news"
+msgstr "订阅新闻"
+
+#: cmsplugin_news/templates/admin/cmsplugin_news/change_form.html:10
+#: cmsplugin_news/templates/cmsplugin_news/translation.html:29
+msgid "Save Translation"
+msgstr "保存翻译"
+
+#: cmsplugin_news/templates/admin/cmsplugin_news/change_form.html:13
+msgid "Unpublish"
+msgstr "取消发布"
+
+#: cmsplugin_news/templates/admin/cmsplugin_news/change_form.html:15
+msgid "Publish"
+msgstr "发布"
+
+#: cmsplugin_news/templates/cmsplugin_news/latest_news.html:2
+#: inkscape/templates/base.html:18
+#: resources/templates/resources/resource_leftbar.html:4
+msgid "RSS Feed"
+msgstr "RSS 订阅"
+
+#: cmsplugin_news/templates/cmsplugin_news/latest_news.html:11
+#: cmsplugin_news/templates/cmsplugin_news/list_item.html:13
+msgid "Read more"
+msgstr "阅读更多"
+
+#: cmsplugin_news/templates/cmsplugin_news/latest_news.html:15
+msgid "No news yet"
+msgstr "暂无新闻"
+
+#: cmsplugin_news/templates/cmsplugin_news/latest_news.html:17
+msgid "Archive"
+msgstr "归档"
+
+#: cmsplugin_news/templates/cmsplugin_news/list_item.html:9
+msgid "not published"
+msgstr "未发布"
+
+#: cmsplugin_news/templates/cmsplugin_news/news_archive_day.html:4
+#: cmsplugin_news/templates/cmsplugin_news/news_archive_day.html:7
+#: cmsplugin_news/templates/cmsplugin_news/news_archive_month.html:4
+#: cmsplugin_news/templates/cmsplugin_news/news_archive_month.html:7
+#: cmsplugin_news/templates/cmsplugin_news/news_archive_year.html:4
+#: cmsplugin_news/templates/cmsplugin_news/news_archive_year.html:7
+msgid "News for"
+msgstr "新闻 - "
+
+#: cmsplugin_news/templates/cmsplugin_news/news_archive_day.html:12
+msgid "No news for this day."
+msgstr "今日无新闻。"
+
+#: cmsplugin_news/templates/cmsplugin_news/news_archive_month.html:12
+msgid "No news for this month."
+msgstr "本月没有新闻。"
+
+#: cmsplugin_news/templates/cmsplugin_news/news_archive_year.html:12
+#: cmsplugin_news/templates/cmsplugin_news/news_archive_year.html:22
+msgid "No news for this year."
+msgstr "今年没有新闻。"
+
+#: cmsplugin_news/templates/cmsplugin_news/news_archive_year.html:17
+msgid "Months"
+msgstr "个月"
+
+#: cmsplugin_news/templates/cmsplugin_news/news_detail.html:10
+msgid "Use the admin menu to publish it."
+msgstr "使用系统管理员菜单进行发布"
+
+#: cmsplugin_news/templates/cmsplugin_news/news_detail.html:10
+msgid "This article is not published yet!"
+msgstr "此文章未被发布！"
+
+#: cmsplugin_news/templates/cmsplugin_news/translation.html:5
+msgid "Translate News Article"
+msgstr "翻译新闻文章"
+
+#: cmsplugin_news/templates/cmsplugin_news/translation.html:14
+msgid "Please correct the errors below"
+msgstr "请修正下面的错误"
+
+#: cmsplugin_news/templates/cmsplugin_news/translation.html:17
+#, python-format
+msgid "Translate News Article into %(language)s"
+msgstr "翻译新闻文章为%(language)s"
+
+#: cmsplugin_news/templates/cmsplugin_news/translation.html:20
+msgid "New Translation"
+msgstr "新翻译"
+
+#: cmsplugin_news/templates/cmsplugin_news/translation.html:20
+msgid "Original"
+msgstr "原文"
+
+#: cmsplugin_toc/cms_plugins.py:32
+msgid "Table of Contents"
+msgstr "目录"
+
+#: cmsplugin_toc/models.py:30
+msgid "Use Bullets"
+msgstr "使用项目符号"
+
+#: cmsplugin_toc/models.py:31
+msgid "Class"
+msgstr "级别"
+
+#: cmstabs/admin.py:31
+msgid "Select Author's User Account"
+msgstr "选择作者的账户"
+
+#: cmstabs/admin.py:36
+msgid "Background Image Name"
+msgstr "背景图片名"
+
+#: cmstabs/admin.py:37
+msgid "Background Image File"
+msgstr "背景图片文件"
+
+#: cmstabs/admin.py:38
+msgid "Background Author"
+msgstr "背景作者"
+
+#: cmstabs/admin.py:39
+msgid "Background License"
+msgstr "背景许可"
+
+#: cmstabs/admin.py:40
+msgid "Background Credit Link"
+msgstr "背景致谢链接"
+
+#: cmstabs/cms_plugins.py:61
+msgid "Front Shield"
+msgstr "横幅"
+
+#: cmstabs/cms_plugins.py:78
+msgid "Group of Users List"
+msgstr "用户组列表"
+
+#: cmstabs/cms_toolbar.py:36
+msgid "NOT LIVE!"
+msgstr "当前离线！"
+
+#: cmstabs/models.py:45
+msgid "Icon"
+msgstr "图标"
+
+#: cmstabs/models.py:54
+msgid "Download Icon"
+msgstr "下载图标"
+
+#: cmstabs/models.py:58 resources/models.py:273
+#: resources/templates/resources/resource_info.html:26
+#: resources/templates/resources/resource_view.html:43
+msgid "External Link"
+msgstr "外部链接"
+
+#: cmstabs/models.py:61
+msgid "Background"
+msgstr "背景"
+
+#: cmstabs/models.py:66
+msgid "Heading"
+msgstr "标题"
+
+#: cmstabs/models.py:67
+msgid "Sub-Heading"
+msgstr "子标题"
+
+#: cmstabs/models.py:68
+msgid "Tab Icon"
+msgstr "标签图标"
+
+#: cmstabs/models.py:73
+msgid "Button Text"
+msgstr "按键文字"
+
+#: cmstabs/models.py:74
+msgid "Button Link"
+msgstr "按键链接"
+
+#: cmstabs/models.py:75
+msgid "Button Icon"
+msgstr "按键图标"
+
+#: cmstabs/models.py:155
+msgid "Simple List"
+msgstr "简易列表"
+
+#: cmstabs/models.py:156
+msgid "Photo Heads"
+msgstr "照片标题"
+
+#: cmstabs/models.py:157
+msgid "Photo Bios"
+msgstr "照片简介"
+
+#: cmstabs/models.py:161 resources/models.py:765 resources/models.py:777
+msgid "Display Style"
+msgstr "显示风格"
+
+#: cmstabs/templates/cms/irc_chat.html:3
+msgid "Chat Now"
+msgstr "立即聊天"
+
+#: cmstabs/templates/cms/irc_chat.html:6
+msgid "You must be logged on to the website to use the web IRC service."
+msgstr "必须先登陆才能使用网页版 IRC 服务"
+
+#: cmstabs/templates/cms/irc_chat.html:7
+msgid "Login Now"
+msgstr "立即登陆"
+
+#: cmstabs/templates/cms/irc_chat.html:10
+msgid "You must have an email address configured to use the web IRC service."
+msgstr "你必须配置邮箱地址才能使用网页版 IRC 服务"
+
+#: cmstabs/templates/cms/irc_chat.html:11
+msgid "Add One Now"
+msgstr "立即添加"
+
+#: cmstabs/templates/cms/plugins/shield.html:20
+#: resources/templates/resources/resource_detail.html:4
+#: resources/templates/resources/resource_detail.html:46
+#: resources/templates/resources/resource_form.html:20
+#: resources/templates/resources/resource_modal.html:4
+msgid "by"
+msgstr "-"
+
+#: cmstabs/templatetags/extras.py:37
+#, python-format
+msgid "%dyr"
+msgstr "%d年"
+
+#: cmstabs/templatetags/extras.py:38
+#, python-format
+msgid "%dmon"
+msgstr "%d月"
+
+#: cmstabs/templatetags/extras.py:39
+#, python-format
+msgid "%dwk"
+msgstr "%d周"
+
+#: cmstabs/templatetags/extras.py:40
+#, python-format
+msgid "%dd"
+msgstr "%d天"
+
+#: cmstabs/templatetags/extras.py:41
+#, python-format
+msgid "%dhr"
+msgstr "%d小时"
+
+#: cmstabs/templatetags/extras.py:42
+#, python-format
+msgid "%dmin"
+msgstr "%d分钟"
+
+#: cmstabs/templatetags/extras.py:48
+#: moderation/templates/moderation/items/user.html:48
+msgid "Never"
+msgstr "永不"
+
+#: cmstabs/templatetags/extras.py:60
+msgid "Now"
+msgstr "当前"
+
+#: cmstabs/templatetags/extras.py:60
+msgid "0 minutes"
+msgstr "0 分钟"
+
+#: cmstabs/templatetags/user_session.py:104
+msgid "unknown"
+msgstr "未知"
+
+#: forums/models.py:59 forums/views.py:34
+msgid "Website Forums"
+msgstr "论坛"
+
+#: forums/models.py:80
+msgid "Set this ONLY if you want this forum restricted to this language"
+msgstr "仅在需要限制此论坛只能使用这种语言时，设置此选项"
+
+#: forums/models.py:85
+msgid "Fixed Content From"
+msgstr "设置固定内容："
+
+#: forums/models.py:87 forums/models.py:121
+msgid "Last Posted"
+msgstr "最后发言"
+
+#: forums/models.py:122
+msgid "Sticky Priority"
+msgstr "置顶优先级"
+
+#: forums/models.py:123
+msgid ""
+"If set, will stick this post to the top of the topics list. Higher numbers "
+"appear nearer the top. Same numbers will apear together, sorted by date."
+msgstr "如果设置此项，此帖子将会置顶显示。数字越大，置顶优先级越高。相同数字的文章会在一起显示，按照日期排序。"
+
+#: forums/models.py:126
+msgid "Topic is locked by moderator."
+msgstr "话题已被监督员锁定。"
+
+#: forums/templates/comments/comment_area.html:17
+#, python-format
+msgid ""
+"You need to <a href=\"%(url)s\">add an email address to your profile</a> if "
+"you'd like to leave a comment!"
+msgstr "你需要 <a href=\"%(url)s\">在个人资料中添加邮件地址</a>才能发表言论！"
+
+#: forums/templates/comments/comment_area.html:25
+#, python-format
+msgid "Please <a href=\"%(url)s\">log in</a> to leave a comment!"
+msgstr "请<a href=\"%(url)s\">登录</a>后发言！"
+
+#: forums/templates/comments/delete.html:4
+msgid "Remove a comment"
+msgstr "移除评论"
+
+#: forums/templates/comments/delete.html:7
+msgid "Really remove this comment?"
+msgstr "确定删除此评论？"
+
+#: forums/templates/comments/delete.html:12
+msgid "Remove"
+msgstr "删除"
+
+#: forums/templates/comments/deleted.html:4
+msgid "Thanks for removing"
+msgstr "已移除"
+
+#: forums/templates/comments/deleted.html:7
+msgid "Thank you!"
+msgstr "多谢！"
+
+#: forums/templates/comments/deleted.html:8
+msgid ""
+"It's great that you take the time to improve the quality of discussion on "
+"our site."
+msgstr "多谢您帮助维护网站。"
+
+#: forums/templates/comments/deleted.html:9
+#: forums/templates/comments/posted.html:8
+msgid "Return to previous page"
+msgstr "返回上页"
+
+#: forums/templates/comments/new_form.html:4
+#: forums/templates/comments/preview.html:18
+msgid "Leave a comment:"
+msgstr "写评论："
+
+#: forums/templates/comments/new_form.html:5
+msgid "Submit Comment"
+msgstr "提交评论"
+
+#: forums/templates/comments/new_form.html:31
+#: forums/templates/forums/forumtopic_form.html:36
+msgid ""
+"Please read Inkscape's <a tabindex=\"10\" href=\"/community/coc\">Code of "
+"Conduct</a> before posting."
+msgstr "请在发表帖子前先阅读 Inkscape 的<a tabindex=\"10\" href=\"/community/coc\">行为守则</a>。"
+
+#: forums/templates/comments/posted.html:4
+msgid "Thanks for commenting"
+msgstr "感谢提交评论"
+
+#: forums/templates/comments/posted.html:7
+msgid "Thank you for your comment"
+msgstr "感谢提交评论"
+
+#: forums/templates/comments/preview.html:4
+msgid "Write a comment"
+msgstr "编写评论"
+
+#: forums/templates/comments/preview.html:7
+msgid "Please write a comment or cancel:"
+msgstr "请编写评论或者取消："
+
+#: forums/templates/comments/single_comment.html:11
+#, python-format
+msgid "<a href=\"%(profile_url)s\">%(user_name)s</a> wrote %(comment_date)s:"
+msgstr "<a href=\"%(profile_url)s\">%(user_name)s</a> 写到 %(comment_date)s:"
+
+#: forums/templates/comments/single_comment.html:20
+msgid "You have reported this comment"
+msgstr "已举报此评论"
+
+#: forums/templates/comments/single_comment.html:22
+msgid "Report Comment"
+msgstr "举报评论"
+
+#: forums/templates/comments/single_comment.html:23
+msgid "Are you sure you want to report this comment?"
+msgstr "确定要举报此评论？"
+
+#: forums/templates/comments/single_comment.html:23
+#: person/templates/person/user_detail.html:15
+#: resources/templates/resources/resource_detail.html:12
+msgid "Report"
+msgstr "举报"
+
+#: forums/templates/comments/view_thread.html:5
+#, python-format
+msgid "All comments for %(subject)s"
+msgstr "%(subject)s 下所有评论"
+
+#: forums/templates/forums/forum_detail.html:16
+#: forums/templates/forums/forumtopic_detail.html:16
+msgid ""
+"This forum is broken, it is attached to a defunct content type and needs to "
+"be reconfigured by a system's administrator."
+msgstr "论坛已经损坏，内容不复存在，需要系统管理员重新配置。"
+
+#: forums/templates/forums/forum_detail.html:28
+msgid "New Topic"
+msgstr "新建话题"
+
+#: forums/templates/forums/forum_detail.html:40
+msgid "No topics yet"
+msgstr "无任何话题"
+
+#: forums/templates/forums/forum_list.html:37
+msgid "No forums configured"
+msgstr "未配置任何论坛"
+
+#: forums/templates/forums/forumtopic_detail.html:24
+msgid "Comments hidden because of misconfiguration."
+msgstr "配置错误，评论被隐藏。"
+
+#: forums/templates/forums/forumtopic_detail.html:50
+msgid "Post reply:"
+msgstr "回复："
+
+#: forums/templates/forums/forumtopic_form.html:37
+msgid "Submit new Topic"
+msgstr "提交新话题"
+
+#: forums/views.py:53
+msgid "Create a new Forum Topic"
+msgstr "创建新论坛话题"
+
+#: inkscape/cms_app.py:34
+msgid "search apphook"
+msgstr "搜索 apphook"
+
+#: inkscape/forms.py:25
+msgid "Contact Email"
+msgstr "联系邮箱"
+
+#: inkscape/forms.py:28
+msgid "Your comments or questions..."
+msgstr "此处输入评论或者问题..."
+
+#: inkscape/management/commands/ircbot.py:151
+#, python-format
+msgid "Hello there %(nick)s"
+msgstr "你好 %(nick)s"
+
+#: inkscape/management/commands/ircbot.py:168
+#, python-format
+msgid "No user with irc nickname \"%(nick)s\" on the website."
+msgstr "irc 名为\"%(nick)s\"的用户不存在。"
+
+#: inkscape/management/commands/ircbot.py:175
+msgid ""
+"Your irc nickname must be configured on the website. Or it must be the only "
+"user with this irc nickname."
+msgstr "您必须配置 irc 昵称，且仅能关联一个用户。"
+
+#: inkscape/management/commands/ircbot.py:180
+msgid "Too many users have that irc nickname configured."
+msgstr "有太多用户使用了那个 irc 昵称。"
+
+#: inkscape/management/commands/ircbot.py:182
+#, python-format
+msgid "Can not find user with irc nickname \"%(nick)s\""
+msgstr "找不到 irc 昵称为 \"%(nick)s\" 的用户"
+
+#: inkscape/management/commands/ircbot.py:187
+msgid "Message Sent"
+msgstr "信息已发送"
+
+#: inkscape/management/commands/ircbot.py:210
+#, python-format
+msgid "ALERT: %(subject)s ... More info: %(url)s"
+msgstr "通知： %(subject)s ... 更多信息： %(url)s"
+
+#: inkscape/middleware.py:186 person/templates/registration/welcome.html:23
+msgid "Home"
+msgstr "主页"
+
+#: inkscape/settings.py:207
+msgid "Website User"
+msgstr "网站用户"
+
+#: inkscape/settings.py:208
+msgid "Gallery Resource"
+msgstr "画廊库"
+
+#: inkscape/settings.py:209
+msgid "User Comment"
+msgstr "用户评论"
+
+#: inkscape/settings.py:227
+msgid "Three Column Page"
+msgstr "三分页面"
+
+#: inkscape/settings.py:228
+msgid "Full Screen"
+msgstr "全屏"
+
+#: inkscape/settings.py:229
+msgid "Normal Page"
+msgstr "普通页面"
+
+#: inkscape/settings.py:230
+msgid "Developer Page"
+msgstr "开发者页面"
+
+#: inkscape/settings.py:231
+msgid "Side Bar Page"
+msgstr "侧边栏页"
+
+#: inkscape/templates/admin/base_site.html:4
+msgid "Inkscape Website Administration"
+msgstr "Inkscape 网站管理"
+
+#: inkscape/templates/admin/base_site.html:36
+msgid "Welcome"
+msgstr "欢迎"
+
+#: inkscape/templates/admin/base_site.html:38
+msgid "Please be careful with all data."
+msgstr "请谨慎处理所有数据。"
+
+#: inkscape/templates/authors.html:6
+msgid "We thank everyone for helping!"
+msgstr "感谢所有做出贡献的人！"
+
+#: inkscape/templates/authors.html:7 inkscape/views.py:149
+msgid "Author Credits"
+msgstr "作者致谢"
+
+#: inkscape/templates/authors.html:8
+msgid "These people have helped us create the website you see here."
+msgstr "下列人员帮助我们创建了您现在看到的网站"
+
+#: inkscape/templates/base.html:16
+msgid "News Feed"
+msgstr "新闻订阅"
+
+#: inkscape/templates/base.html:30
+msgid "Inkscape Website Developers"
+msgstr "Inkscape 网站开发人员"
+
+#: inkscape/templates/base.html:32
+msgid ""
+"inkscape,vector,drawing,graphics,svg,xml,document,poster,linux,open "
+"source,foss,floss,free software,libre "
+"software,libre,freedom,line,shape,diagram,flowchart,graph,extension,plugin,software,download,platform,windows,win,mac,osx,ubuntu,fedora,debian,help,tutorial,chat,irc,home,homepage,professional,casual,powerful,text,web,www,w3c,standard"
+msgstr ""
+"inkscape,矢量,绘画,图像,svg,xml,文档,海报,linux,开源,自由开源软件,自由/开源软件,floss,自由软件,libre "
+"software,自由,freedom,line,shape,形状,diagram,flowchart,graph,图表,插件,扩展,软件,extension,plugin,software,下载,平台,苹果,download,platform,windows,win,mac,osx,ubuntu,fedora,debian,帮助,教程,聊天,主页,专业,强大,help,tutorial,chat,irc,home,homepage,professional,casual,powerful,text,web,www,w3c,standard"
+
+#: inkscape/templates/base.html:45
+msgid "Draw Freely."
+msgstr "随意画。"
+
+#: inkscape/templates/base.html:54
+#: person/templates/registration/password_reset_complete.html:11
+msgid "Log in"
+msgstr "登录"
+
+#: inkscape/templates/base.html:57
+#: person/templates/registration/registration_form.html:29
+msgid "Register"
+msgstr "注册"
+
+#: inkscape/templates/base.html:63
+msgid "Profile Photo"
+msgstr "头像"
+
+#: inkscape/templates/base.html:66 moderation/mixins.py:36
+msgid "Moderation"
+msgstr "监督员"
+
+#: inkscape/templates/base.html:69
+msgid "Administration"
+msgstr "管理员"
+
+#: inkscape/templates/base.html:71
+msgid "My Profile"
+msgstr "我的资料"
+
+#: inkscape/templates/base.html:72
+msgid "Logout"
+msgstr "注销"
+
+#: inkscape/templates/base.html:82 inkscape/templates/base.html.py:83
+#: inkscape/templates/search/search.html:12
+#: inkscape/templates/search/search.html:15
+#: inkscape/templates/search/search.html:16
+msgid "Search"
+msgstr "搜索"
+
+#: inkscape/templates/base.html:127
+#, python-format
+msgid ""
+"Inkscape is Free and Open Source Software licensed under the \n"
+"          <a href=\"%(gpl_url)s\">GPL</a>."
+msgstr "Inkscape 是在<a href=\"%(gpl_url)s\">GPL</a>许可下开发的开源自由软件。"
+
+#: inkscape/templates/base.html:136
+msgid "With thanks to:"
+msgstr "致谢："
+
+#: inkscape/templates/base.html:143
+msgid "This site is running:"
+msgstr "此网站运行："
+
+#: inkscape/templates/cms/toolbar/items/license.html:6
+msgid "Start Editing Website"
+msgstr "开始编辑网站"
+
+#: inkscape/templates/error/403.html:5
+msgid "Permission Denied"
+msgstr "权限不足"
+
+#: inkscape/templates/error/403.html:6
+msgid "Sorry, you're not allowed to see this."
+msgstr "抱歉，您没有权限查看。"
+
+#: inkscape/templates/error/403.html:8
+msgid ""
+"This website has many features for project management and community "
+"involvement. Permissions are needed to access certain functions."
+msgstr "此网站有很多项目管理以及社区维护功能，需要特殊的权限才能使用相关功能！"
+
+#: inkscape/templates/error/404.html:5
+msgid "Page Not Found"
+msgstr "页面未找到"
+
+#: inkscape/templates/error/404.html:6
+msgid ""
+"<p>Couldn't find what you were looking for.</p> <p>If you don't know why you"
+" got here, maybe you'd like to <a href=\"/search/\">search</a> to see if you"
+" can find what you were looking for.</p> <hr/> <p>If you've followed a link "
+"from our site, or are using a link that used to work before, please tell us "
+"<a href=\"https://bugs.launchpad.net/inkscape-web\">here</a> and we'll fix "
+"it.</p>"
+msgstr ""
+"<p>无法找到资源。</p> <p>如果你不知道怎么就穿越到了这里，或许可以试试<a "
+"href=\\\"/search/\\\">搜索</a>功能看能否找到感兴趣的资源。</p> <hr/> "
+"<p>如果是点击了网站内一个链接、或者此链接原来可用但现在异常，请在<a href=\\\"https://bugs.launchpad.net"
+"/inkscape-web\\\">这里</a>告知我们。</p>"
+
+#: inkscape/templates/error/500.html:5
+msgid "Server Error"
+msgstr "服务器错误"
+
+#: inkscape/templates/error/500.html:6
+msgid ""
+"The website is broken in some way. Now we've emailed the people who look "
+"after the website to let them know you've had problems, so please don't "
+"worry."
+msgstr "网站娘也不知道怎么就出故障了... 我们已经邮件通知网站管理员，不要捉急..."
+
+#: inkscape/templates/error/500.html:10
+#, python-format
+msgid ""
+"<a href=\"%(contact_url)s?subject=Error500\">Contact an admin</a> to let "
+"them know what you were doing if you think it will help find the error."
+msgstr ""
+"<a "
+"href=\\\"%(contact_url)s?subject=Error500\\\">联系管理员</a>，告知他们你在进行什么操作时遇到了错误(用英文书写邮件)。"
+
+#: inkscape/templates/error/list.html:5
+msgid "Website Errors"
+msgstr "网站错误"
+
+#: inkscape/templates/feedback.html:6
+msgid ""
+"This form allows you to submit a comment or question to the website "
+"administrator. They are volunteers who can help you with registration, "
+"download issues, moderation issues or spam. Please do not submit questions "
+"about Inkscape here. This is not a support form for Inkscape."
+msgstr ""
+"在这里你可以提交评论或者问题给网站管理员。我们帅帅的管理员是来自世界各地的志愿者，他们可以帮助你解决注册问题，下载问题，论坛监督问题或者删帖相关问题。请不要在此处提"
+" Inkscape 相关问题。"
+
+#: inkscape/templates/feedback.html:7
+msgid ""
+"Please say who you are and to mention a way to contact you, such as an email"
+" address, if you need to get a response back."
+msgstr "请先简单介绍下你，并提供你的联系方式例如邮件地址。"
+
+#: inkscape/templates/feedback.html:9
+msgid ""
+"Thank you for submitting your comment or question. If you are logged in then"
+" you may receive a reply to your configured email address."
+msgstr "感谢提供评论或者问题，如果当前已登录，处理结果信息会发送到资料中配置的邮箱中。"
+
+#: inkscape/templates/feedback.html:14
+msgid "Send Comment or Question"
+msgstr "发送评论或问题"
+
+#: inkscape/templates/pagination/pagination.html:5
+#: inkscape/templates/pagination/pagination.html:7
+msgid "previous"
+msgstr "上一个"
+
+#: inkscape/templates/pagination/pagination.html:21
+#: inkscape/templates/pagination/pagination.html:23
+msgid "next"
+msgstr "下一个"
+
+#: inkscape/templates/search/search.html:21
+msgid "Search Results for"
+msgstr "搜索结果"
+
+#: inkscape/templates/search/search.html:37
+msgid "No results found."
+msgstr "未找到"
+
+#: inkscape/templates/search/search.html:42
+msgid "Previous"
+msgstr "上一个"
+
+#: inkscape/templates/search/search.html:44
+#: resources/templates/resources/resource_form.html:43
+msgid "Next"
+msgstr "下一个"
+
+#: inkscape/templates/search/search.html:49
+msgid "Please search using the box above."
+msgstr "请使用上方搜索框搜索。"
+
+#: inkscape/views.py:46
+msgid "Contact Inkscape"
+msgstr "联系 Inkscape"
+
+#: inkscape/views.py:50
+msgid "Contact Inkscape Website Administrators"
+msgstr "联系 Inkscape 网站管理员"
+
+#: inkscape/views.py:151
+msgid "Managed Content"
+msgstr "已管理内容"
+
+#: inkscape/views.py:151
+msgid "Licensed GPLv2 or Later and CC-BY-SA"
+msgstr "使用 GPLv2 及 CC-BY-SA 许可"
+
+#: inkscape/views.py:152
+msgid "Website Programmers"
+msgstr "网站编程人员"
+
+#: inkscape/views.py:152
+msgid "Licensed AGPLv3"
+msgstr "使用 AGPLv3 许可"
+
+#: inkscape/views.py:153
+msgid "Translations"
+msgstr "翻译"
+
+#: inkscape/views.py:153
+msgid "Contributed to po files"
+msgstr "贡献 po 文件"
+
+#: inkscape/views.py:154
+msgid "Documentation"
+msgstr "文档"
+
+#: inkscape/views.py:154
+msgid "Contributors to Inkscape-docs team"
+msgstr "Inkscape-docs 团队的贡献者"
+
+#: logbook/templates/logbook/logmetric_list.html:5
+#: logbook/templates/logbook/logrequest_detail.html:18
+msgid "Website Logs"
+msgstr "网站日志"
+
+#: moderation/models.py:55
+msgid "Removal Suggestion"
+msgstr "移除建议"
+
+#: moderation/models.py:56
+msgid "Moderator Approval"
+msgstr "监督者批准"
+
+#: moderation/models.py:57
+msgid "Moderator Deletion"
+msgstr "监督者删除"
+
+#: moderation/models.py:115 moderation/models.py:140
+msgid "Flag Type"
+msgstr "标记类型"
+
+#: moderation/models.py:134
+msgid "Flagging User"
+msgstr "标记用户"
+
+#: moderation/models.py:135
+msgid "Implicated User"
+msgstr "受牵连的用户"
+
+#: moderation/models.py:139
+msgid "Date Flagged"
+msgstr "已标记日期"
+
+#: moderation/templates/moderation/flag.html:6
+#: moderation/templates/moderation/flag_item.html:5
+msgid "Hide Item"
+msgstr "隐藏项目"
+
+#: moderation/templates/moderation/flag.html:7
+#: moderation/templates/moderation/flag_item.html:6
+msgid "Are you sure you want to hide this item?"
+msgstr "确定隐藏此项目？"
+
+#: moderation/templates/moderation/flag.html:9
+#: moderation/templates/moderation/flag_item.html:8
+msgid "Approve Item"
+msgstr "批准项目请求"
+
+#: moderation/templates/moderation/flag.html:10
+#: moderation/templates/moderation/flag_item.html:9
+msgid "Are you sure you want to approve this item?"
+msgstr "确定批准此项目的请求？"
+
+#: moderation/templates/moderation/flag.html:12
+msgid "Flag Item"
+msgstr "标记项目"
+
+#: moderation/templates/moderation/flag.html:13
+msgid "Are you sure you want to flag this content?"
+msgstr "你确定标记此内容？"
+
+#: moderation/templates/moderation/flag.html:21 person/forms.py:64
+msgid "Confirm"
+msgstr "确认"
+
+#: moderation/templates/moderation/flag_flagged.html:8
+#: moderation/templates/moderation/flag_latest.html:8
+msgid "You can do two things here"
+msgstr "此处有两个选项"
+
+#: moderation/templates/moderation/flag_flagged.html:10
+#: moderation/templates/moderation/flag_latest.html:10
+#: moderation/templates/moderation/items/comment.html:37
+#: moderation/views.py:80
+msgid "Approve Comment"
+msgstr "批准评论"
+
+#: moderation/templates/moderation/flag_flagged.html:10
+#: moderation/templates/moderation/flag_latest.html:10
+msgid "Future reports of this comment will be ignored."
+msgstr "未来关于此评论的举报将会被忽略。"
+
+#: moderation/templates/moderation/flag_flagged.html:11
+#: moderation/templates/moderation/flag_latest.html:11
+#: moderation/templates/moderation/items/comment.html:34
+#: moderation/views.py:71
+msgid "Hide Comment"
+msgstr "隐藏评论"
+
+#: moderation/templates/moderation/flag_flagged.html:11
+#: moderation/templates/moderation/flag_latest.html:11
+msgid ""
+"The comment will no longer be shown on the website and the person who made "
+"this comment gets a message about the reason for this."
+msgstr "评论将不会在网站中显示出来，创建此评论的人员会收到一条关于隐藏评论的通知。"
+
+#: moderation/templates/moderation/flag_flagged.html:13
+msgid "This is a list of all comments reported by our users"
+msgstr "下面是所有被用户举报的评论列表"
+
+#: moderation/templates/moderation/flag_item.html:5
+#: moderation/templates/moderation/flag_item.html:6
+#: moderation/templates/moderation/items/comment.html:34
+#: moderation/templates/moderation/items/comment.html:35
+#: moderation/templates/moderation/items/resourcefile.html:36
+#: moderation/templates/moderation/items/resourcefile.html:37
+msgid "Hide"
+msgstr "隐藏"
+
+#: moderation/templates/moderation/flag_item.html:8
+#: moderation/templates/moderation/flag_item.html:9
+#: moderation/templates/moderation/items/comment.html:37
+#: moderation/templates/moderation/items/comment.html:38
+#: moderation/templates/moderation/items/resourcefile.html:39
+#: moderation/templates/moderation/items/resourcefile.html:40
+msgid "Approve"
+msgstr "批准"
+
+#: moderation/templates/moderation/flag_latest.html:13
+msgid "These are the comments made by our users within the last 30 days"
+msgstr "这些是30天内所有用户评论"
+
+#: moderation/templates/moderation/flag_list.html:5
+msgid "Welcome to the Moderators' Area!"
+msgstr "欢迎来到监督区！"
+
+#: moderation/templates/moderation/flag_list.html:6
+msgid ""
+"Before you start out on your mission to make the Inkscape Website a friendly"
+" place, please review our <a href='/community/coc/'>Community Code of "
+"Conduct</a>."
+msgstr "在帮助维护 Inkscape 网站前，请先阅读<a href='/community/coc/'>行为守则</a>。"
+
+#: moderation/templates/moderation/flag_list.html:11
+msgid "See All Reports"
+msgstr "查看所有举报"
+
+#: moderation/templates/moderation/flag_list.html:12
+msgid "See Latest Objects"
+msgstr "查看最近的举报"
+
+#: moderation/templates/moderation/items/comment.html:10
+#, python-format
+msgid ""
+"<a href=\"%(profile_url)s\">%(user_name)s</a> wrote %(creation_date)s about "
+"<a href=\"%(the_url)s\">%(resource_name)s</a>:"
+msgstr ""
+"<a href=\"%(profile_url)s\">%(user_name)s</a> 于 %(creation_date)s 发表 <a "
+"href=\"%(the_url)s\">%(resource_name)s</a>:"
+
+#: moderation/templates/moderation/items/comment.html:17
+#: moderation/templates/moderation/items/resourcefile.html:17
+#: moderation/templates/moderation/items/user.html:12
+msgid "deleted"
+msgstr "已被删除"
+
+#: moderation/templates/moderation/items/comment.html:18
+#: moderation/templates/moderation/items/resourcefile.html:18
+#: moderation/templates/moderation/items/user.html:13
+msgid "approved"
+msgstr "已被批准"
+
+#: moderation/templates/moderation/items/comment.html:19
+#: moderation/templates/moderation/items/resourcefile.html:19
+#: moderation/templates/moderation/items/user.html:14
+msgid "public"
+msgstr "公开"
+
+#: moderation/templates/moderation/items/comment.html:24
+#: moderation/templates/moderation/items/resourcefile.html:24
+#: moderation/templates/moderation/items/user.html:19
+msgid "Flags"
+msgstr "标签"
+
+#: moderation/templates/moderation/items/comment.html:35
+msgid "Are you sure you want to hide this comment?"
+msgstr "确定隐藏此评论？"
+
+#: moderation/templates/moderation/items/comment.html:38
+msgid "Are you sure you want to approve this comment?"
+msgstr "确定批准此评论？"
+
+#: moderation/templates/moderation/items/resourcefile.html:10
+#, python-format
+msgid ""
+"<a href=\"%(profile_url)s\">%(user_name)s</a> posted <a "
+"href=\"%(the_url)s\">%(resource_name)s</a>"
+msgstr ""
+"<a href=\"%(profile_url)s\">%(user_name)s</a> 发表 <a "
+"href=\"%(the_url)s\">%(resource_name)s</a>"
+
+#: moderation/templates/moderation/items/resourcefile.html:36
+msgid "Hide Resource"
+msgstr "隐藏资源"
+
+#: moderation/templates/moderation/items/resourcefile.html:37
+msgid "Are you sure you want to hide this resource?"
+msgstr "确定隐藏此资源？"
+
+#: moderation/templates/moderation/items/resourcefile.html:39
+msgid "Approve Resource"
+msgstr "批准资源"
+
+#: moderation/templates/moderation/items/resourcefile.html:40
+msgid "Are you sure you want to approve this resource?"
+msgstr "确定批准此资源？"
+
+#: moderation/templates/moderation/items/user.html:34
+#: person/templates/person/user_detail.html:59
+msgid "hasn't written anything about themselves yet"
+msgstr "尚未编写自我介绍"
+
+#: moderation/templates/moderation/items/user.html:40 releases/models.py:158
+#: resources/templates/resources/gallery_form.html:16
+#: resources/templates/resources/resourcemirror_list.html:23
+msgid "Name"
+msgstr "名字"
+
+#: moderation/templates/moderation/items/user.html:47
+#: person/templates/person/user_detail.html:102
+msgid "Last Seen"
+msgstr "最后上线"
+
+#: moderation/templates/moderation/items/user.html:49
+msgid "Joined On"
+msgstr "注册日期"
+
+#: moderation/templates/moderation/items/user.html:50
+#: person/templates/person/user_detail.html:66
+msgid "All Uploads"
+msgstr "所有上传"
+
+#: moderation/templates/moderation/items/user.html:50
+#: resources/templates/resources/resource_info.html:32
+msgid "View"
+msgstr "查看"
+
+#: moderation/templates/moderation/items/user.html:59
+msgid "Deactivate account"
+msgstr "调查账户"
+
+#: moderation/templates/moderation/items/user.html:60
+msgid "Are you sure you want to deactivate this account?"
+msgstr "确定调查此账户？"
+
+#: moderation/templates/moderation/items/user.html:60
+msgid "Deactivate"
+msgstr "调查"
+
+#: moderation/templates/moderation/items/user.html:62
+#: moderation/templates/moderation/items/user.html:63
+msgid "Dismiss Flags"
+msgstr "忽略标签"
+
+#: moderation/templates/moderation/items/user.html:63
+msgid "Are you sure you want to dismiss the flags?"
+msgstr "确定忽略此标签？"
+
+#: moderation/views.py:30
+msgid "Flag Object"
+msgstr "标记对象"
+
+#: moderation/views.py:32
+msgid "Flagging Canceled"
+msgstr "已取消标签"
+
+#: moderation/views.py:33
+msgid "Moderators have been notified of the issue you have reported."
+msgstr "监督人员已经收到了您提交的问题。"
+
+#: moderation/views.py:34
+msgid "You have already flagged this item for attention."
+msgstr "此项标已被标记。"
+
+#: moderation/views.py:39
+msgid "Moderators' Area"
+msgstr "监督区"
+
+#: moderation/views.py:49
+msgid "Moderate Flagged Items"
+msgstr "监督标记的项目"
+
+#: moderation/views.py:59
+msgid "Moderate Latest Items"
+msgstr "监督最新的项目"
+
+#: moderation/views.py:73
+msgid "Hiding Canceled"
+msgstr "已取消隐藏"
+
+#: moderation/views.py:74
+msgid "Item has been hidden!"
+msgstr "项目已被隐藏！"
+
+#: moderation/views.py:75
+msgid "Item was already hidden."
+msgstr "项目已被其他人隐藏。"
+
+#: moderation/views.py:82
+msgid "Approve Canceled"
+msgstr "已取消批准"
+
+#: moderation/views.py:83
+msgid "Item has been Approved."
+msgstr "项目已被批准。"
+
+#: moderation/views.py:84
+msgid "Item has already been approved."
+msgstr "项目已被其他人批准。"
+
+#: person/admin.py:63
+msgid "Personal info"
+msgstr "个人信息"
+
+#: person/admin.py:65
+msgid "Groups and Permissions"
+msgstr "所属组和权限"
+
+#: person/admin.py:68
+msgid "Social Networks"
+msgstr "社交网络"
+
+#: person/admin.py:71
+msgid "Important dates"
+msgstr "重要日期"
+
+#: person/forms.py:46 person/forms.py:49
+msgid "Human Test"
+msgstr "防机器人测试"
+
+#: person/forms.py:63
+msgid "Password"
+msgstr "密码"
+
+#: person/forms.py:75
+msgid "Account Settings"
+msgstr "账户设置"
+
+#: person/forms.py:77
+msgid "Personal Details"
+msgstr "个人详细信息"
+
+#: person/forms.py:79
+msgid "Social Settings"
+msgstr "社交网络设置"
+
+#: person/models.py:41
+msgid "Bio"
+msgstr "简历"
+
+#: person/models.py:42
+msgid "Photograph (square)"
+msgstr "头像(正方形)"
+
+#: person/models.py:44
+msgid "Default Language"
+msgstr "默认语言"
+
+#: person/models.py:46
+msgid "IRC Nickname"
+msgstr "IRC 昵称"
+
+#: person/models.py:47
+msgid "Freenode Password (optional)"
+msgstr "Freenode 密码(选填)"
+
+#: person/models.py:49
+msgid "deviantArt User"
+msgstr "deviantArt 用户"
+
+#: person/models.py:50
+msgid "Openclipart User"
+msgstr "Openclipart 用户"
+
+#: person/models.py:51
+msgid "Tumblr User"
+msgstr "Tumblr 用户"
+
+#: person/models.py:52
+msgid "GPG Public Key"
+msgstr "GPG 公钥"
+
+#: person/models.py:53
+msgid ""
+"<strong>Signing and Checksums for Uploads</strong><br/> Either fill in a "
+"valid GPG key, so you can sign your uploads, or just enter any text to "
+"activate the upload validation feature which verifies your uploads by "
+"comparing checksums.<br/><strong>Usage in file upload/editing "
+"form:</strong><br/>If you have submitted a GPG key, you can upload a *.sig "
+"file, and your upload can be verified. You can also submit these checksum "
+"file types:<br/>*.md5, *.sha1, *.sha224, *.sha256, *.sha384 or *.sha512"
+msgstr ""
+"<strong>用于签名或者校验上传的文件</strong><br/>可以选择提供正确的 GPG "
+"公钥以实现对上传文件的签名；或者随便输入什么内容，用于对文件的校验。<br/><strong>文件上传/编辑功能使用方法：</strong><br/>如果已经提供了"
+" GPG 公钥，你可以上传 *.sig 文件，这样上传的文件便可得到验证；也可以提供以下文件：<br/>*.md5, *.sha1, *.sha224,"
+" *.sha256, *.sha384 或 *.sha512 用于校验文件。"
+
+#: person/models.py:77
+msgid "IRC Chat Training Complete"
+msgstr "IRC 聊天教程完成"
+
+#: person/models.py:78
+msgid "Agree to Website License"
+msgstr "同意网站许可"
+
+#: person/models.py:173
+msgid "IRC Chatroom Name"
+msgstr "IRC 聊天室名"
+
+#: person/models.py:186
+msgid "Open"
+msgstr "打开"
+
+#: person/models.py:187
+msgid "Peer Approval"
+msgstr "同级人员批准"
+
+#: person/models.py:188
+msgid "Admin Approval"
+msgstr "管理员批准"
+
+#: person/models.py:189
+msgid "Closed"
+msgstr "关闭"
+
+#: person/models.py:190
+msgid "Secret"
+msgstr "秘密"
+
+#: person/models.py:199
+msgid "Team Name"
+msgstr "团队名"
+
+#: person/models.py:200
+msgid "Team URL Slug"
+msgstr "团队 URL 别名"
+
+#: person/models.py:201
+msgid "Display Icon"
+msgstr "图标"
+
+#: person/models.py:203
+msgid "Introduction"
+msgstr "简介"
+
+#: person/models.py:204
+msgid "Full Description"
+msgstr "完整介绍"
+
+#: person/models.py:205 person/templates/person/team_charter.html:4
+#: person/templates/person/team_charter.html:10
+msgid "Charter"
+msgstr "章程"
+
+#: person/models.py:206
+msgid "Side Bar"
+msgstr "侧边栏"
+
+#: person/models.py:208
+msgid "Email List"
+msgstr "邮件列表"
+
+#: person/models.py:210
+msgid "Enrollment"
+msgstr "注册"
+
+#: person/models.py:223 person/templates/person/user_detail.html:83
+msgid "Teams"
+msgstr "团队"
+
+#: person/templates/chat/tutorial.html:11
+msgid "Using Chat: First Time Tutorial"
+msgstr "使用聊天功能：初学者指南"
+
+#: person/templates/chat/tutorial.html:15
+msgid "Research the Problem Before Asking"
+msgstr "在提问前请先搜索该问题"
+
+#: person/templates/chat/tutorial.html:18
+msgid "Read the documentation."
+msgstr "阅读文档。"
+
+#: person/templates/chat/tutorial.html:20
+msgid "Check the Frequently Asked Questions."
+msgstr "查看常见问题及解答。"
+
+#: person/templates/chat/tutorial.html:22
+msgid "Search the Website."
+msgstr "搜索网站。"
+
+#: person/templates/chat/tutorial.html:24
+msgid "Look for tutorials."
+msgstr "查看教程。"
+
+#: person/templates/chat/tutorial.html:26
+msgid "Find answers in the Forum."
+msgstr "在论坛中寻找答案。"
+
+#: person/templates/chat/tutorial.html:28
+msgid "Do an internet search."
+msgstr "在网上搜索。"
+
+#: person/templates/chat/tutorial.html:34
+msgid "Ask The Right People"
+msgstr "询问相关人员"
+
+#: person/templates/chat/tutorial.html:37
+msgid "Don't ask when busy."
+msgstr "不要在讨论激烈的时候提问。"
+
+#: person/templates/chat/tutorial.html:38
+#: person/templates/chat/tutorial.html:44
+#: person/templates/chat/tutorial.html:50
+#: person/templates/chat/tutorial.html:56
+#: person/templates/chat/tutorial.html:69
+#: person/templates/chat/tutorial.html:75
+#: person/templates/chat/tutorial.html:81
+#: person/templates/chat/tutorial.html:87
+msgid "Why?"
+msgstr "为何？"
+
+#: person/templates/chat/tutorial.html:39
+msgid ""
+"If the chat room has many messages from lots of different people, it is "
+"worth waiting for the chat room to calm down before asking your question."
+msgstr "如果当前有很多人在发言，建议等他们讨论的话题结束之后再提问。"
+
+#: person/templates/chat/tutorial.html:43
+msgid "Ask everybody, not one person."
+msgstr "询问所有人，而不是只问其中一个人。"
+
+#: person/templates/chat/tutorial.html:45
+msgid ""
+"If you only ask one person, you may miss out on the help of others who may "
+"know the answer or can offer more specific information."
+msgstr "问更多的人可以获得更多甚至更详细的解答。"
+
+#: person/templates/chat/tutorial.html:49
+msgid "Keep technical questions to the developer's chat room."
+msgstr "在开发者聊天室中咨询技术问题。"
+
+#: person/templates/chat/tutorial.html:51
+msgid ""
+"There are different rooms where chat happens, and questions about the "
+"development, code or other technical subjects should be kept to the "
+"developer's chat room."
+msgstr "有很多种聊天室，关于开发的、编程的或者任何技术相关的问题都应该发表到开发者聊天室中。"
+
+#: person/templates/chat/tutorial.html:55
+msgid "Issues should be reported properly."
+msgstr "问题需要按照指定格式合理上报。"
+
+#: person/templates/chat/tutorial.html:57
+msgid ""
+"If you want a problem in the software to be fixed, you need to report the "
+"issue in the bug tracker. This is a system of recording problems and allows "
+"developers to sort it and attach useful information. It's kept in a database"
+" so they don't forget to fix it if they are busy right now."
+msgstr ""
+"如果遇到软件问题需要解决，可以通过 "
+"bug追踪提交问题。bug追踪是一个记录软件问题的系统，管理员可以将问题进行整理并解答。因为数据一直保存在数据库中，所以不用担心问题得不到回复。"
+
+#: person/templates/chat/tutorial.html:65
+msgid "Ask Good Questions"
+msgstr "提问题方式"
+
+#: person/templates/chat/tutorial.html:68
+msgid "Don't ask if it's OK to ask a question."
+msgstr "请不要问我可不可以问个问题。"
+
+#: person/templates/chat/tutorial.html:70
+msgid ""
+"There is no need asking if you're allowed to ask questions. The answer is "
+"Yes, and you're invited to ask your question directly."
+msgstr "不用发“你是否可以问个问题”这样的话。你可以直接问你的问题。"
+
+#: person/templates/chat/tutorial.html:74
+msgid "Be clear with your questions."
+msgstr "清楚的描述你的问题。"
+
+#: person/templates/chat/tutorial.html:76
+msgid ""
+"You may have to restate your question in a different way in order for others"
+" to understand you. Try to be as clear as possible each time you state the "
+"issue you have."
+msgstr "你可能需要以其他方式重述问题才能让其他人读懂。请每次尽量准确描述遇到的问题。"
+
+#: person/templates/chat/tutorial.html:80
+msgid "Include the reason or purpose."
+msgstr "请加上前因后果。"
+
+#: person/templates/chat/tutorial.html:82
+msgid ""
+"Sometimes the question you have is so specific that it hides a more general "
+"question which could be answered with a new method you may not have "
+"considered before. So always try and state what you are attempting to do "
+"overall."
+msgstr "有时候你提的问题描述很具体，但是忽略了一些很平常的东西。请在问问题的时候添加上遇到问题的前因后果。"
+
+#: person/templates/chat/tutorial.html:86
+msgid "Respond to requests for clarification."
+msgstr "回复别人的提问。"
+
+#: person/templates/chat/tutorial.html:88
+msgid ""
+"The chat room is an active place, your attention is needed to respond "
+"quickly to others who are trying to help you as they try and get to the root"
+" of problems."
+msgstr "聊天室是个很活跃的地方，你需要实时关注，回应那些想帮助你的人。"
+
+#: person/templates/chat/tutorial.html:96
+msgid "Be Patient"
+msgstr "有耐心"
+
+#: person/templates/chat/tutorial.html:97
+msgid ""
+"Wait for an answer. Not all users in chatrooms are checking all the time, "
+"but they will respond when they can."
+msgstr "耐心等待答案，并不是所有用户都会同时在线，但是一般他们看到了都会帮助解答。"
+
+#: person/templates/chat/tutorial.html:98
+msgid "Say Thanks"
+msgstr "记得说谢谢"
+
+#: person/templates/chat/tutorial.html:99
+msgid ""
+"All chat room helpers are volunteers, and showing your appreciation is very "
+"much encouraged."
+msgstr "所有聊天室成员都是志愿者，我们鼓励你对他们的共享做出感谢。"
+
+#: person/templates/chat/tutorial.html:107
+msgid "Back"
+msgstr "返回"
+
+#: person/templates/chat/tutorial.html:114
+msgid "I Understand"
+msgstr "我了解了"
+
+#: person/templates/person/base.html:4
+#: person/templates/person/user_detail.html:4
+msgid "User Profile"
+msgstr "用户资料"
+
+#: person/templates/person/cla-agree.html:4
+msgid "Licencing of Contributions"
+msgstr "贡献许可"
+
+#: person/templates/person/cla-agree.html:7 person/views.py:36
+msgid "Contributors License Agreement"
+msgstr "贡献者许可协议"
+
+#: person/templates/person/cla-agree.html:10
+msgid ""
+"Thank you for agreeing to the terms for contributing to the Inkscape "
+"website. All your edits to the cms will be dual-licenced as CC-BY-SA 4.0 and"
+" GPLv2 or later."
+msgstr "感谢您同意为 Inkscape 网站做出贡献。您编辑的所有 cms 都会附上 CC-BY-SA 4.0 和 GPLv2 两份许可。"
+
+#: person/templates/person/cla-agree.html:15
+msgid "I Agree"
+msgstr "我同意"
+
+#: person/templates/person/team_charter.html:11
+msgid ""
+"Each Inkscape team has responsibilities, rules and specific privileges. "
+"These are documented here, so all teams understand how they are supposed to "
+"work and what may be required of them."
+msgstr "每个 Inkscape 团队都有自己的责任、规则以及特殊权限。此处的文档记录了所有人的工作划分以及需要遵守的东西。"
+
+#: person/templates/person/team_charter.html:19
+#: person/templates/person/team_detail.html:92
+msgid "Team Details"
+msgstr "团队详情"
+
+#: person/templates/person/team_charter.html:25
+msgid "Charter Document"
+msgstr "章程"
+
+#: person/templates/person/team_chat.html:12
+msgid "Chatroom"
+msgstr "聊天室"
+
+#: person/templates/person/team_chat.html:21
+#, python-format
+msgid "%(object)s has no chat room"
+msgstr "%(object)s 无聊天室"
+
+#: person/templates/person/team_detail.html:17
+msgid "View team charter detailing responsibilities and rules."
+msgstr "查看团队对应的详细责任和规则。"
+
+#: person/templates/person/team_detail.html:17 person/views.py:102
+msgid "Team Charter"
+msgstr "团队章程"
+
+#: person/templates/person/team_detail.html:21
+msgid "Leave this team."
+msgstr "离队。"
+
+#: person/templates/person/team_detail.html:21
+msgid "Leave Team"
+msgstr "离队"
+
+#: person/templates/person/team_detail.html:24
+msgid ""
+"This means that you will no longer be kept up-to-date about this team's "
+"activities."
+msgstr "离队即表示你不再关注此团队的活动。"
+
+#: person/templates/person/team_detail.html:24
+msgid "Stop Watching Team"
+msgstr "停止关注团队"
+
+#: person/templates/person/team_detail.html:27
+msgid ""
+"Watchers are kept up-to-date about what's going on in the team, but can't "
+"take part in their work."
+msgstr "关注者可以看到团队工作进展的各项活动，但是不能参与工作。"
+
+#: person/templates/person/team_detail.html:27
+msgid "Watch Team"
+msgstr "关注团队"
+
+#: person/templates/person/team_detail.html:33
+msgid "Enroll yourself to become a member of this team."
+msgstr "申请成为此队的成员。"
+
+#: person/templates/person/team_detail.html:33
+msgid "Join Team"
+msgstr "加入团队"
+
+#: person/templates/person/team_detail.html:37
+msgid "Your request for a team membership is pending."
+msgstr "加团请求在审核中。"
+
+#: person/templates/person/team_detail.html:37
+msgid "Request Sent"
+msgstr "请求已发送"
+
+#: person/templates/person/team_detail.html:40
+msgid "Ask for a team membership."
+msgstr "加入团队。"
+
+#: person/templates/person/team_detail.html:40
+msgid "Request Membership"
+msgstr "加入团队"
+
+#: person/templates/person/team_detail.html:44
+msgid "This team uses another mode of determining its members."
+msgstr "此团队使用其他方式添加成员。"
+
+#: person/templates/person/team_detail.html:44
+msgid "Membership Closed"
+msgstr "不能加入"
+
+#: person/templates/person/team_detail.html:50
+msgid "Go to this team's IRC Chatroom."
+msgstr "前往此团队的 IRC 聊天室"
+
+#: person/templates/person/team_detail.html:50
+msgid "Team Chatroom"
+msgstr "团队聊天室"
+
+#: person/templates/person/team_detail.html:53
+#: person/templates/person/user_detail.html:64
+msgid "Your place to upload Inkscape Art!"
+msgstr "属于我的 Inkscape 艺术区！"
+
+#: person/templates/person/team_detail.html:53
+#: resources/templates/resources/resourcegallery_specific.html:4
+msgid "InkSpace"
+msgstr "InkSpace"
+
+#: person/templates/person/team_detail.html:55
+msgid "Team Galleries"
+msgstr "团队画册"
+
+#: person/templates/person/team_detail.html:58
+#: person/templates/person/user_detail.html:96
+msgid "Information"
+msgstr "信息"
+
+#: person/templates/person/team_detail.html:62
+msgid "Members"
+msgstr "成员"
+
+#: person/templates/person/team_detail.html:68
+msgid "Watchers"
+msgstr "关注者"
+
+#: person/templates/person/team_detail.html:74
+msgid "Join Requests"
+msgstr "加入请求"
+
+#: person/templates/person/team_detail.html:98
+msgid "Team Members"
+msgstr "团队成员"
+
+#: person/templates/person/team_detail.html:109
+msgid "Remove Membership"
+msgstr "移除成员"
+
+#: person/templates/person/team_list.html:10
+msgid "Inkscape Community Teams"
+msgstr "Inkscape 社区团队"
+
+#: person/templates/person/team_list.html:12
+msgid ""
+"The Inkscape community has several teams who meet, discuss and work on "
+"different aspects of developing Inkscape, looking after its infrastructure "
+"and supporting the community around the project. Here you will find all the "
+"current teams and the ability to join them."
+msgstr ""
+"Inkscape 社区有很多个团队，有 Inkscape "
+"各个部分的开发团队、基础环境维护以及社区支持团队。在这里可以看到当前所有的团队，感兴趣的话可以选择加入。"
+
+#: person/templates/person/user_detail.html:12
+msgid "You have flagged this user."
+msgstr "已经标记此用户。"
+
+#: person/templates/person/user_detail.html:14
+msgid "Flag User to Moderators"
+msgstr "标记用户并提示监督员"
+
+#: person/templates/person/user_detail.html:15
+msgid "Are you sure you want to report this user?"
+msgstr "你确定要举报此用户？"
+
+#: person/templates/person/user_detail.html:18
+msgid "You have added this user as a friend. Click here to remove."
+msgstr "已将此用户添加为好友。点击这里删除。"
+
+#: person/templates/person/user_detail.html:20
+msgid "Make friends with this user."
+msgstr "加为好友"
+
+#: person/templates/person/user_detail.html:24
+msgid "Inkscape Website Administrator"
+msgstr "Inkscape 网站管理员"
+
+#: person/templates/person/user_detail.html:27
+msgid "Inkscape Community Moderator"
+msgstr "Inkscape 社区监督员"
+
+#: person/templates/person/user_detail.html:30
+msgid "My deviantArt Account"
+msgstr "我的 deviantArt 账户"
+
+#: person/templates/person/user_detail.html:33
+msgid "My Openclipart Profile"
+msgstr "我的 Openclipart 资料"
+
+#: person/templates/person/user_detail.html:36
+msgid "My Tumblr"
+msgstr "Tumblr"
+
+#: person/templates/person/user_detail.html:39
+msgid "Send Message"
+msgstr "发送私信"
+
+#: person/templates/person/user_detail.html:50
+msgid "Anonymous"
+msgstr "匿名"
+
+#: person/templates/person/user_detail.html:53
+#: resources/templates/resources/resource_detail.html:116
+msgid "Edit"
+msgstr "编辑"
+
+#: person/templates/person/user_detail.html:64
+msgid "InkSpace Galleries"
+msgstr "InkSpace 画册"
+
+#: person/templates/person/user_detail.html:71
+msgid "PasteBin"
+msgstr "PasteBin"
+
+#: person/templates/person/user_detail.html:75
+msgid "Unsubscribe from Gallery"
+msgstr "取消订阅画廊"
+
+#: person/templates/person/user_detail.html:77
+msgid "Subscribe to Gallery"
+msgstr "订阅此画廊"
+
+#: person/templates/person/user_detail.html:99
+msgid "Public GPG Key"
+msgstr "GPG 公钥"
+
+#: person/templates/person/user_detail.html:105
+msgid "Joined"
+msgstr "已加入"
+
+#: person/templates/person/user_detail.html:107
+msgid "Profile Visits"
+msgstr "资料查看数"
+
+#: person/templates/person/user_detail.html:110
+msgid "Friends"
+msgstr "好友"
+
+#: person/templates/person/user_detail.html:112
+msgid "Subscribers"
+msgstr "订阅者"
+
+#: person/templates/person/user_detail.html:114
+msgid "Gallery Views"
+msgstr "画册浏览数"
+
+#: person/templates/person/user_detail.html:116
+msgid "Gallery Stars"
+msgstr "画册订阅数"
+
+#: person/templates/person/user_detail.html:118
+msgid "Downloads"
+msgstr "下载数"
+
+#: person/templates/person/user_detail.html:121
+msgid "Upload Quota"
+msgstr "上传限额"
+
+#: person/templates/person/user_detail.html:122
+msgid "of"
+msgstr "-"
+
+#: person/templates/person/user_detail.html:127
+msgid ""
+"Sessions are stored only as long as you are logged in and the IP address is "
+"not recorded permanently."
+msgstr "会话只有在已经登录且 IP 地址未被永久记录时才会被保存。"
+
+#: person/templates/person/user_detail.html:127
+msgid "Sessions"
+msgstr "会话"
+
+#: person/templates/person/user_detail.html:143
+msgid "Use The Paste Bin"
+msgstr "使用 PasteBin"
+
+#: person/templates/person/user_detail.html:147
+msgid "Paste Your Bin Here..."
+msgstr "将内容粘贴到此处..."
+
+#: person/templates/person/user_detail.html:148
+msgid "Paste!"
+msgstr "粘贴！"
+
+#: person/templates/person/user_detail.html:157
+msgid "Recent Uploads"
+msgstr "最近上传"
+
+#: person/templates/person/user_detail.html:168
+msgid "No uploads yet."
+msgstr "尚无上传。"
+
+#: person/templates/person/user_detail.html:173
+msgid "No uploads yet?"
+msgstr "尚无上传？"
+
+#: person/templates/person/user_detail.html:174
+#, python-format
+msgid ""
+"Visit <a href=\"%(yourinkspacelink)s\">your InkSpace</a> and create a "
+"gallery to start sharing your artwork, tutorials, extensions and everything "
+"else related to Inkscape with other Inkscape users!"
+msgstr ""
+"请访问<a "
+"href=\"%(yourinkspacelink)s\">InkSpace</a>创建一个新画册，立刻开始分享您的艺术作品、教程、插件以及任何与 "
+"Inkscape 相关的东西。"
+
+#: person/templates/person/user_detail.html:181
+msgid "Favorite Artworks"
+msgstr "喜欢的艺术作品"
+
+#: person/templates/person/user_detail.html:191
+msgid "No favorites yet."
+msgstr "尚无喜欢的。"
+
+#: person/templates/person/user_detail.html:196
+msgid "No favorites yet?"
+msgstr "没有喜欢的？"
+
+#: person/templates/person/user_detail.html:197
+#, python-format
+msgid ""
+"Visit <a href=\"%(gallery_url)s\">the gallery</a> to see what other Inkscape"
+" users have created!"
+msgstr "请访问<a href=\"%(gallery_url)s\">画册库</a>查看其它用户的分享。"
+
+#: person/templates/person/user_form.html:6
+msgid "Edit Message Settings"
+msgstr "修改私信设置"
+
+#: person/templates/person/user_form.html:8
+msgid "Save All"
+msgstr "保存所有"
+
+#: person/templates/registration/activate.html:4
+msgid "Registration Activation"
+msgstr "注册激活"
+
+#: person/templates/registration/activate.html:7
+msgid ""
+"The activation has failed (I think), please try to register again or check "
+"the email."
+msgstr "激活失败，请稍后重新注册或再次查看邮件。"
+
+#: person/templates/registration/activate.html:11
+#: person/templates/registration/activation_complete.html:15
+#: person/templates/registration/registration_complete.html:17
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: person/templates/registration/activation_complete.html:4
+msgid "Registration Activation Complete"
+msgstr "激活完成"
+
+#: person/templates/registration/activation_complete.html:9
+msgid ""
+"Your user account has been created. Please log in using your username and "
+"password."
+msgstr "账户已创建，请登录。"
+
+#: person/templates/registration/activation_complete.html:10
+#, python-format
+msgid ""
+"If you have any problems, please <a href=\"%(contact_url)s?subject=Lost "
+"activation code\"> contact us</a>."
+msgstr ""
+"如果有任何问题，请<a href=\"%(contact_url)s?subject=Lost activation code\">联系我们</a>。"
+
+#: person/templates/registration/activation_complete.html:16
+#: person/templates/registration/login.html:8
+msgid "Login"
+msgstr "登录"
+
+#: person/templates/registration/activation_email.txt:1
+msgid "Hi,"
+msgstr "你好，"
+
+#: person/templates/registration/activation_email.txt:3
+msgid ""
+"This is an automatic email to help you complete your registration with "
+"www.inkscape.org."
+msgstr "此邮件由系统发出，请按照下方提示完成 www.inkscape.org 的注册。"
+
+#: person/templates/registration/activation_email.txt:5
+msgid ""
+"Please open the following link in your web browser. If the link is split "
+"over several lines, you may need to copy it in the address bar."
+msgstr "点击下方链接进行激活，如果链接不可用，请手动复制链接并在浏览器中打开。"
+
+#: person/templates/registration/activation_email_subject.txt:1
+msgid "Your registration on www.inkscape.org"
+msgstr "注册 www.inkscape.org"
+
+#: person/templates/registration/logged_out.html:4
+msgid "Logout Complete"
+msgstr "已注销"
+
+#: person/templates/registration/logged_out.html:7
+msgid "Thanks for using the Inkscape website. Hope to see you again soon!"
+msgstr "感谢使用 Inkscape 网站！"
+
+#: person/templates/registration/logged_out.html:11
+msgid "Login Again"
+msgstr "再次登录"
+
+#: person/templates/registration/login.html:4
+msgid "User Login"
+msgstr "用户登录"
+
+#: person/templates/registration/login.html:7
+#: person/templates/registration/password_reset_confirm.html:25
+msgid "Reset Password"
+msgstr "重置密码"
+
+#: person/templates/registration/login.html:12
+msgid "Login via Google+"
+msgstr "通过 Google+ 登录"
+
+#: person/templates/registration/login.html:13
+msgid "Login via Facebook"
+msgstr "通过 Facebook 登录"
+
+#: person/templates/registration/login.html:14
+msgid "Login via Twitter"
+msgstr "通过 Twitter 登录"
+
+#: person/templates/registration/login.html:15
+msgid "Login via Yahoo"
+msgstr "通过 Yahoo 登录"
+
+#: person/templates/registration/password_reset_complete.html:4
+msgid "Password Reset Complete"
+msgstr "密码重置完成"
+
+#: person/templates/registration/password_reset_complete.html:7
+msgid "Your password has been set. You may go ahead and log in now."
+msgstr "密码设置成功。请立即登录"
+
+#: person/templates/registration/password_reset_confirm.html:6
+msgid "Enter new password"
+msgstr "输入新密码"
+
+#: person/templates/registration/password_reset_confirm.html:8
+msgid "Password reset unsuccessful"
+msgstr "密码重置失败"
+
+#: person/templates/registration/password_reset_confirm.html:16
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used. Please request a new password reset."
+msgstr "密码重置链接不可用(此地址或许已被使用)，请重新提交密码重置申请。"
+
+#: person/templates/registration/password_reset_confirm.html:19
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr "请输入两遍密码以确保输入正确。"
+
+#: person/templates/registration/password_reset_confirm.html:27
+#: person/templates/registration/password_reset_done.html:12
+msgid "Try Again"
+msgstr "重试"
+
+#: person/templates/registration/password_reset_done.html:4
+msgid "Password Reset Email Sent"
+msgstr "密码重置邮件已发送"
+
+#: person/templates/registration/password_reset_done.html:7
+msgid ""
+"We've emailed you instructions for setting your password. You should be "
+"receiving them shortly."
+msgstr "已发送的邮件中包含密码重置方法，您稍后应该会受到邮件。"
+
+#: person/templates/registration/password_reset_done.html:8
+msgid ""
+"If you don't receive an email, please make sure you've used the correct "
+"email address, and check your spam folder."
+msgstr "如果未收到邮件，请确保填写了正确的邮箱地址，或者检查邮件系统的垃圾箱。"
+
+#: person/templates/registration/password_reset_email.html:3
+msgid "Greetings,"
+msgstr "你好！"
+
+#: person/templates/registration/password_reset_email.html:5
+#, python-format
+msgid ""
+"You are receiving this email because you (or someone pretending to be you)\n"
+"requested that your password be reset on the %(domain)s site. If you do not\n"
+"wish to reset your password, please ignore this message."
+msgstr ""
+"您收到此邮件是因为您 (或者其他人)\n"
+"在 %(domain)s 提交了密码重置申请。如果您不想\n"
+"重置密码，请忽略此消息。"
+
+#: person/templates/registration/password_reset_email.html:9
+msgid ""
+"To reset your password, please click the following link, \n"
+"or copy and paste it into your web browser:"
+msgstr ""
+"请点击下方链接重置密码, \n"
+"或是复制链接并在浏览器中打开："
+
+#: person/templates/registration/password_reset_email.html:14
+msgid "Your username, in case you've forgotten:"
+msgstr "您的用户名为："
+
+#: person/templates/registration/password_reset_email.html:16
+msgid "Best regards, Inkscape Website Team"
+msgstr "祝好， Inkscape 网站团队"
+
+#: person/templates/registration/password_reset_form.html:4
+msgid "Reset Your Password"
+msgstr "重置密码"
+
+#: person/templates/registration/password_reset_form.html:7
+msgid ""
+"Welcome! In order to adjust your password, we need to send an email to you "
+"with a link."
+msgstr "欢迎！请在下框填入密码重置邮箱。"
+
+#: person/templates/registration/password_reset_form.html:11
+msgid "Send Password Reset"
+msgstr "发送密码重置请求"
+
+#: person/templates/registration/registration_complete.html:4
+msgid "Registration Complete"
+msgstr "注册成功"
+
+#: person/templates/registration/registration_complete.html:9
+msgid ""
+"Thank you for registering. You will very soon receive an email with a "
+"confirmation link. Please follow this link in order to complete your "
+"registration."
+msgstr "感谢您注册，稍后您将收到一份确认邮件，里面包含一个确认链接，点击确认链接完成注册确认。"
+
+#: person/templates/registration/registration_complete.html:11
+#, python-format
+msgid ""
+"If you don't receive it shortly, please check your spam folder. If it's not "
+"there, please <a href=\"%(contact_url)s?subject=Lost activation "
+"code\">contact us</a>."
+msgstr ""
+"如果未收到邮件，请检查邮件系统的垃圾箱。如果垃圾箱没有，请<a href=\"%(contact_url)s?subject=Lost "
+"activation code\">联系我们</a>。"
+
+#: person/templates/registration/registration_complete.html:18
+msgid "Done"
+msgstr "完成"
+
+#: person/templates/registration/registration_form.html:4
+msgid "New User Registration"
+msgstr "新用户注册"
+
+#: person/templates/registration/registration_form.html:8
+msgid "You are already a registered user."
+msgstr "您已注册过此网站。"
+
+#: person/templates/registration/registration_form.html:15
+msgid "Welcome!"
+msgstr "欢迎！"
+
+#: person/templates/registration/registration_form.html:16
+msgid ""
+"In order to register for an account you must provide a valid email address."
+msgstr "注册时必须提供一个可用的邮箱地址。"
+
+#: person/templates/registration/registration_form.html:17
+msgid ""
+"The Inkscape website has the ability to notify you via email when things "
+"happen, like a new Inkscape release or a personal message from another user."
+" If you would like to control when an email should be sent to you, please go"
+" to your User Settings."
+msgstr "Inkscape 网站会通过邮件发送一些提醒，例如 Inkscape 新版本发布消息、私信。成功注册后可以在用户设置中修改邮件提醒的内容。"
+
+#: person/templates/registration/registration_form.html:18
+msgid ""
+"This website and it's services are provided 'as is', and you should not "
+"expect the services to continue to work or serve any particular need. Your "
+"files should never be assumed to be safe here and you should back everything"
+" up."
+msgstr "网站及其服务目前功能有限，如果服务器连接错误或者不能提供某些特殊服务，请见谅。另外我们并不能保障您上传数据的安全性，请做好本地备份。"
+
+#: person/templates/registration/registration_form.html:20
+#, python-format
+msgid ""
+"By registering, you acknowledge the Inkscape website's <a "
+"href=\"%(privacy_url)s\">Privacy Policy</a> and agree to respect the "
+"Inkscape <a href=\"%(coc_url)s\">Community's Code of Conduct</a>."
+msgstr ""
+"注册即表示你同意 Inkscape 网站的 <a href=\"%(privacy_url)s\">隐私政策</a>且会遵守 Inkscape <a "
+"href=\"%(coc_url)s\">社区行为守则</a>。"
+
+#: person/templates/registration/registration_form.html:27
+msgid "My User Profile"
+msgstr "个人资料"
+
+#: person/templates/registration/welcome.html:4
+msgid "Welcome to the Inkscape Website!"
+msgstr "欢迎来到 Inkscape 网站！"
+
+#: person/templates/registration/welcome.html:7
+msgid "Hi there,"
+msgstr "你好，"
+
+#: person/templates/registration/welcome.html:9
+msgid ""
+"the Inkscape website is a great place for you to showcase your artwork made "
+"with Inkscape, and to share your ideas and knowledge with other users."
+msgstr "Inkscape 向所有用户提供一个 Inkscape 作品展示平台，您可以和其他人分享你的创意和知识。"
+
+#: person/templates/registration/welcome.html:10
+msgid ""
+"But first, please read the following to learn how this website community "
+"works, and how we handle your private data."
+msgstr "首先，请阅读下文了解社区网站是如何工作的，以及我们是如何处理隐私信息的。"
+
+#: person/templates/registration/welcome.html:13
+#, python-format
+msgid ""
+"In order to fully participate in the Inkscape website community, you will "
+"need to enter a valid email address in your <a href=\"%(edit_profile_url)s\""
+" target=\"_blank\">user profile settings</a>. There you can also control in "
+"which cases an email should be sent to you, and add some info to introduce "
+"yourself to other users. Some of the website functionality (e.g. "
+"discussions, mailing lists) will not be available to you without an email "
+"address."
+msgstr ""
+"为了加入 Inkscape 社区，您必须在<a href=\"%(edit_profile_url)s\" "
+"target=\"_blank\">个人资料</a>中提供可用的邮箱地址。在资料设置中也可以设置接收哪类邮件，添加个人介绍。另外一些社区功能也需要邮箱，例如讨论，邮件列表。"
+
+#: person/templates/registration/welcome.html:16
+#, python-format
+msgid ""
+"By your continued usage of the website, you acknowledge <a "
+"href=\"%(privacy_url)s\" target=\"_blank\">the Inkscape website's Privacy "
+"Policy</a> and agree to respect <a href=\"%(coc_url)s\" "
+"target=\"_blank\">the Inkscape Community's Code of Conduct</a>."
+msgstr ""
+"继续使用网站即表示您同意<a href=\"%(privacy_url)s\" target=\"_blank\"> Inkscape "
+"网站隐私政策</a>，并同意遵守 <a href=\"%(coc_url)s\" target=\"_blank\"> Inkscape "
+"社区行为守则</a>。"
+
+#: person/templates/registration/welcome.html:19
+msgid ""
+"This website and it's services are provided 'as is', and you should not "
+"expect the services to continue to work or serve any particular need. Your "
+"files should never be assumed to be safe here and you should back everything"
+" up"
+msgstr "网站及其服务目前功能有限，如果服务器连接错误或者不能提供某些特殊服务，请见谅。另外我们并不能保障您上传数据的安全性，请做好本地备份"
+
+#: person/templates/registration/welcome.html:23
+msgid "Visit Gallery"
+msgstr "查看画册"
+
+#: person/templates/registration/welcome.html:23
+msgid "Go to Profile"
+msgstr "前往资料"
+
+#: person/views.py:40
+msgid "Edit User Profile"
+msgstr "编辑个人资料"
+
+#: person/views.py:106
+msgid "Chat"
+msgstr "聊天"
+
+#: person/views.py:145
+msgid "User Request Removed."
+msgstr "用户请求已移除。"
+
+#: person/views.py:152
+msgid "Team membership added and user subscribed to mailing list."
+msgstr "已添加团队成员，用户成功订阅邮件列表。"
+
+#: person/views.py:154
+msgid "Team membership sucessfully added."
+msgstr "已成功添加团队成员。"
+
+#: person/views.py:157
+msgid "Membership Request Received."
+msgstr "入团请求已收到。"
+
+#: person/views.py:159
+msgid "Can't add user to team. (not allowed)"
+msgstr "无法将用户添加到团队(不允许)。"
+
+#: person/views.py:170
+msgid "User removed from team and mailing list."
+msgstr "已将用户移出团队及邮件列表。"
+
+#: person/views.py:171
+msgid "User removed from team."
+msgstr "已将用户从团队中移除。"
+
+#: person/views.py:172
+msgid "Cannot remove user from team. (not allowed)"
+msgstr "无法将用户从团队中移除(不允许)。"
+
+#: person/views.py:178
+msgid "Now watching this team and subscribed to it's mailing list."
+msgstr "已关注此团队，并订阅对应邮件列表。"
+
+#: person/views.py:179
+msgid "Now watching this team."
+msgstr "正在关注此团队。"
+
+#: person/views.py:185
+msgid "No longer watching this team or it's mailing list."
+msgstr "不再关注此团队或邮件列表。"
+
+#: person/views.py:186
+msgid "No longer watching this team."
+msgstr "不再关注此团队。"
+
+#: projects/models.py:44
+msgid "Type Name"
+msgstr "类型名"
+
+#: projects/models.py:54
+msgid "Unknown"
+msgstr "未知"
+
+#: projects/models.py:55
+msgid "Easy"
+msgstr "简单"
+
+#: projects/models.py:56
+msgid "Moderate"
+msgstr "中等"
+
+#: projects/models.py:57
+msgid "Hard"
+msgstr "困难"
+
+#: projects/models.py:58
+msgid "Very hard"
+msgstr "非常困难"
+
+#: projects/models.py:64
+msgid "Difficulty"
+msgstr "难度"
+
+#: projects/models.py:66
+msgid "Short Summary"
+msgstr "简述"
+
+#: projects/models.py:68 projects/models.py:210 releases/models.py:70
+#: releases/models.py:159 resources/models.py:263 resources/models.py:633
+#: resources/templates/resources/alert/email_resource_alert.txt:15
+msgid "Description"
+msgstr "描述"
+
+#: projects/models.py:70
+msgid "Banner (920x120)"
+msgstr "横幅 (920x120)"
+
+#: projects/models.py:73
+msgid "Logo (150x150)"
+msgstr "Logo (150x150)"
+
+#: projects/models.py:77
+msgid "Expected Duration in Days"
+msgstr "预计持续时间"
+
+#: projects/models.py:92
+msgid "Pre-approved"
+msgstr "预批准"
+
+#: projects/models.py:122
+msgid "Proposed"
+msgstr "被提议的"
+
+#: projects/models.py:124
+msgid "Application Phase"
+msgstr "使用阶段"
+
+#: projects/models.py:126
+msgid "In Progress"
+msgstr "进行中"
+
+#: projects/models.py:128
+msgid "Completed"
+msgstr "已完成"
+
+#: projects/models.py:130
+msgid "Undetermined"
+msgstr "不明确"
+
+#: projects/models.py:170
+msgid "Deliverable"
+msgstr "可交付"
+
+#: projects/models.py:186
+msgid "Task"
+msgstr "任务"
+
+#: projects/models.py:199
+msgid "Criteria"
+msgstr "符合标准"
+
+#: projects/models.py:211 resources/templates/resources/resource_info.html:19
+#: resources/templates/resources/resource_view.html:20
+msgid "Image"
+msgstr "图像"
+
+#: projects/models.py:225
+msgid "Related File"
+msgstr "相关文件"
+
+#: projects/templates/projects/project_detail.html:5
+msgid "Project"
+msgstr "项目另存为...(&A)"
+
+#: projects/templates/projects/project_detail.html:18
+#: projects/templates/projects/project_item.html:19
+msgid "Progress"
+msgstr "进度"
+
+#: projects/templates/projects/project_detail.html:23
+#: projects/templates/projects/project_item.html:23
+msgid "Achieved"
+msgstr "达成"
+
+#: projects/templates/projects/project_detail.html:35
+msgid "Apply for this project"
+msgstr "申请这个项目"
+
+#: projects/templates/projects/project_detail.html:37
+msgid "Worked on by"
+msgstr "接管人 -"
+
+#: projects/templates/projects/project_detail.html:46
+msgid "Project Updates"
+msgstr "项目更新"
+
+#: projects/templates/projects/project_detail.html:57
+msgid "Proposed by"
+msgstr "提议 -"
+
+#: projects/templates/projects/project_detail.html:60
+#: projects/templates/projects/project_item.html:32
+msgid "Status"
+msgstr "状态"
+
+#: projects/templates/projects/project_detail.html:64
+msgid "Managed by"
+msgstr "管理 - "
+
+#: projects/templates/projects/project_detail.html:69
+msgid "Goal"
+msgstr "目标"
+
+#: projects/templates/projects/project_detail.html:73
+msgid "Expected duration (days)"
+msgstr "预计周期(天)"
+
+#: projects/templates/projects/project_detail.html:76
+msgid "Remaining"
+msgstr "剩余"
+
+#: projects/templates/projects/project_detail.html:79
+msgid "Importance"
+msgstr "重要性"
+
+#: projects/templates/projects/project_detail.html:83
+msgid "Reviewer"
+msgstr "审阅者"
+
+#: projects/templates/projects/project_detail.html:88
+msgid "Seconded by"
+msgstr "第二审阅"
+
+#: projects/templates/projects/project_detail.html:95
+msgid "Project Progress"
+msgstr "项目进度"
+
+#: projects/templates/projects/project_form.html:7
+#: projects/templates/projects/projectupdate_form.html:6
+msgid "Update project"
+msgstr "更新项目"
+
+#: projects/templates/projects/project_form.html:9
+msgid "New Project"
+msgstr "新项目"
+
+#: projects/templates/projects/project_gsoc_item.html:10
+msgid "Proposed By"
+msgstr "提议人"
+
+#: projects/templates/projects/project_gsoc_list.html:10
+msgid "Project Ideas for Google Summer of Code"
+msgstr "关于 Google 编程之夏的点子"
+
+#: projects/templates/projects/project_gsoc_list.html:19
+#: projects/templates/projects/project_list.html:23
+msgid "Sorry, no projects found"
+msgstr "抱歉，未找到项目"
+
+#: projects/templates/projects/project_item.html:9
+msgid "Review pending"
+msgstr "等待审阅"
+
+#: projects/templates/projects/project_item.html:11
+msgid "Detailed Description"
+msgstr "详细描述"
+
+#: projects/templates/projects/project_item.html:15
+msgid "Logo for project"
+msgstr "项目徽标"
+
+#: projects/templates/projects/project_item.html:28
+msgid "Fund this!"
+msgstr "资助！"
+
+#: projects/templates/projects/project_item.html:33
+msgid "Estimation of difficulty"
+msgstr "预计难度"
+
+#: projects/templates/projects/project_item.html:39
+msgid "View full project info"
+msgstr "查看完整项目信息"
+
+#: projects/templates/projects/project_list.html:10
+msgid "Inkscape Projects"
+msgstr "Inkscape 项目"
+
+#: projects/templates/projects/project_propose.html:12
+#, python-format
+msgid "Please <a href=\"%(login_url)s\">log in</a> to suggest a project!"
+msgstr "请 <a href=\"%(login_url)s\">登录</a> 后为项目提建议！"
+
+#: projects/templates/projects/project_propose.html:17
+#, python-format
+msgid ""
+"You need to <a href=\"%(profile_url)s\">add an email address to your "
+"profile</a> if you'd like to suggest a new project!"
+msgstr "需要<a href=\"%(profile_url)s\">在个人资料中添加邮箱</a> 才能为项目提出建议！"
+
+#: projects/templates/projects/project_propose.html:27
+msgid "A concise title for your proposal"
+msgstr "对项目目标做个简短的描述"
+
+#: projects/templates/projects/project_propose.html:37
+msgid "Describe your proposal for a development project here"
+msgstr "此处输入项目开发的目的"
+
+#: projects/templates/projects/project_propose.html:41
+msgid "Submit"
+msgstr "提交"
+
+#: projects/templates/projects/projectupdate_form.html:19
+#, python-format
+msgid "Please <a href=\"%(login_url)s\">log in</a> to update this project!"
+msgstr "请<a href=\"%(login_url)s\">登录</a>后更新此项目！"
+
+#: projects/templates/projects/projectupdate_form.html:24
+#, python-format
+msgid ""
+"You need to <a href=\"%(profile_url)s\">add an email address to your "
+"profile</a> if you'd like to update this project!"
+msgstr "需要<a href=\"%(profile_url)s\">在个人资料中添加邮箱</a>才能更新此项目！"
+
+#: releases/models.py:67
+msgid "Blue"
+msgstr "蓝色"
+
+#: releases/models.py:81
+msgid "Version"
+msgstr "版本"
+
+#: releases/models.py:82
+msgid "Codename"
+msgstr "代码名"
+
+#: releases/models.py:84 releases/models.py:153
+msgid "Release notes"
+msgstr "发布说明"
+
+#: releases/models.py:85
+msgid "Release date"
+msgstr "发布日期"
+
+#: releases/models.py:88
+msgid "Last edited"
+msgstr "最后编辑"
+
+#: releases/models.py:89 releases/models.py:270
+msgid "Date created"
+msgstr "创建日期"
+
+#: releases/models.py:94
+msgid "Looks after the release schedule and release meetings."
+msgstr "关注发布日程以及发布计划会。"
+
+#: releases/models.py:96
+msgid "Reviewers help to make sure the release is working."
+msgstr "审阅者帮助确保发布的可以正常工作。"
+
+#: releases/models.py:98
+msgid "Manages critical bugs and decides what needs fixing."
+msgstr "管理重要 bug ，并决定要修复哪些。"
+
+#: releases/models.py:100
+msgid "Translation managers look after all translations for the release."
+msgstr "翻译管理员管理即将发布软件的所有翻译。"
+
+#: releases/models.py:152
+msgid "Which language is this translated into."
+msgstr "那种语言完成了翻译。"
+
+#: releases/models.py:160
+msgid "Parent Platform"
+msgstr "父平台"
+
+#: releases/models.py:161
+msgid "Platform Manager"
+msgstr "平台管理员"
+
+#: releases/models.py:166
+msgid "User agent os match, whole string."
+msgstr ""
+
+#: releases/models.py:168
+msgid ""
+"User agent os version partial match, e.g. |10|11| will match both version 10"
+" and version 11, must have pipes at start and end of string."
+msgstr ""
+
+#: releases/models.py:264
+msgid "Release"
+msgstr "发行版"
+
+#: releases/models.py:265
+msgid "Release Platform"
+msgstr "平台"
+
+#: releases/models.py:266
+msgid "Download Link"
+msgstr "下载链接"
+
+#: releases/models.py:267
+msgid "Instructions Link"
+msgstr "使用指南链接"
+
+#: releases/models.py:268
+msgid "Release Platform Information"
+msgstr "发布平台信息"
+
+#: releases/templates/releases/platform_detail.html:16
+msgid "Platform is misconfigured for release."
+msgstr "发行版的平台配置错误"
+
+#: releases/templates/releases/platform_list.html:7
+msgid ""
+"This lists all platforms for the selected release. It shows each of the "
+"downloads that have been made available without listing the un-filled slots "
+"of all platforms. For examine if Windows 32bit is shown but Windows 64bit is"
+" not, then we have a build for 32bit but not for 64."
+msgstr ""
+"这里列出了已选择版本号对应的所有平台软件。所有可用下载都在这里列了出来，但并不包含所有平台。例如你看到了 Windows 32 版本的软件但是没有找到 "
+"Windows 64版本的，说明我们只构建了 32 位版本而没有构建 64 位版本。"
+
+#: releases/templates/releases/release_detail.html:40
+msgid "All Platforms"
+msgstr "所有平台"
+
+#: releases/templates/releases/release_detail.html:41
+msgid "Responsible People"
+msgstr "负责人"
+
+#: releases/templates/releases/release_detail.html:72
+msgid "Show more..."
+msgstr "显示更多..."
+
+#: releases/templates/releases/releaseplatform_detail.html:21
+msgid "Thank you for downloading Inkscape."
+msgstr "感谢您下载 Inkscape。"
+
+#: releases/templates/releases/releaseplatform_detail.html:22
+#, python-format
+msgid ""
+"Your download should start in 2 seconds, if not, please <a "
+"href=\"%(object.download)s\">click here</a> to start."
+msgstr "您的下载应该会在 2 秒内开始，如果没有开始，请<a href=\"%(object.download)s\">点击这里</a>下载。"
+
+#: releases/templates/releases/releaseplatform_detail.html:24
+msgid "Download Failed"
+msgstr "下载失败"
+
+#: releases/templates/releases/releaseplatform_detail.html:25
+msgid "WARNING!"
+msgstr "警告！"
+
+#: releases/templates/releases/releaseplatform_detail.html:25
+msgid "The download for this isn't working or isn't set up right."
+msgstr "下载不可用或者设置不正确。"
+
+#: releases/templates/releases/releaseplatform_detail.html:31
+msgid "Support Inkscape"
+msgstr "支持 Inkscape"
+
+#: releases/templates/releases/releaseplatform_detail.html:33
+#, python-format
+msgid ""
+"Inkscape needs your help. Every user who can contribute to Inkscape's "
+"development is investing in the future of the project. <a "
+"href=\"%(donation_url)s\">Donations</a> allow us to do so much within the "
+"project to continue providing you with new releases of Inkscape with better "
+"features and bug fixes."
+msgstr ""
+"Inkscape 需要您的帮助。每个愿意出手捐赠的人都是在为项目的未来做投资。<a "
+"href=\"%(donation_url)s\">捐赠</a>可以让我们持续维护当前软件，并开发更多新功能。"
+
+#: releases/templates/releases/releaseplatform_detail.html:44
+msgid "Installation Instructions"
+msgstr "安装指南"
+
+#: releases/templates/releases/releaseplatform_detail.html:46
+msgid ""
+"This release has further instructions for installation. It is highly "
+"recommended that you read the instructions to make sure your installation "
+"will work and work well on your computer."
+msgstr "此发行版包含更多的安装指南。我们强烈推荐你参照此安装指南进行安装，以确保 Inkscape 可以在您的电脑上正常运行。"
+
+#: releases/templates/releases/releaseplatform_detail.html:48
+msgid "Instructions Page"
+msgstr "手册页"
+
+#: releases/views.py:107
+msgid "Revisions"
+msgstr "修正版"
+
+#: releases/views.py:108
+msgid "Versions"
+msgstr "版本"
+
+#: releases/views.py:109
+msgid "In Development"
+msgstr "在开发中"
+
+#: releases/views.py:172
+#, python-format
+msgid "All Platforms for %s"
+msgstr "全平台 %s"
+
+#: releases/views.py:199
+msgid "Download Started"
+msgstr "已开始下载"
+
+#: resources/admin.py:41
+msgid "Select Resource's Owner"
+msgstr "选择资源所有者"
+
+#: resources/admin.py:43
+msgid "Resource has been checked by this user"
+msgstr "资源已被此用户检查"
+
+#: resources/admin.py:69
+#, python-format
+msgid "Quota for %s"
+msgstr "%s 的限额"
+
+#: resources/admin.py:70
+msgid "Quota for Everyone"
+msgstr "所有人的限额"
+
+#: resources/admin.py:79
+msgid "Select Group's Owner"
+msgstr "选择组拥有者"
+
+#: resources/alert.py:37
+msgid "New Gallery Resource"
+msgstr "画册更新"
+
+#: resources/alert.py:38
+msgid "An alert is sent when the target user submits a resource."
+msgstr "指定用户提交新资源时提醒我。"
+
+#: resources/cms_plugins.py:42
+msgid "InkSpace Category"
+msgstr "InkSpace 类别"
+
+#: resources/cms_plugins.py:57
+msgid "InkSpace Gallery"
+msgstr "InkSpace 画册库"
+
+#: resources/forms.py:129
+msgid ""
+"You need to have permission to post this work, or be the owner of the work."
+msgstr "您需要此作品的使用权或者所有权。"
+
+#: resources/forms.py:141
+#, python-format
+msgid ""
+"This is not an acceptable license for this category, Acceptable licenses:\n"
+"%s"
+msgstr ""
+"此分类下不接受此许可，可接受的许可有：\n"
+"%s"
+
+#: resources/forms.py:151
+msgid "You can not assign an item with existing votes to a contest."
+msgstr "不能将已经拥有投票的作品用于比赛。"
+
+#: resources/forms.py:194
+msgid "Publicly Visible"
+msgstr "公开可见"
+
+#: resources/forms.py:205 resources/forms.py:255
+msgid "Text Format"
+msgstr "文本格式"
+
+#: resources/forms.py:206
+msgid "Pasted Text"
+msgstr "文本"
+
+#: resources/forms.py:212
+#, python-format
+msgid "Pasted Text #%d"
+msgstr "文本 #%d"
+
+#: resources/models.py:56
+msgid "No permission"
+msgstr "无权限"
+
+#: resources/models.py:57
+msgid "I own the work"
+msgstr "我拥有此作品"
+
+#: resources/models.py:58
+msgid "I have permission"
+msgstr "我有拥有此作品的使用权限"
+
+#: resources/models.py:72
+msgid "License Banner (svg:80x15)"
+msgstr "许可证横幅 (svg:80x15)"
+
+#: resources/models.py:73
+msgid "License Icon (svg:100x40)"
+msgstr "许可证图标 (svg:100x40)"
+
+#: resources/models.py:75
+msgid "Attribution"
+msgstr "归属"
+
+#: resources/models.py:76
+msgid "Copyleft (Share Alike)"
+msgstr "非盈利版权(类似于分享)"
+
+#: resources/models.py:77
+msgid "Non-Commercial"
+msgstr "非商业"
+
+#: resources/models.py:78
+msgid "Non-Derivative"
+msgstr "非衍生"
+
+#: resources/models.py:81
+msgid "This license can be selected by all users when uploading."
+msgstr "所有用户上传时都可以选择此许可。"
+
+#: resources/models.py:83
+msgid "This license can be used as a filter in gallery indexes."
+msgstr "此许可可以当做画册的过滤关键词。"
+
+#: resources/models.py:85
+msgid "Replaced by"
+msgstr "被替换 -->"
+
+#: resources/models.py:107
+msgid "Category Icon (svg:128x128)"
+msgstr "分类的图标 (svg:128x128)"
+
+#: resources/models.py:110
+msgid "This category can be selected by all users when uploading."
+msgstr "所有用户上传时都可以选择此分类。"
+
+#: resources/models.py:112
+msgid "This category can be used as a filter in gallery indexes."
+msgstr "此分类可以当做画册的过滤关键词。"
+
+#: resources/models.py:164
+msgid "Only show with these categories"
+msgstr "仅显示这些分类"
+
+#: resources/models.py:177
+msgid "InkSpaces"
+msgstr "InkSpaces"
+
+#: resources/models.py:265
+msgid "Tags"
+msgstr "标签"
+
+#: resources/models.py:271
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: resources/models.py:276 resources/templates/resources/resource_info.html:77
+msgid "Downloaded"
+msgstr "下载数"
+
+#: resources/models.py:277
+msgid "Full Views"
+msgstr "完整查看数"
+
+#: resources/models.py:279
+msgid "File Type"
+msgstr "文件类型"
+
+#: resources/models.py:284 resources/models.py:524
+msgid "Consumable File"
+msgstr "可消费文件"
+
+#: resources/models.py:286 resources/views.py:310
+msgid "License"
+msgstr "许可"
+
+#: resources/models.py:287
+msgid "Permission"
+msgstr "权限"
+
+#: resources/models.py:289 resources/models.py:525
+msgid "Signature/Checksum"
+msgstr "数字签名/校验"
+
+#: resources/models.py:295
+msgid "Counter Signature"
+msgstr "复签"
+
+#: resources/models.py:309
+#, python-format
+msgid "%(file_title)s by %(file_author)s (%(years)s)"
+msgstr "%(file_title)s - %(file_author)s (%(years)s)"
+
+#: resources/models.py:566
+msgid "Unique Identifier"
+msgstr "唯一标识符"
+
+#: resources/models.py:569
+msgid "Full Base URL"
+msgstr "完整基准地址"
+
+#: resources/models.py:570
+msgid "Capacity (MB/s)"
+msgstr "速度(MB/s)"
+
+#: resources/models.py:576
+msgid "Check Time Date"
+msgstr "检查时间日期"
+
+#: resources/models.py:577
+msgid "Check Returned HTTP Code"
+msgstr "检查返回的HTTP代码"
+
+#: resources/models.py:634
+msgid "Which resource should be the thumbnail for this gallery"
+msgstr "此画册使用哪个资源作为缩略图"
+
+#: resources/models.py:643
+#, python-format
+msgid "%(gallery_name)s (for group %(group_name)s)"
+msgstr "%(gallery_name)s (-组 %(group_name)s)"
+
+#: resources/models.py:645
+#, python-format
+msgid "%(gallery_name)s (by %(user_name)s)"
+msgstr "%(gallery_name)s (- %(user_name)s)"
+
+#: resources/models.py:748
+msgid "Quota Size (KiB)"
+msgstr "限额大小(KiB)"
+
+#: resources/models.py:758
+msgid "Gallery Icons"
+msgstr "画册封面"
+
+#: resources/models.py:759
+msgid "Gallery Rows"
+msgstr "画册行数"
+
+#: resources/models.py:763 resources/models.py:775
+msgid "Number of items per page"
+msgstr "每页显示的项目数"
+
+#: resources/templates/resources/alert/email_resource_alert.txt:6
+#, python-format
+msgid ""
+"you are subscribed to %(username)s's gallery at %(site)s%(gallery_link)s."
+msgstr "您已在 %(site)s%(gallery_link)s 订阅 %(username)s 的画册。"
+
+#: resources/templates/resources/alert/email_resource_alert.txt:8
+#, python-format
+msgid "%(username)s just published the following:"
+msgstr "%(username)s 刚刚发布了下列内容："
+
+#: resources/templates/resources/alert/email_resource_alert.txt:14
+#: resources/templates/resources/resource_info.html:74
+msgid "Licence"
+msgstr "许可"
+
+#: resources/templates/resources/alert/email_resource_alert.txt:17
+#, python-format
+msgid "Visit \"%(upload)s\""
+msgstr "查看 \"%(upload)s\""
+
+#: resources/templates/resources/alert/resource_alert.html:4
+msgid "Preview"
+msgstr "预览"
+
+#: resources/templates/resources/gallery_form.html:6
+msgid "Edit InkSpace"
+msgstr "编辑 InkScape"
+
+#: resources/templates/resources/gallery_form.html:18
+msgid "Group"
+msgstr "组"
+
+#: resources/templates/resources/gallery_form.html:19
+msgid ""
+"If you set the group, any member of this group can add items to this "
+"InkSpace."
+msgstr "如果设置群组，组中的任何成员将能够添加资源到 InkSpace。"
+
+#: resources/templates/resources/gallery_list.html:4 resources/views.py:311
+msgid "Galleries"
+msgstr "画册"
+
+#: resources/templates/resources/gallery_list.html:10
+msgid "Resources"
+msgstr "资源"
+
+#: resources/templates/resources/gallery_list.html:21
+msgid "No Galleries Yet"
+msgstr "尚无画册"
+
+#: resources/templates/resources/menu.html:6
+msgid "Upload Art or Resource"
+msgstr "上传艺术作品或者资源"
+
+#: resources/templates/resources/menu.html:7 resources/views.py:156
+msgid "New PasteBin"
+msgstr "新建 PasteBin"
+
+#: resources/templates/resources/menu.html:9
+msgid "My Galleries"
+msgstr "我的画册"
+
+#: resources/templates/resources/resource_base.html:26
+msgid "Replace image"
+msgstr "替换图片"
+
+#: resources/templates/resources/resource_base.html:29
+msgid "Replace file"
+msgstr "替换文件"
+
+#: resources/templates/resources/resource_base.html:32
+msgid "Choose a file..."
+msgstr "选择文件..."
+
+#: resources/templates/resources/resource_detail.html:11
+msgid "Flag Resource to Moderators"
+msgstr "标记资源并通知监督员"
+
+#: resources/templates/resources/resource_detail.html:12
+msgid "Are you sure you want to report this resource?"
+msgstr "确定举报此资源？"
+
+#: resources/templates/resources/resource_detail.html:16
+msgid "Page views"
+msgstr "浏览数"
+
+#: resources/templates/resources/resource_detail.html:20
+msgid "Full size view"
+msgstr "查看原图"
+
+#: resources/templates/resources/resource_detail.html:22
+msgid "View full text"
+msgstr "查看完整文本"
+
+#: resources/templates/resources/resource_detail.html:25
+msgid "Download"
+msgstr "下载"
+
+#: resources/templates/resources/resource_detail.html:32
+msgid "Votes"
+msgstr "投票"
+
+#: resources/templates/resources/resource_detail.html:33
+msgid "Vote for this!"
+msgstr "投票"
+
+#: resources/templates/resources/resource_detail.html:34
+msgid "Withdraw my Vote"
+msgstr "撤销我的投票"
+
+#: resources/templates/resources/resource_detail.html:39
+msgid "Favorites"
+msgstr "收藏"
+
+#: resources/templates/resources/resource_detail.html:40
+msgid "Mark as a Favorite"
+msgstr "添加到收藏"
+
+#: resources/templates/resources/resource_detail.html:41
+msgid "Remove from Favorites"
+msgstr "从收藏中移除"
+
+#: resources/templates/resources/resource_detail.html:54
+msgid "read more"
+msgstr "阅读更多"
+
+#: resources/templates/resources/resource_detail.html:59
+#: resources/templates/resources/resource_info.html:55
+msgid "Unpublished"
+msgstr "未发布"
+
+#: resources/templates/resources/resource_detail.html:62
+#: resources/templates/resources/resource_info.html:47
+msgid "Follow Link (external site)"
+msgstr "查看链接(外部链接)"
+
+#: resources/templates/resources/resource_detail.html:67
+#: resources/templates/resources/resource_info.html:60
+msgid "Area"
+msgstr "图形大小"
+
+#: resources/templates/resources/resource_detail.html:69
+#: resources/templates/resources/resource_info.html:62
+msgid "Lines"
+msgstr "行数"
+
+#: resources/templates/resources/resource_detail.html:70
+#: resources/templates/resources/resource_info.html:63
+msgid "Words"
+msgstr "词数"
+
+#: resources/templates/resources/resource_detail.html:73
+#: resources/templates/resources/resource_info.html:66
+#: resources/templates/resources/resourcemirror_list.html:53
+msgid "Size"
+msgstr "文件大小"
+
+#: resources/templates/resources/resource_detail.html:76
+#: resources/templates/resources/resource_info.html:69
+msgid "Linked From"
+msgstr "链接"
+
+#: resources/templates/resources/resource_detail.html:78
+#: resources/templates/resources/resource_info.html:71
+msgid "Created"
+msgstr "创建于"
+
+#: resources/templates/resources/resource_detail.html:79
+#: resources/templates/resources/resource_info.html:72
+msgid "Type"
+msgstr "类型"
+
+#: resources/templates/resources/resource_detail.html:91
+msgid "Official (Signed by Inkscape Packager)"
+msgstr "官方(由 Inkscape 软件打包人员认证)"
+
+#: resources/templates/resources/resource_detail.html:93
+msgid "Signed (by Uploader)"
+msgstr "已签名(上传者)"
+
+#: resources/templates/resources/resource_detail.html:95
+msgid "Verified (Hash Matches)"
+msgstr "已验证(哈希校验)"
+
+#: resources/templates/resources/resource_detail.html:97
+msgid "Broken Signature or Hash!"
+msgstr "签名或者哈希错误！"
+
+#: resources/templates/resources/resource_detail.html:113
+#, python-format
+msgid "Show all items tagged '%(tag)s'"
+msgstr "显示所有标签为 '%(tag)s' 的项目"
+
+#: resources/templates/resources/resource_detail.html:118
+msgid "Delete Upload"
+msgstr "删除上传"
+
+#: resources/templates/resources/resource_detail.html:118
+msgid "Are you sure you want to delete this upload?"
+msgstr "确定删除此上传？"
+
+#: resources/templates/resources/resource_detail.html:118
+#: resources/templates/resources/resource_form.html:49
+msgid "Confirm Delete"
+msgstr "确认删除"
+
+#: resources/templates/resources/resource_form.html:10
+msgid "Paste your text here"
+msgstr "在这里粘贴文本"
+
+#: resources/templates/resources/resource_form.html:18
+msgid "Resource Name"
+msgstr "资源名称"
+
+#: resources/templates/resources/resource_form.html:26
+msgid "Description of your artwork or resource"
+msgstr "请填写艺术作品或者资源的描述"
+
+#: resources/templates/resources/resource_form.html:40
+msgid "Add your tags here, separated by comma"
+msgstr "在这里输入标签，使用英文逗号分开"
+
+#: resources/templates/resources/resource_form.html:49
+msgid "Are you sure you want to delete?"
+msgstr "确定删除？"
+
+#: resources/templates/resources/resource_icons.html:11
+msgid "Submit Resource"
+msgstr "提交资源"
+
+#: resources/templates/resources/resource_icons.html:19
+msgid "Select Gallery to Upload"
+msgstr "选择上传到画册"
+
+#: resources/templates/resources/resource_icons.html:28
+msgid "Nothing Yet"
+msgstr "什么都木有"
+
+#: resources/templates/resources/resource_info.html:23
+#: resources/templates/resources/resource_view.html:33
+msgid "File Icon"
+msgstr "文件图标"
+
+#: resources/templates/resources/resource_info.html:27
+msgid "Item Image"
+msgstr "图像"
+
+#: resources/templates/resources/resource_info.html:30
+#: resources/templates/resources/resource_view.html:49
+msgid "No file or broken upload"
+msgstr "无文件或者上传中断"
+
+#: resources/templates/resources/resource_info.html:76
+msgid "Favorited"
+msgstr "收藏数"
+
+#: resources/templates/resources/resource_info.html:78
+msgid "Viewed"
+msgstr "查看数"
+
+#: resources/templates/resources/resource_info.html:79
+msgid "Comments"
+msgstr "评论数"
+
+#: resources/templates/resources/resource_item.html:14
+msgid "Move to Gallery"
+msgstr "移动到画册"
+
+#: resources/templates/resources/resource_item.html:18
+msgid "Copy to Gallery"
+msgstr "复制到画册"
+
+#: resources/templates/resources/resource_item.html:22 resources/views.py:79
+msgid "Edit Resource"
+msgstr "编辑资源"
+
+#: resources/templates/resources/resource_leftbar.html:5
+#, python-format
+msgid ""
+"\n"
+"    Found %(counter)s Item\n"
+"    "
+msgid_plural ""
+"\n"
+"    Found %(counter)s Items\n"
+"    "
+msgstr[0] ""
+"\n"
+"    找到 %(counter)s 项内容\n"
+"    "
+
+#: resources/templates/resources/resource_leftbar.html:14
+msgid "Search for Resources"
+msgstr "搜索资源"
+
+#: resources/templates/resources/resource_leftbar.html:16
+msgid "Clear Search"
+msgstr "清除搜索"
+
+#: resources/templates/resources/resource_leftbar.html:23
+msgid "Order By"
+msgstr "排序"
+
+#: resources/templates/resources/resource_leftbar.html:40
+msgid "Clear Tag"
+msgstr "清除标签"
+
+#: resources/templates/resources/resource_leftbar.html:59
+msgid "edit"
+msgstr "编辑"
+
+#: resources/templates/resources/resource_leftbar.html:70
+msgid "New Gallery"
+msgstr "新建画册"
+
+#: resources/templates/resources/resource_move.html:10
+msgid "Move Resource"
+msgstr "移动资源"
+
+#: resources/templates/resources/resource_move.html:12
+msgid "Copy Resource to Gallery"
+msgstr "将资源复制到画册"
+
+#: resources/templates/resources/resource_move.html:43
+msgid "Move"
+msgstr "移动"
+
+#: resources/templates/resources/resource_move.html:43
+msgid "Copy"
+msgstr "复制"
+
+#: resources/templates/resources/resource_view.html:37
+msgid "Image file missing"
+msgstr "图片文件丢失"
+
+#: resources/templates/resources/resource_view.html:38
+msgid "Item file missing"
+msgstr "对象文件丢失"
+
+#: resources/templates/resources/resourcemirror_detail.html:10
+msgid "Mirror Instructions:"
+msgstr "镜像源指南："
+
+#: resources/templates/resources/resourcemirror_detail.html:10
+msgid ""
+"Copy this URL and use it to download all the resource files that need to be "
+"mirrored. You can use wget or other basic mirroring software to refresh all "
+"the files."
+msgstr "复制网址，使用它下载所有需要镜像的资源文件。你可以使用 wget 或者其他常用的镜像软件来刷新这些文件。"
+
+#: resources/templates/resources/resourcemirror_detail.html:12
+#, python-format
+msgid ""
+"Please contact the <a href=\"%(contact_url)s\">Website Administrator</a> if "
+"you have any problems. <em>(this message will self distruct in "
+msgstr "有任何问题请联系 <a href=\"%(contact_url)s\">网站管理员</a>。<em>(此消息将会自动消失  "
+
+#: resources/templates/resources/resourcemirror_detail.html:21
+#: resources/templates/resources/resourcemirror_list.html:85
+#: resources/views.py:318
+msgid "Last Updated"
+msgstr "最近更新"
+
+#: resources/templates/resources/resourcemirror_form.html:6
+msgid "Add Inkscape Mirror"
+msgstr "添加 Inkscape 镜像源"
+
+#: resources/templates/resources/resourcemirror_form.html:8
+msgid ""
+"Thank you for volunteering to join the Inkscape mirror pool. Each mirror "
+"will be made available to users downloading large files from Inkscape's "
+"website depending on their hosting capacity."
+msgstr "感谢您加入 Inkscape 镜像源池。每个镜像源都会根据承载能力为用户提供 Inkscape 大文件下载服务。"
+
+#: resources/templates/resources/resourcemirror_list.html:5
+msgid "Inkscape Mirrors"
+msgstr "Inkscape 镜像源"
+
+#: resources/templates/resources/resourcemirror_list.html:16
+msgid "Inkscape Download Mirrors"
+msgstr "Inkscape 下载镜像源"
+
+#: resources/templates/resources/resourcemirror_list.html:18
+msgid ""
+"Welcome to the mirrors resource page. This page is not meant for public "
+"consumption but as an overview of the mirrors available for Inkscape "
+"downloads."
+msgstr "欢迎来到镜像资源页。此页不面向消费者，只是一个所有 Inkscape 下载站点的概述页。"
+
+#: resources/templates/resources/resourcemirror_list.html:22
+msgid "Alive"
+msgstr "存活的"
+
+#: resources/templates/resources/resourcemirror_list.html:24
+msgid "Last Sync"
+msgstr "最后同步："
+
+#: resources/templates/resources/resourcemirror_list.html:25
+msgid "Last Check"
+msgstr "最后检查"
+
+#: resources/templates/resources/resourcemirror_list.html:26
+msgid "Capacity"
+msgstr "容量"
+
+#: resources/templates/resources/resourcemirror_list.html:30
+msgid "Online"
+msgstr "在线"
+
+#: resources/templates/resources/resourcemirror_list.html:30
+msgid "Disabled"
+msgstr "被禁用"
+
+#: resources/templates/resources/resourcemirror_list.html:37
+msgid "times"
+msgstr "时间"
+
+#: resources/templates/resources/resourcemirror_list.html:48
+msgid "All Inkscape Downloads"
+msgstr "所有 Inkscape 下载"
+
+#: resources/templates/resources/resourcemirror_list.html:52
+msgid "Filename"
+msgstr "文件名"
+
+#: resources/templates/resources/resourcemirror_list.html:54
+msgid "Last Modified"
+msgstr "最后编辑"
+
+#: resources/templates/resources/resourcemirror_list.html:55
+msgid "Signature"
+msgstr "签名"
+
+#: resources/templates/resources/resourcemirror_list.html:56
+msgid "ReadMe"
+msgstr "ReadMe"
+
+#: resources/templates/resources/resourcemirror_list.html:68
+msgid "Missing File"
+msgstr "丢失文件"
+
+#: resources/templates/resources/resourcemirror_thanks.html:11
+msgid "Downloading"
+msgstr "下载中"
+
+#: resources/templates/resources/resourcemirror_thanks.html:12
+#, python-format
+msgid ""
+"Thank you to our friends hosting %(mirror_name)s for delivering this file."
+msgstr "感谢为我们提供文件下载的 %(mirror_name)s  。"
+
+#: resources/templates/resources/resourcemirror_thanks.html:13
+#, python-format
+msgid ""
+"Click <a href=\"%(url)s\">here</a> if the download doesn't start in 3 "
+"seconds."
+msgstr "如果3秒后下载仍未开始，请点击<a href=\"%(url)s\">这里</a> 。"
+
+#: resources/views.py:64
+msgid "All Resource Galleries"
+msgstr "所有画册资源"
+
+#: resources/views.py:68
+msgid "Delete Resource"
+msgstr "删除资源"
+
+#: resources/views.py:87
+msgid "Publish Resource"
+msgstr "发布资源"
+
+#: resources/views.py:129
+msgid "Upload New Resource"
+msgstr "上传新资源"
+
+#: resources/views.py:192
+msgid "You may not vote until the contest begins."
+msgstr "比赛开始前不能进行投票！"
+
+#: resources/views.py:195
+msgid "You may not vote after the contest ends."
+msgstr "比赛已结束不能投票！"
+
+#: resources/views.py:202
+msgid ""
+"Your previous vote in this contest has been replaced by your vote for this "
+"item."
+msgstr "你的投票选择已经变更。"
+
+#: resources/views.py:208
+msgid "Thank you for your vote!"
+msgstr "感谢您投票！"
+
+#: resources/views.py:226
+msgid "There is no file to download in this resource."
+msgstr "此资源库不含任何可下载文件。"
+
+#: resources/views.py:240
+#, python-format
+msgid "Can not find file '%s', please retry download."
+msgstr "无法找到文件 '%s'，请重试。"
+
+#: resources/views.py:309
+msgid "Media Category"
+msgstr "媒体"
+
+#: resources/views.py:315
+msgid "Most Popular"
+msgstr "最热"
+
+#: resources/views.py:316
+msgid "Most Views"
+msgstr "查看最多"
+
+#: resources/views.py:317
+msgid "Most Downloaded"
+msgstr "下载最多"
+
+#: resources/views.py:405
+msgid "Gallery Feed"
+msgstr "画册订阅"
