@@ -3,6 +3,10 @@ English
 
 some scripts and adds-ons 
 
+**locatedel.sh**
+
+    find files(directories) with locate and delete them with root.
+
 **ampache.cfg.php**
 
     ampache configurations
