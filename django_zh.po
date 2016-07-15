@@ -2,14 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
-#, fuzzy
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-06-26 17:02+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2016-07-15 18:25+0800\n"
 "Last-Translator: zhangmin <zm1990s@gmail.com>, 2016\n"
 "Language-Team: Chinese (https://www.transifex.com/test-1-1/teams/64825/zh/)\n"
 "MIME-Version: 1.0\n"
@@ -17,6 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.4\n"
 
 #: alerts/alert.py:32
 msgid "Personal Message"
@@ -77,7 +77,9 @@ msgstr "取消订阅："
 msgid ""
 "If you do no longer want to receive these messages, you can edit your "
 "subscriptions and messaging settings at %(site)s%(message_settings_link)s."
-msgstr "如果你不想再收到这些私信，可以在 %(site)s%(message_settings_link)s 编辑订阅选项和通知选项。"
+msgstr ""
+"如果你不想再收到这些私信，可以在 %(site)s%(message_settings_link)s 编辑订阅选项"
+"和通知选项。"
 
 #: alerts/templates/alerts/alert/email_message_alert.txt:2
 #: cmsdiff/templates/cmsdiff/alert/email_page_published_alert.txt:2
@@ -166,22 +168,22 @@ msgstr "订阅所有  %(alert_name)s"
 #: alerts/templates/alerts/alertsubscription_form.html:15
 #, python-format
 msgid ""
-"You will receive an email alert by default when you subscribe, but these can"
-" be switched off in your <a href=\"%(alertsettings_url)s\">subscription "
-"settings</a>."
+"You will receive an email alert by default when you subscribe, but these can be "
+"switched off in your <a href=\"%(alertsettings_url)s\">subscription settings</"
+"a>."
 msgstr ""
-"默认情况下当您选择订阅时，将会收到系统的邮件通知，可以在 <a "
-"href=\"%(alertsettings_url)s\">订阅设置</a>中关闭这些通知。"
+"默认情况下当您选择订阅时，将会收到系统的邮件通知，可以在 <a href="
+"\"%(alertsettings_url)s\">订阅设置</a>中关闭这些通知。"
 
 #: alerts/templates/alerts/alertsubscription_form.html:17
 #, python-format
 msgid ""
-"You will <strong>NOT</strong> receive an email alert by when you subscribe, "
-"but these can be switched on in your <a "
-"href=\"%(alertsettings_url)s\">subscription settings</a>."
+"You will <strong>NOT</strong> receive an email alert by when you subscribe, but "
+"these can be switched on in your <a href=\"%(alertsettings_url)s\">subscription "
+"settings</a>."
 msgstr ""
-"您将 <strong>不会</strong> 收到订阅邮件通知，可以在<a "
-"href=\"%(alertsettings_url)s\">订阅设置</a>中打开这些通知。"
+"您将 <strong>不会</strong> 收到订阅邮件通知，可以在<a href="
+"\"%(alertsettings_url)s\">订阅设置</a>中打开这些通知。"
 
 #: alerts/templates/alerts/alertsubscription_form.html:25
 msgid "Subscribe Me"
@@ -300,8 +302,7 @@ msgid "Delete Alert"
 msgstr "删除通知"
 
 #: alerts/templates/alerts/useralert_list.html:49
-msgid ""
-"This alert was for an object that no longer exists. It has been deleted."
+msgid "This alert was for an object that no longer exists. It has been deleted."
 msgstr "此通知的对象已经不存在。已被删除。"
 
 #: alerts/templates/alerts/useralert_list.html:56
@@ -347,11 +348,11 @@ msgstr "通知设置"
 #: alerts/views.py:165
 #, python-format
 msgid ""
-"You haven't told us your mail address yet! If you would like to receive "
-"emails from inkscape.org, enter an email address <a href='%(url)s'>in your "
-"profile</a>."
+"You haven't told us your mail address yet! If you would like to receive emails "
+"from inkscape.org, enter an email address <a href='%(url)s'>in your profile</a>."
 msgstr ""
-"您尚未设置邮件地址，如果想接收 inkscape.org 的邮件通知，请在<a href='%(url)s'>个人资料</a>中填写邮件地址。"
+"您尚未设置邮件地址，如果想接收 inkscape.org 的邮件通知，请在<a href='%(url)s'>个"
+"人资料</a>中填写邮件地址。"
 
 #: cmsdiff/alert.py:34
 msgid "Website Page Published"
@@ -532,8 +533,8 @@ msgstr "显示对比"
 
 #: cmsdiff/templates/reversion/object_history.html:63
 msgid ""
-"This object doesn't have a change history. It probably wasn't added via this"
-" admin site."
+"This object doesn't have a change history. It probably wasn't added via this "
+"admin site."
 msgstr "此项目无任何变更记录，可能不是由此网站管理员创建的。"
 
 #: cmsplugin_news/admin.py:42
@@ -619,10 +620,12 @@ msgid ""
 "logic. <br />Note that by default this only applies for items with an empty "
 "\"content\" field."
 msgstr ""
+"此链接将被作为此文章的绝对地址。<br />注意：默认此项只有在文章 \"内容\"为空时可"
+"用。"
 
 #: cmsplugin_news/models.py:98
 msgid "Translated version of another news item."
-msgstr ""
+msgstr "此文章是一篇译文。"
 
 #: cmsplugin_news/models.py:109 cmsplugin_news/models.py:110
 msgid "News"
@@ -944,7 +947,9 @@ msgstr "置顶优先级"
 msgid ""
 "If set, will stick this post to the top of the topics list. Higher numbers "
 "appear nearer the top. Same numbers will apear together, sorted by date."
-msgstr "如果设置此项，此帖子将会置顶显示。数字越大，置顶优先级越高。相同数字的文章会在一起显示，按照日期排序。"
+msgstr ""
+"如果设置此项，此帖子将会置顶显示。数字越大，置顶优先级越高。相同数字的文章会在一"
+"起显示，按照日期排序。"
 
 #: forums/models.py:126
 msgid "Topic is locked by moderator."
@@ -984,8 +989,8 @@ msgstr "多谢！"
 
 #: forums/templates/comments/deleted.html:8
 msgid ""
-"It's great that you take the time to improve the quality of discussion on "
-"our site."
+"It's great that you take the time to improve the quality of discussion on our "
+"site."
 msgstr "多谢您帮助维护网站。"
 
 #: forums/templates/comments/deleted.html:9
@@ -1007,7 +1012,9 @@ msgstr "提交评论"
 msgid ""
 "Please read Inkscape's <a tabindex=\"10\" href=\"/community/coc\">Code of "
 "Conduct</a> before posting."
-msgstr "请在发表帖子前先阅读 Inkscape 的<a tabindex=\"10\" href=\"/community/coc\">行为守则</a>。"
+msgstr ""
+"请在发表帖子前先阅读 Inkscape 的<a tabindex=\"10\" href=\"/community/coc\">行为"
+"守则</a>。"
 
 #: forums/templates/comments/posted.html:4
 msgid "Thanks for commenting"
@@ -1056,8 +1063,8 @@ msgstr "%(subject)s 下所有评论"
 #: forums/templates/forums/forum_detail.html:16
 #: forums/templates/forums/forumtopic_detail.html:16
 msgid ""
-"This forum is broken, it is attached to a defunct content type and needs to "
-"be reconfigured by a system's administrator."
+"This forum is broken, it is attached to a defunct content type and needs to be "
+"reconfigured by a system's administrator."
 msgstr "论坛已经损坏，内容不复存在，需要系统管理员重新配置。"
 
 #: forums/templates/forums/forum_detail.html:28
@@ -1144,7 +1151,7 @@ msgstr "网站用户"
 
 #: inkscape/settings.py:208
 msgid "Gallery Resource"
-msgstr "画廊库"
+msgstr "画册资源"
 
 #: inkscape/settings.py:209
 msgid "User Comment"
@@ -1204,16 +1211,22 @@ msgstr "Inkscape 网站开发人员"
 
 #: inkscape/templates/base.html:32
 msgid ""
-"inkscape,vector,drawing,graphics,svg,xml,document,poster,linux,open "
-"source,foss,floss,free software,libre "
-"software,libre,freedom,line,shape,diagram,flowchart,graph,extension,plugin,software,download,platform,windows,win,mac,osx,ubuntu,fedora,debian,help,tutorial,chat,irc,home,homepage,professional,casual,powerful,text,web,www,w3c,standard"
+"inkscape,vector,drawing,graphics,svg,xml,document,poster,linux,open source,foss,"
+"floss,free software,libre software,libre,freedom,line,shape,diagram,flowchart,"
+"graph,extension,plugin,software,download,platform,windows,win,mac,osx,ubuntu,"
+"fedora,debian,help,tutorial,chat,irc,home,homepage,professional,casual,powerful,"
+"text,web,www,w3c,standard"
 msgstr ""
-"inkscape,矢量,绘画,图像,svg,xml,文档,海报,linux,开源,自由开源软件,自由/开源软件,floss,自由软件,libre "
-"software,自由,freedom,line,shape,形状,diagram,flowchart,graph,图表,插件,扩展,软件,extension,plugin,software,下载,平台,苹果,download,platform,windows,win,mac,osx,ubuntu,fedora,debian,帮助,教程,聊天,主页,专业,强大,help,tutorial,chat,irc,home,homepage,professional,casual,powerful,text,web,www,w3c,standard"
+"inkscape,矢量,绘画,图像,svg,xml,文档,海报,linux,开源,自由开源软件,自由/开源软件,"
+"floss,自由软件,libre software,自由,freedom,line,shape,形状,diagram,flowchart,"
+"graph,图表,插件,扩展,软件,extension,plugin,software,下载,平台,苹果,download,"
+"platform,windows,win,mac,osx,ubuntu,fedora,debian,帮助,教程,聊天,主页,专业,强大,"
+"help,tutorial,chat,irc,home,homepage,professional,casual,powerful,text,web,www,"
+"w3c,standard"
 
 #: inkscape/templates/base.html:45
 msgid "Draw Freely."
-msgstr "随意画。"
+msgstr "自油自画"
 
 #: inkscape/templates/base.html:54
 #: person/templates/registration/password_reset_complete.html:11
@@ -1291,17 +1304,16 @@ msgstr "页面未找到"
 
 #: inkscape/templates/error/404.html:6
 msgid ""
-"<p>Couldn't find what you were looking for.</p> <p>If you don't know why you"
-" got here, maybe you'd like to <a href=\"/search/\">search</a> to see if you"
-" can find what you were looking for.</p> <hr/> <p>If you've followed a link "
-"from our site, or are using a link that used to work before, please tell us "
-"<a href=\"https://bugs.launchpad.net/inkscape-web\">here</a> and we'll fix "
-"it.</p>"
+"<p>Couldn't find what you were looking for.</p> <p>If you don't know why you "
+"got here, maybe you'd like to <a href=\"/search/\">search</a> to see if you can "
+"find what you were looking for.</p> <hr/> <p>If you've followed a link from our "
+"site, or are using a link that used to work before, please tell us <a href="
+"\"https://bugs.launchpad.net/inkscape-web\">here</a> and we'll fix it.</p>"
 msgstr ""
-"<p>无法找到资源。</p> <p>如果你不知道怎么就穿越到了这里，或许可以试试<a "
-"href=\\\"/search/\\\">搜索</a>功能看能否找到感兴趣的资源。</p> <hr/> "
-"<p>如果是点击了网站内一个链接、或者此链接原来可用但现在异常，请在<a href=\\\"https://bugs.launchpad.net"
-"/inkscape-web\\\">这里</a>告知我们。</p>"
+"<p>无法找到资源。</p> <p>如果你不知道怎么就穿越到了这里，或许可以试试<a href=\\"
+"\"/search/\\\">搜索</a>功能看能否找到感兴趣的资源。</p> <hr/> <p>如果是点击了网"
+"站内一个链接、或者此链接原来可用但现在异常，请在<a href=\\\"https://bugs."
+"launchpad.net/inkscape-web\\\">这里</a>告知我们。</p>"
 
 #: inkscape/templates/error/500.html:5
 msgid "Server Error"
@@ -1309,19 +1321,18 @@ msgstr "服务器错误"
 
 #: inkscape/templates/error/500.html:6
 msgid ""
-"The website is broken in some way. Now we've emailed the people who look "
-"after the website to let them know you've had problems, so please don't "
-"worry."
+"The website is broken in some way. Now we've emailed the people who look after "
+"the website to let them know you've had problems, so please don't worry."
 msgstr "网站娘也不知道怎么就出故障了... 我们已经邮件通知网站管理员，不要捉急..."
 
 #: inkscape/templates/error/500.html:10
 #, python-format
 msgid ""
-"<a href=\"%(contact_url)s?subject=Error500\">Contact an admin</a> to let "
-"them know what you were doing if you think it will help find the error."
+"<a href=\"%(contact_url)s?subject=Error500\">Contact an admin</a> to let them "
+"know what you were doing if you think it will help find the error."
 msgstr ""
-"<a "
-"href=\\\"%(contact_url)s?subject=Error500\\\">联系管理员</a>，告知他们你在进行什么操作时遇到了错误(用英文书写邮件)。"
+"<a href=\\\"%(contact_url)s?subject=Error500\\\">联系管理员</a>，告知他们你在进"
+"行什么操作时遇到了错误(用英文书写邮件)。"
 
 #: inkscape/templates/error/list.html:5
 msgid "Website Errors"
@@ -1330,24 +1341,26 @@ msgstr "网站错误"
 #: inkscape/templates/feedback.html:6
 msgid ""
 "This form allows you to submit a comment or question to the website "
-"administrator. They are volunteers who can help you with registration, "
-"download issues, moderation issues or spam. Please do not submit questions "
-"about Inkscape here. This is not a support form for Inkscape."
+"administrator. They are volunteers who can help you with registration, download "
+"issues, moderation issues or spam. Please do not submit questions about "
+"Inkscape here. This is not a support form for Inkscape."
 msgstr ""
-"在这里你可以提交评论或者问题给网站管理员。我们帅帅的管理员是来自世界各地的志愿者，他们可以帮助你解决注册问题，下载问题，论坛监督问题或者删帖相关问题。请不要在此处提"
-" Inkscape 相关问题。"
+"在这里你可以提交评论或者问题给网站管理员。我们帅帅的管理员是来自世界各地的志愿"
+"者，他们可以帮助你解决注册问题，下载问题，论坛监督问题或者删帖相关问题。请不要在"
+"此处提 Inkscape 相关问题。"
 
 #: inkscape/templates/feedback.html:7
 msgid ""
-"Please say who you are and to mention a way to contact you, such as an email"
-" address, if you need to get a response back."
+"Please say who you are and to mention a way to contact you, such as an email "
+"address, if you need to get a response back."
 msgstr "请先简单介绍下你，并提供你的联系方式例如邮件地址。"
 
 #: inkscape/templates/feedback.html:9
 msgid ""
-"Thank you for submitting your comment or question. If you are logged in then"
-" you may receive a reply to your configured email address."
-msgstr "感谢提供评论或者问题，如果当前已登录，处理结果信息会发送到资料中配置的邮箱中。"
+"Thank you for submitting your comment or question. If you are logged in then "
+"you may receive a reply to your configured email address."
+msgstr ""
+"感谢提供评论或者问题，如果当前已登录，处理结果信息会发送到资料中配置的邮箱中。"
 
 #: inkscape/templates/feedback.html:14
 msgid "Send Comment or Question"
@@ -1496,8 +1509,7 @@ msgstr "此处有两个选项"
 
 #: moderation/templates/moderation/flag_flagged.html:10
 #: moderation/templates/moderation/flag_latest.html:10
-#: moderation/templates/moderation/items/comment.html:37
-#: moderation/views.py:80
+#: moderation/templates/moderation/items/comment.html:37 moderation/views.py:80
 msgid "Approve Comment"
 msgstr "批准评论"
 
@@ -1508,17 +1520,17 @@ msgstr "未来关于此评论的举报将会被忽略。"
 
 #: moderation/templates/moderation/flag_flagged.html:11
 #: moderation/templates/moderation/flag_latest.html:11
-#: moderation/templates/moderation/items/comment.html:34
-#: moderation/views.py:71
+#: moderation/templates/moderation/items/comment.html:34 moderation/views.py:71
 msgid "Hide Comment"
 msgstr "隐藏评论"
 
 #: moderation/templates/moderation/flag_flagged.html:11
 #: moderation/templates/moderation/flag_latest.html:11
 msgid ""
-"The comment will no longer be shown on the website and the person who made "
-"this comment gets a message about the reason for this."
-msgstr "评论将不会在网站中显示出来，创建此评论的人员会收到一条关于隐藏评论的通知。"
+"The comment will no longer be shown on the website and the person who made this "
+"comment gets a message about the reason for this."
+msgstr ""
+"评论将不会在网站中显示出来，创建此评论的人员会收到一条关于隐藏评论的通知。"
 
 #: moderation/templates/moderation/flag_flagged.html:13
 msgid "This is a list of all comments reported by our users"
@@ -1552,10 +1564,11 @@ msgstr "欢迎来到监督区！"
 
 #: moderation/templates/moderation/flag_list.html:6
 msgid ""
-"Before you start out on your mission to make the Inkscape Website a friendly"
-" place, please review our <a href='/community/coc/'>Community Code of "
-"Conduct</a>."
-msgstr "在帮助维护 Inkscape 网站前，请先阅读<a href='/community/coc/'>行为守则</a>。"
+"Before you start out on your mission to make the Inkscape Website a friendly "
+"place, please review our <a href='/community/coc/'>Community Code of Conduct</"
+"a>."
+msgstr ""
+"在帮助维护 Inkscape 网站前，请先阅读<a href='/community/coc/'>行为守则</a>。"
 
 #: moderation/templates/moderation/flag_list.html:11
 msgid "See All Reports"
@@ -1568,11 +1581,11 @@ msgstr "查看最近的举报"
 #: moderation/templates/moderation/items/comment.html:10
 #, python-format
 msgid ""
-"<a href=\"%(profile_url)s\">%(user_name)s</a> wrote %(creation_date)s about "
-"<a href=\"%(the_url)s\">%(resource_name)s</a>:"
-msgstr ""
-"<a href=\"%(profile_url)s\">%(user_name)s</a> 于 %(creation_date)s 发表 <a "
+"<a href=\"%(profile_url)s\">%(user_name)s</a> wrote %(creation_date)s about <a "
 "href=\"%(the_url)s\">%(resource_name)s</a>:"
+msgstr ""
+"<a href=\"%(profile_url)s\">%(user_name)s</a> 于 %(creation_date)s 发表 <a href="
+"\"%(the_url)s\">%(resource_name)s</a>:"
 
 #: moderation/templates/moderation/items/comment.html:17
 #: moderation/templates/moderation/items/resourcefile.html:17
@@ -1609,11 +1622,11 @@ msgstr "确定批准此评论？"
 #: moderation/templates/moderation/items/resourcefile.html:10
 #, python-format
 msgid ""
-"<a href=\"%(profile_url)s\">%(user_name)s</a> posted <a "
-"href=\"%(the_url)s\">%(resource_name)s</a>"
+"<a href=\"%(profile_url)s\">%(user_name)s</a> posted <a href=\"%(the_url)s\">"
+"%(resource_name)s</a>"
 msgstr ""
-"<a href=\"%(profile_url)s\">%(user_name)s</a> 发表 <a "
-"href=\"%(the_url)s\">%(resource_name)s</a>"
+"<a href=\"%(profile_url)s\">%(user_name)s</a> 发表 <a href=\"%(the_url)s\">"
+"%(resource_name)s</a>"
 
 #: moderation/templates/moderation/items/resourcefile.html:36
 msgid "Hide Resource"
@@ -1772,7 +1785,7 @@ msgstr "社交网络设置"
 
 #: person/models.py:41
 msgid "Bio"
-msgstr "简历"
+msgstr "简介"
 
 #: person/models.py:42
 msgid "Photograph (square)"
@@ -1808,18 +1821,19 @@ msgstr "GPG 公钥"
 
 #: person/models.py:53
 msgid ""
-"<strong>Signing and Checksums for Uploads</strong><br/> Either fill in a "
-"valid GPG key, so you can sign your uploads, or just enter any text to "
-"activate the upload validation feature which verifies your uploads by "
-"comparing checksums.<br/><strong>Usage in file upload/editing "
-"form:</strong><br/>If you have submitted a GPG key, you can upload a *.sig "
-"file, and your upload can be verified. You can also submit these checksum "
-"file types:<br/>*.md5, *.sha1, *.sha224, *.sha256, *.sha384 or *.sha512"
+"<strong>Signing and Checksums for Uploads</strong><br/> Either fill in a valid "
+"GPG key, so you can sign your uploads, or just enter any text to activate the "
+"upload validation feature which verifies your uploads by comparing checksums."
+"<br/><strong>Usage in file upload/editing form:</strong><br/>If you have "
+"submitted a GPG key, you can upload a *.sig file, and your upload can be "
+"verified. You can also submit these checksum file types:<br/>*.md5, *.sha1, *."
+"sha224, *.sha256, *.sha384 or *.sha512"
 msgstr ""
-"<strong>用于签名或者校验上传的文件</strong><br/>可以选择提供正确的 GPG "
-"公钥以实现对上传文件的签名；或者随便输入什么内容，用于对文件的校验。<br/><strong>文件上传/编辑功能使用方法：</strong><br/>如果已经提供了"
-" GPG 公钥，你可以上传 *.sig 文件，这样上传的文件便可得到验证；也可以提供以下文件：<br/>*.md5, *.sha1, *.sha224,"
-" *.sha256, *.sha384 或 *.sha512 用于校验文件。"
+"<strong>用于签名或者校验上传的文件</strong><br/>可以选择提供正确的 GPG 公钥以实"
+"现对上传文件的签名；或者随便输入什么内容，用于对文件的校验。<br/><strong>文件上"
+"传/编辑功能使用方法：</strong><br/>如果已经提供了 GPG 公钥，你可以上传 *.sig 文"
+"件，这样上传的文件便可得到验证；也可以提供以下文件：<br/>*.md5, *.sha1, *."
+"sha224, *.sha256, *.sha384 或 *.sha512 用于校验文件。"
 
 #: person/models.py:77
 msgid "IRC Chat Training Complete"
@@ -1835,15 +1849,15 @@ msgstr "IRC 聊天室名"
 
 #: person/models.py:186
 msgid "Open"
-msgstr "打开"
+msgstr "开放"
 
 #: person/models.py:187
 msgid "Peer Approval"
-msgstr "同级人员批准"
+msgstr "需同级人员批准"
 
 #: person/models.py:188
 msgid "Admin Approval"
-msgstr "管理员批准"
+msgstr "需管理员批准"
 
 #: person/models.py:189
 msgid "Closed"
@@ -1851,7 +1865,7 @@ msgstr "关闭"
 
 #: person/models.py:190
 msgid "Secret"
-msgstr "秘密"
+msgstr "私密"
 
 #: person/models.py:199
 msgid "Team Name"
@@ -1888,7 +1902,7 @@ msgstr "邮件列表"
 
 #: person/models.py:210
 msgid "Enrollment"
-msgstr "注册"
+msgstr "注册方式"
 
 #: person/models.py:223 person/templates/person/user_detail.html:83
 msgid "Teams"
@@ -1934,21 +1948,17 @@ msgstr "询问相关人员"
 msgid "Don't ask when busy."
 msgstr "不要在讨论激烈的时候提问。"
 
-#: person/templates/chat/tutorial.html:38
-#: person/templates/chat/tutorial.html:44
-#: person/templates/chat/tutorial.html:50
-#: person/templates/chat/tutorial.html:56
-#: person/templates/chat/tutorial.html:69
-#: person/templates/chat/tutorial.html:75
-#: person/templates/chat/tutorial.html:81
-#: person/templates/chat/tutorial.html:87
+#: person/templates/chat/tutorial.html:38 person/templates/chat/tutorial.html:44
+#: person/templates/chat/tutorial.html:50 person/templates/chat/tutorial.html:56
+#: person/templates/chat/tutorial.html:69 person/templates/chat/tutorial.html:75
+#: person/templates/chat/tutorial.html:81 person/templates/chat/tutorial.html:87
 msgid "Why?"
 msgstr "为何？"
 
 #: person/templates/chat/tutorial.html:39
 msgid ""
-"If the chat room has many messages from lots of different people, it is "
-"worth waiting for the chat room to calm down before asking your question."
+"If the chat room has many messages from lots of different people, it is worth "
+"waiting for the chat room to calm down before asking your question."
 msgstr "如果当前有很多人在发言，建议等他们讨论的话题结束之后再提问。"
 
 #: person/templates/chat/tutorial.html:43
@@ -1957,8 +1967,8 @@ msgstr "询问所有人，而不是只问其中一个人。"
 
 #: person/templates/chat/tutorial.html:45
 msgid ""
-"If you only ask one person, you may miss out on the help of others who may "
-"know the answer or can offer more specific information."
+"If you only ask one person, you may miss out on the help of others who may know "
+"the answer or can offer more specific information."
 msgstr "问更多的人可以获得更多甚至更详细的解答。"
 
 #: person/templates/chat/tutorial.html:49
@@ -1968,9 +1978,11 @@ msgstr "在开发者聊天室中咨询技术问题。"
 #: person/templates/chat/tutorial.html:51
 msgid ""
 "There are different rooms where chat happens, and questions about the "
-"development, code or other technical subjects should be kept to the "
-"developer's chat room."
-msgstr "有很多种聊天室，关于开发的、编程的或者任何技术相关的问题都应该发表到开发者聊天室中。"
+"development, code or other technical subjects should be kept to the developer's "
+"chat room."
+msgstr ""
+"有很多种聊天室，关于开发的、编程的或者任何技术相关的问题都应该发表到开发者聊天室"
+"中。"
 
 #: person/templates/chat/tutorial.html:55
 msgid "Issues should be reported properly."
@@ -1978,13 +1990,14 @@ msgstr "问题需要按照指定格式合理上报。"
 
 #: person/templates/chat/tutorial.html:57
 msgid ""
-"If you want a problem in the software to be fixed, you need to report the "
-"issue in the bug tracker. This is a system of recording problems and allows "
-"developers to sort it and attach useful information. It's kept in a database"
-" so they don't forget to fix it if they are busy right now."
+"If you want a problem in the software to be fixed, you need to report the issue "
+"in the bug tracker. This is a system of recording problems and allows "
+"developers to sort it and attach useful information. It's kept in a database so "
+"they don't forget to fix it if they are busy right now."
 msgstr ""
-"如果遇到软件问题需要解决，可以通过 "
-"bug追踪提交问题。bug追踪是一个记录软件问题的系统，管理员可以将问题进行整理并解答。因为数据一直保存在数据库中，所以不用担心问题得不到回复。"
+"如果遇到软件问题需要解决，可以通过 bug追踪提交问题。bug追踪是一个记录软件问题的"
+"系统，管理员可以将问题进行整理并解答。因为数据一直保存在数据库中，所以不用担心问"
+"题得不到回复。"
 
 #: person/templates/chat/tutorial.html:65
 msgid "Ask Good Questions"
@@ -1996,8 +2009,8 @@ msgstr "请不要问我可不可以问个问题。"
 
 #: person/templates/chat/tutorial.html:70
 msgid ""
-"There is no need asking if you're allowed to ask questions. The answer is "
-"Yes, and you're invited to ask your question directly."
+"There is no need asking if you're allowed to ask questions. The answer is Yes, "
+"and you're invited to ask your question directly."
 msgstr "不用发“你是否可以问个问题”这样的话。你可以直接问你的问题。"
 
 #: person/templates/chat/tutorial.html:74
@@ -2006,10 +2019,11 @@ msgstr "清楚的描述你的问题。"
 
 #: person/templates/chat/tutorial.html:76
 msgid ""
-"You may have to restate your question in a different way in order for others"
-" to understand you. Try to be as clear as possible each time you state the "
-"issue you have."
-msgstr "你可能需要以其他方式重述问题才能让其他人读懂。请每次尽量准确描述遇到的问题。"
+"You may have to restate your question in a different way in order for others to "
+"understand you. Try to be as clear as possible each time you state the issue "
+"you have."
+msgstr ""
+"你可能需要以其他方式重述问题才能让其他人读懂。请每次尽量准确描述遇到的问题。"
 
 #: person/templates/chat/tutorial.html:80
 msgid "Include the reason or purpose."
@@ -2018,10 +2032,11 @@ msgstr "请加上前因后果。"
 #: person/templates/chat/tutorial.html:82
 msgid ""
 "Sometimes the question you have is so specific that it hides a more general "
-"question which could be answered with a new method you may not have "
-"considered before. So always try and state what you are attempting to do "
-"overall."
-msgstr "有时候你提的问题描述很具体，但是忽略了一些很平常的东西。请在问问题的时候添加上遇到问题的前因后果。"
+"question which could be answered with a new method you may not have considered "
+"before. So always try and state what you are attempting to do overall."
+msgstr ""
+"有时候你提的问题描述很具体，但是忽略了一些很平常的东西。请在问问题的时候添加上遇"
+"到问题的前因后果。"
 
 #: person/templates/chat/tutorial.html:86
 msgid "Respond to requests for clarification."
@@ -2029,9 +2044,9 @@ msgstr "回复别人的提问。"
 
 #: person/templates/chat/tutorial.html:88
 msgid ""
-"The chat room is an active place, your attention is needed to respond "
-"quickly to others who are trying to help you as they try and get to the root"
-" of problems."
+"The chat room is an active place, your attention is needed to respond quickly "
+"to others who are trying to help you as they try and get to the root of "
+"problems."
 msgstr "聊天室是个很活跃的地方，你需要实时关注，回应那些想帮助你的人。"
 
 #: person/templates/chat/tutorial.html:96
@@ -2040,9 +2055,10 @@ msgstr "有耐心"
 
 #: person/templates/chat/tutorial.html:97
 msgid ""
-"Wait for an answer. Not all users in chatrooms are checking all the time, "
-"but they will respond when they can."
-msgstr "耐心等待答案，并不是所有用户都会同时在线，但是一般他们看到了都会帮助解答。"
+"Wait for an answer. Not all users in chatrooms are checking all the time, but "
+"they will respond when they can."
+msgstr ""
+"耐心等待答案，并不是所有用户都会同时在线，但是一般他们看到了都会帮助解答。"
 
 #: person/templates/chat/tutorial.html:98
 msgid "Say Thanks"
@@ -2062,8 +2078,7 @@ msgstr "返回"
 msgid "I Understand"
 msgstr "我了解了"
 
-#: person/templates/person/base.html:4
-#: person/templates/person/user_detail.html:4
+#: person/templates/person/base.html:4 person/templates/person/user_detail.html:4
 msgid "User Profile"
 msgstr "用户资料"
 
@@ -2077,10 +2092,12 @@ msgstr "贡献者许可协议"
 
 #: person/templates/person/cla-agree.html:10
 msgid ""
-"Thank you for agreeing to the terms for contributing to the Inkscape "
-"website. All your edits to the cms will be dual-licenced as CC-BY-SA 4.0 and"
-" GPLv2 or later."
-msgstr "感谢您同意为 Inkscape 网站做出贡献。您编辑的所有 cms 都会附上 CC-BY-SA 4.0 和 GPLv2 两份许可。"
+"Thank you for agreeing to the terms for contributing to the Inkscape website. "
+"All your edits to the cms will be dual-licenced as CC-BY-SA 4.0 and GPLv2 or "
+"later."
+msgstr ""
+"感谢您同意为 Inkscape 网站做出贡献。您编辑的所有 cms 都会附上 CC-BY-SA 4.0 和 "
+"GPLv2 两份许可。"
 
 #: person/templates/person/cla-agree.html:15
 msgid "I Agree"
@@ -2088,10 +2105,12 @@ msgstr "我同意"
 
 #: person/templates/person/team_charter.html:11
 msgid ""
-"Each Inkscape team has responsibilities, rules and specific privileges. "
-"These are documented here, so all teams understand how they are supposed to "
-"work and what may be required of them."
-msgstr "每个 Inkscape 团队都有自己的责任、规则以及特殊权限。此处的文档记录了所有人的工作划分以及需要遵守的东西。"
+"Each Inkscape team has responsibilities, rules and specific privileges. These "
+"are documented here, so all teams understand how they are supposed to work and "
+"what may be required of them."
+msgstr ""
+"每个 Inkscape 团队都有自己的责任、规则以及特殊权限。此处的文档记录了所有人的工作"
+"划分以及需要遵守的东西。"
 
 #: person/templates/person/team_charter.html:19
 #: person/templates/person/team_detail.html:92
@@ -2139,8 +2158,8 @@ msgstr "停止关注团队"
 
 #: person/templates/person/team_detail.html:27
 msgid ""
-"Watchers are kept up-to-date about what's going on in the team, but can't "
-"take part in their work."
+"Watchers are kept up-to-date about what's going on in the team, but can't take "
+"part in their work."
 msgstr "关注者可以看到团队工作进展的各项活动，但是不能参与工作。"
 
 #: person/templates/person/team_detail.html:27
@@ -2233,12 +2252,12 @@ msgstr "Inkscape 社区团队"
 #: person/templates/person/team_list.html:12
 msgid ""
 "The Inkscape community has several teams who meet, discuss and work on "
-"different aspects of developing Inkscape, looking after its infrastructure "
-"and supporting the community around the project. Here you will find all the "
-"current teams and the ability to join them."
+"different aspects of developing Inkscape, looking after its infrastructure and "
+"supporting the community around the project. Here you will find all the current "
+"teams and the ability to join them."
 msgstr ""
-"Inkscape 社区有很多个团队，有 Inkscape "
-"各个部分的开发团队、基础环境维护以及社区支持团队。在这里可以看到当前所有的团队，感兴趣的话可以选择加入。"
+"Inkscape 社区有很多个团队，有 Inkscape 各个部分的开发团队、基础环境维护以及社区"
+"支持团队。在这里可以看到当前所有的团队，感兴趣的话可以选择加入。"
 
 #: person/templates/person/user_detail.html:12
 msgid "You have flagged this user."
@@ -2303,11 +2322,11 @@ msgstr "PasteBin"
 
 #: person/templates/person/user_detail.html:75
 msgid "Unsubscribe from Gallery"
-msgstr "取消订阅画廊"
+msgstr "取消订阅画册"
 
 #: person/templates/person/user_detail.html:77
 msgid "Subscribe to Gallery"
-msgstr "订阅此画廊"
+msgstr "订阅此画册"
 
 #: person/templates/person/user_detail.html:99
 msgid "Public GPG Key"
@@ -2351,8 +2370,8 @@ msgstr "-"
 
 #: person/templates/person/user_detail.html:127
 msgid ""
-"Sessions are stored only as long as you are logged in and the IP address is "
-"not recorded permanently."
+"Sessions are stored only as long as you are logged in and the IP address is not "
+"recorded permanently."
 msgstr "会话只有在已经登录且 IP 地址未被永久记录时才会被保存。"
 
 #: person/templates/person/user_detail.html:127
@@ -2386,13 +2405,12 @@ msgstr "尚无上传？"
 #: person/templates/person/user_detail.html:174
 #, python-format
 msgid ""
-"Visit <a href=\"%(yourinkspacelink)s\">your InkSpace</a> and create a "
-"gallery to start sharing your artwork, tutorials, extensions and everything "
-"else related to Inkscape with other Inkscape users!"
+"Visit <a href=\"%(yourinkspacelink)s\">your InkSpace</a> and create a gallery "
+"to start sharing your artwork, tutorials, extensions and everything else "
+"related to Inkscape with other Inkscape users!"
 msgstr ""
-"请访问<a "
-"href=\"%(yourinkspacelink)s\">InkSpace</a>创建一个新画册，立刻开始分享您的艺术作品、教程、插件以及任何与 "
-"Inkscape 相关的东西。"
+"请访问<a href=\"%(yourinkspacelink)s\">InkSpace</a>创建一个新画册，立刻开始分享"
+"您的艺术作品、教程、插件以及任何与 Inkscape 相关的东西。"
 
 #: person/templates/person/user_detail.html:181
 msgid "Favorite Artworks"
@@ -2409,8 +2427,8 @@ msgstr "没有喜欢的？"
 #: person/templates/person/user_detail.html:197
 #, python-format
 msgid ""
-"Visit <a href=\"%(gallery_url)s\">the gallery</a> to see what other Inkscape"
-" users have created!"
+"Visit <a href=\"%(gallery_url)s\">the gallery</a> to see what other Inkscape "
+"users have created!"
 msgstr "请访问<a href=\"%(gallery_url)s\">画册库</a>查看其它用户的分享。"
 
 #: person/templates/person/user_form.html:6
@@ -2427,8 +2445,8 @@ msgstr "注册激活"
 
 #: person/templates/registration/activate.html:7
 msgid ""
-"The activation has failed (I think), please try to register again or check "
-"the email."
+"The activation has failed (I think), please try to register again or check the "
+"email."
 msgstr "激活失败，请稍后重新注册或再次查看邮件。"
 
 #: person/templates/registration/activate.html:11
@@ -2453,7 +2471,8 @@ msgid ""
 "If you have any problems, please <a href=\"%(contact_url)s?subject=Lost "
 "activation code\"> contact us</a>."
 msgstr ""
-"如果有任何问题，请<a href=\"%(contact_url)s?subject=Lost activation code\">联系我们</a>。"
+"如果有任何问题，请<a href=\"%(contact_url)s?subject=Lost activation code\">联系"
+"我们</a>。"
 
 #: person/templates/registration/activation_complete.html:16
 #: person/templates/registration/login.html:8
@@ -2466,14 +2485,14 @@ msgstr "你好，"
 
 #: person/templates/registration/activation_email.txt:3
 msgid ""
-"This is an automatic email to help you complete your registration with "
-"www.inkscape.org."
+"This is an automatic email to help you complete your registration with www."
+"inkscape.org."
 msgstr "此邮件由系统发出，请按照下方提示完成 www.inkscape.org 的注册。"
 
 #: person/templates/registration/activation_email.txt:5
 msgid ""
-"Please open the following link in your web browser. If the link is split "
-"over several lines, you may need to copy it in the address bar."
+"Please open the following link in your web browser. If the link is split over "
+"several lines, you may need to copy it in the address bar."
 msgstr "点击下方链接进行激活，如果链接不可用，请手动复制链接并在浏览器中打开。"
 
 #: person/templates/registration/activation_email_subject.txt:1
@@ -2535,14 +2554,13 @@ msgstr "密码重置失败"
 
 #: person/templates/registration/password_reset_confirm.html:16
 msgid ""
-"The password reset link was invalid, possibly because it has already been "
-"used. Please request a new password reset."
+"The password reset link was invalid, possibly because it has already been used. "
+"Please request a new password reset."
 msgstr "密码重置链接不可用(此地址或许已被使用)，请重新提交密码重置申请。"
 
 #: person/templates/registration/password_reset_confirm.html:19
 msgid ""
-"Please enter your new password twice so we can verify you typed it in "
-"correctly."
+"Please enter your new password twice so we can verify you typed it in correctly."
 msgstr "请输入两遍密码以确保输入正确。"
 
 #: person/templates/registration/password_reset_confirm.html:27
@@ -2562,8 +2580,8 @@ msgstr "已发送的邮件中包含密码重置方法，您稍后应该会受到
 
 #: person/templates/registration/password_reset_done.html:8
 msgid ""
-"If you don't receive an email, please make sure you've used the correct "
-"email address, and check your spam folder."
+"If you don't receive an email, please make sure you've used the correct email "
+"address, and check your spam folder."
 msgstr "如果未收到邮件，请确保填写了正确的邮箱地址，或者检查邮件系统的垃圾箱。"
 
 #: person/templates/registration/password_reset_email.html:3
@@ -2603,8 +2621,8 @@ msgstr "重置密码"
 
 #: person/templates/registration/password_reset_form.html:7
 msgid ""
-"Welcome! In order to adjust your password, we need to send an email to you "
-"with a link."
+"Welcome! In order to adjust your password, we need to send an email to you with "
+"a link."
 msgstr "欢迎！请在下框填入密码重置邮箱。"
 
 #: person/templates/registration/password_reset_form.html:11
@@ -2620,17 +2638,19 @@ msgid ""
 "Thank you for registering. You will very soon receive an email with a "
 "confirmation link. Please follow this link in order to complete your "
 "registration."
-msgstr "感谢您注册，稍后您将收到一份确认邮件，里面包含一个确认链接，点击确认链接完成注册确认。"
+msgstr ""
+"感谢您注册，稍后您将收到一份确认邮件，里面包含一个确认链接，点击确认链接完成注册"
+"确认。"
 
 #: person/templates/registration/registration_complete.html:11
 #, python-format
 msgid ""
 "If you don't receive it shortly, please check your spam folder. If it's not "
-"there, please <a href=\"%(contact_url)s?subject=Lost activation "
-"code\">contact us</a>."
+"there, please <a href=\"%(contact_url)s?subject=Lost activation code\">contact "
+"us</a>."
 msgstr ""
-"如果未收到邮件，请检查邮件系统的垃圾箱。如果垃圾箱没有，请<a href=\"%(contact_url)s?subject=Lost "
-"activation code\">联系我们</a>。"
+"如果未收到邮件，请检查邮件系统的垃圾箱。如果垃圾箱没有，请<a href="
+"\"%(contact_url)s?subject=Lost activation code\">联系我们</a>。"
 
 #: person/templates/registration/registration_complete.html:18
 msgid "Done"
@@ -2656,28 +2676,31 @@ msgstr "注册时必须提供一个可用的邮箱地址。"
 #: person/templates/registration/registration_form.html:17
 msgid ""
 "The Inkscape website has the ability to notify you via email when things "
-"happen, like a new Inkscape release or a personal message from another user."
-" If you would like to control when an email should be sent to you, please go"
-" to your User Settings."
-msgstr "Inkscape 网站会通过邮件发送一些提醒，例如 Inkscape 新版本发布消息、私信。成功注册后可以在用户设置中修改邮件提醒的内容。"
+"happen, like a new Inkscape release or a personal message from another user. If "
+"you would like to control when an email should be sent to you, please go to "
+"your User Settings."
+msgstr ""
+"Inkscape 网站会通过邮件发送一些提醒，例如 Inkscape 新版本发布消息、私信。成功注"
+"册后可以在用户设置中修改邮件提醒的内容。"
 
 #: person/templates/registration/registration_form.html:18
 msgid ""
-"This website and it's services are provided 'as is', and you should not "
-"expect the services to continue to work or serve any particular need. Your "
-"files should never be assumed to be safe here and you should back everything"
-" up."
-msgstr "网站及其服务目前功能有限，如果服务器连接错误或者不能提供某些特殊服务，请见谅。另外我们并不能保障您上传数据的安全性，请做好本地备份。"
+"This website and it's services are provided 'as is', and you should not expect "
+"the services to continue to work or serve any particular need. Your files "
+"should never be assumed to be safe here and you should back everything up."
+msgstr ""
+"网站及其服务目前功能有限，如果服务器连接错误或者不能提供某些特殊服务，请见谅。另"
+"外我们并不能保障您上传数据的安全性，请做好本地备份。"
 
 #: person/templates/registration/registration_form.html:20
 #, python-format
 msgid ""
-"By registering, you acknowledge the Inkscape website's <a "
-"href=\"%(privacy_url)s\">Privacy Policy</a> and agree to respect the "
-"Inkscape <a href=\"%(coc_url)s\">Community's Code of Conduct</a>."
+"By registering, you acknowledge the Inkscape website's <a href=\"%(privacy_url)s"
+"\">Privacy Policy</a> and agree to respect the Inkscape <a href=\"%(coc_url)s"
+"\">Community's Code of Conduct</a>."
 msgstr ""
-"注册即表示你同意 Inkscape 网站的 <a href=\"%(privacy_url)s\">隐私政策</a>且会遵守 Inkscape <a "
-"href=\"%(coc_url)s\">社区行为守则</a>。"
+"注册即表示你同意 Inkscape 网站的 <a href=\"%(privacy_url)s\">隐私政策</a>且会遵"
+"守 Inkscape <a href=\"%(coc_url)s\">社区行为守则</a>。"
 
 #: person/templates/registration/registration_form.html:27
 msgid "My User Profile"
@@ -2695,47 +2718,50 @@ msgstr "你好，"
 msgid ""
 "the Inkscape website is a great place for you to showcase your artwork made "
 "with Inkscape, and to share your ideas and knowledge with other users."
-msgstr "Inkscape 向所有用户提供一个 Inkscape 作品展示平台，您可以和其他人分享你的创意和知识。"
+msgstr ""
+"Inkscape 向所有用户提供一个 Inkscape 作品展示平台，您可以和其他人分享你的创意和"
+"知识。"
 
 #: person/templates/registration/welcome.html:10
 msgid ""
-"But first, please read the following to learn how this website community "
-"works, and how we handle your private data."
+"But first, please read the following to learn how this website community works, "
+"and how we handle your private data."
 msgstr "首先，请阅读下文了解社区网站是如何工作的，以及我们是如何处理隐私信息的。"
 
 #: person/templates/registration/welcome.html:13
 #, python-format
 msgid ""
-"In order to fully participate in the Inkscape website community, you will "
-"need to enter a valid email address in your <a href=\"%(edit_profile_url)s\""
-" target=\"_blank\">user profile settings</a>. There you can also control in "
-"which cases an email should be sent to you, and add some info to introduce "
-"yourself to other users. Some of the website functionality (e.g. "
-"discussions, mailing lists) will not be available to you without an email "
-"address."
+"In order to fully participate in the Inkscape website community, you will need "
+"to enter a valid email address in your <a href=\"%(edit_profile_url)s\" target="
+"\"_blank\">user profile settings</a>. There you can also control in which cases "
+"an email should be sent to you, and add some info to introduce yourself to "
+"other users. Some of the website functionality (e.g. discussions, mailing "
+"lists) will not be available to you without an email address."
 msgstr ""
-"为了加入 Inkscape 社区，您必须在<a href=\"%(edit_profile_url)s\" "
-"target=\"_blank\">个人资料</a>中提供可用的邮箱地址。在资料设置中也可以设置接收哪类邮件，添加个人介绍。另外一些社区功能也需要邮箱，例如讨论，邮件列表。"
+"为了加入 Inkscape 社区，您必须在<a href=\"%(edit_profile_url)s\" target=\"_blank"
+"\">个人资料</a>中提供可用的邮箱地址。在资料设置中也可以设置接收哪类邮件，添加个"
+"人介绍。另外一些社区功能也需要邮箱，例如讨论，邮件列表。"
 
 #: person/templates/registration/welcome.html:16
 #, python-format
 msgid ""
-"By your continued usage of the website, you acknowledge <a "
-"href=\"%(privacy_url)s\" target=\"_blank\">the Inkscape website's Privacy "
-"Policy</a> and agree to respect <a href=\"%(coc_url)s\" "
-"target=\"_blank\">the Inkscape Community's Code of Conduct</a>."
+"By your continued usage of the website, you acknowledge <a href="
+"\"%(privacy_url)s\" target=\"_blank\">the Inkscape website's Privacy Policy</a> "
+"and agree to respect <a href=\"%(coc_url)s\" target=\"_blank\">the Inkscape "
+"Community's Code of Conduct</a>."
 msgstr ""
 "继续使用网站即表示您同意<a href=\"%(privacy_url)s\" target=\"_blank\"> Inkscape "
-"网站隐私政策</a>，并同意遵守 <a href=\"%(coc_url)s\" target=\"_blank\"> Inkscape "
-"社区行为守则</a>。"
+"网站隐私政策</a>，并同意遵守 <a href=\"%(coc_url)s\" target=\"_blank\"> "
+"Inkscape 社区行为守则</a>。"
 
 #: person/templates/registration/welcome.html:19
 msgid ""
-"This website and it's services are provided 'as is', and you should not "
-"expect the services to continue to work or serve any particular need. Your "
-"files should never be assumed to be safe here and you should back everything"
-" up"
-msgstr "网站及其服务目前功能有限，如果服务器连接错误或者不能提供某些特殊服务，请见谅。另外我们并不能保障您上传数据的安全性，请做好本地备份"
+"This website and it's services are provided 'as is', and you should not expect "
+"the services to continue to work or serve any particular need. Your files "
+"should never be assumed to be safe here and you should back everything up"
+msgstr ""
+"网站及其服务目前功能有限，如果服务器连接错误或者不能提供某些特殊服务，请见谅。另"
+"外我们并不能保障您上传数据的安全性，请做好本地备份"
 
 #: person/templates/registration/welcome.html:23
 msgid "Visit Gallery"
@@ -3021,9 +3047,10 @@ msgstr "请 <a href=\"%(login_url)s\">登录</a> 后为项目提建议！"
 #: projects/templates/projects/project_propose.html:17
 #, python-format
 msgid ""
-"You need to <a href=\"%(profile_url)s\">add an email address to your "
-"profile</a> if you'd like to suggest a new project!"
-msgstr "需要<a href=\"%(profile_url)s\">在个人资料中添加邮箱</a> 才能为项目提出建议！"
+"You need to <a href=\"%(profile_url)s\">add an email address to your profile</"
+"a> if you'd like to suggest a new project!"
+msgstr ""
+"需要<a href=\"%(profile_url)s\">在个人资料中添加邮箱</a> 才能为项目提出建议！"
 
 #: projects/templates/projects/project_propose.html:27
 msgid "A concise title for your proposal"
@@ -3045,8 +3072,8 @@ msgstr "请<a href=\"%(login_url)s\">登录</a>后更新此项目！"
 #: projects/templates/projects/projectupdate_form.html:24
 #, python-format
 msgid ""
-"You need to <a href=\"%(profile_url)s\">add an email address to your "
-"profile</a> if you'd like to update this project!"
+"You need to <a href=\"%(profile_url)s\">add an email address to your profile</"
+"a> if you'd like to update this project!"
 msgstr "需要<a href=\"%(profile_url)s\">在个人资料中添加邮箱</a>才能更新此项目！"
 
 #: releases/models.py:67
@@ -3107,13 +3134,15 @@ msgstr "平台管理员"
 
 #: releases/models.py:166
 msgid "User agent os match, whole string."
-msgstr ""
+msgstr "用户代理系统(User agent os)版本完全匹配。"
 
 #: releases/models.py:168
 msgid ""
-"User agent os version partial match, e.g. |10|11| will match both version 10"
-" and version 11, must have pipes at start and end of string."
+"User agent os version partial match, e.g. |10|11| will match both version 10 "
+"and version 11, must have pipes at start and end of string."
 msgstr ""
+"用户代理系统版本部分匹配，例如：|10|11| 将会匹配版本 10 以及 11 的系统，管道符必"
+"须在字符开始和字符结束位置都存在。"
 
 #: releases/models.py:264
 msgid "Release"
@@ -3142,12 +3171,13 @@ msgstr "发行版的平台配置错误"
 #: releases/templates/releases/platform_list.html:7
 msgid ""
 "This lists all platforms for the selected release. It shows each of the "
-"downloads that have been made available without listing the un-filled slots "
-"of all platforms. For examine if Windows 32bit is shown but Windows 64bit is"
-" not, then we have a build for 32bit but not for 64."
+"downloads that have been made available without listing the un-filled slots of "
+"all platforms. For examine if Windows 32bit is shown but Windows 64bit is not, "
+"then we have a build for 32bit but not for 64."
 msgstr ""
-"这里列出了已选择版本号对应的所有平台软件。所有可用下载都在这里列了出来，但并不包含所有平台。例如你看到了 Windows 32 版本的软件但是没有找到 "
-"Windows 64版本的，说明我们只构建了 32 位版本而没有构建 64 位版本。"
+"这里列出了已选择版本号对应的所有平台软件。所有可用下载都在这里列了出来，但并不包"
+"含所有平台。例如你看到了 Windows 32 版本的软件但是没有找到 Windows 64版本的，说"
+"明我们只构建了 32 位版本而没有构建 64 位版本。"
 
 #: releases/templates/releases/release_detail.html:40
 msgid "All Platforms"
@@ -3168,9 +3198,11 @@ msgstr "感谢您下载 Inkscape。"
 #: releases/templates/releases/releaseplatform_detail.html:22
 #, python-format
 msgid ""
-"Your download should start in 2 seconds, if not, please <a "
-"href=\"%(object.download)s\">click here</a> to start."
-msgstr "您的下载应该会在 2 秒内开始，如果没有开始，请<a href=\"%(object.download)s\">点击这里</a>下载。"
+"Your download should start in 2 seconds, if not, please <a href="
+"\"%(object.download)s\">click here</a> to start."
+msgstr ""
+"您的下载应该会在 2 秒内开始，如果没有开始，请<a href=\"%(object.download)s\">点"
+"击这里</a>下载。"
 
 #: releases/templates/releases/releaseplatform_detail.html:24
 msgid "Download Failed"
@@ -3192,13 +3224,13 @@ msgstr "支持 Inkscape"
 #, python-format
 msgid ""
 "Inkscape needs your help. Every user who can contribute to Inkscape's "
-"development is investing in the future of the project. <a "
-"href=\"%(donation_url)s\">Donations</a> allow us to do so much within the "
-"project to continue providing you with new releases of Inkscape with better "
-"features and bug fixes."
+"development is investing in the future of the project. <a href="
+"\"%(donation_url)s\">Donations</a> allow us to do so much within the project to "
+"continue providing you with new releases of Inkscape with better features and "
+"bug fixes."
 msgstr ""
-"Inkscape 需要您的帮助。每个愿意出手捐赠的人都是在为项目的未来做投资。<a "
-"href=\"%(donation_url)s\">捐赠</a>可以让我们持续维护当前软件，并开发更多新功能。"
+"Inkscape 需要您的帮助。每个愿意出手捐赠的人都是在为项目的未来做投资。<a href="
+"\"%(donation_url)s\">捐赠</a>可以让我们持续维护当前软件，并开发更多新功能。"
 
 #: releases/templates/releases/releaseplatform_detail.html:44
 msgid "Installation Instructions"
@@ -3207,9 +3239,11 @@ msgstr "安装指南"
 #: releases/templates/releases/releaseplatform_detail.html:46
 msgid ""
 "This release has further instructions for installation. It is highly "
-"recommended that you read the instructions to make sure your installation "
-"will work and work well on your computer."
-msgstr "此发行版包含更多的安装指南。我们强烈推荐你参照此安装指南进行安装，以确保 Inkscape 可以在您的电脑上正常运行。"
+"recommended that you read the instructions to make sure your installation will "
+"work and work well on your computer."
+msgstr ""
+"此发行版包含更多的安装指南。我们强烈推荐你参照此安装指南进行安装，以确保 "
+"Inkscape 可以在您的电脑上正常运行。"
 
 #: releases/templates/releases/releaseplatform_detail.html:48
 msgid "Instructions Page"
@@ -3473,8 +3507,7 @@ msgstr "每页显示的项目数"
 
 #: resources/templates/resources/alert/email_resource_alert.txt:6
 #, python-format
-msgid ""
-"you are subscribed to %(username)s's gallery at %(site)s%(gallery_link)s."
+msgid "you are subscribed to %(username)s's gallery at %(site)s%(gallery_link)s."
 msgstr "您已在 %(site)s%(gallery_link)s 订阅 %(username)s 的画册。"
 
 #: resources/templates/resources/alert/email_resource_alert.txt:8
@@ -3506,8 +3539,7 @@ msgstr "组"
 
 #: resources/templates/resources/gallery_form.html:19
 msgid ""
-"If you set the group, any member of this group can add items to this "
-"InkSpace."
+"If you set the group, any member of this group can add items to this InkSpace."
 msgstr "如果设置群组，组中的任何成员将能够添加资源到 InkSpace。"
 
 #: resources/templates/resources/gallery_list.html:4 resources/views.py:311
@@ -3818,16 +3850,20 @@ msgstr "镜像源指南："
 #: resources/templates/resources/resourcemirror_detail.html:10
 msgid ""
 "Copy this URL and use it to download all the resource files that need to be "
-"mirrored. You can use wget or other basic mirroring software to refresh all "
-"the files."
-msgstr "复制网址，使用它下载所有需要镜像的资源文件。你可以使用 wget 或者其他常用的镜像软件来刷新这些文件。"
+"mirrored. You can use wget or other basic mirroring software to refresh all the "
+"files."
+msgstr ""
+"复制网址，使用它下载所有需要镜像的资源文件。你可以使用 wget 或者其他常用的镜像软"
+"件来刷新这些文件。"
 
 #: resources/templates/resources/resourcemirror_detail.html:12
 #, python-format
 msgid ""
-"Please contact the <a href=\"%(contact_url)s\">Website Administrator</a> if "
-"you have any problems. <em>(this message will self distruct in "
-msgstr "有任何问题请联系 <a href=\"%(contact_url)s\">网站管理员</a>。<em>(此消息将会自动消失  "
+"Please contact the <a href=\"%(contact_url)s\">Website Administrator</a> if you "
+"have any problems. <em>(this message will self distruct in "
+msgstr ""
+"有任何问题请联系 <a href=\"%(contact_url)s\">网站管理员</a>。<em>(此消息将会自动"
+"消失  "
 
 #: resources/templates/resources/resourcemirror_detail.html:21
 #: resources/templates/resources/resourcemirror_list.html:85
@@ -3841,10 +3877,12 @@ msgstr "添加 Inkscape 镜像源"
 
 #: resources/templates/resources/resourcemirror_form.html:8
 msgid ""
-"Thank you for volunteering to join the Inkscape mirror pool. Each mirror "
-"will be made available to users downloading large files from Inkscape's "
-"website depending on their hosting capacity."
-msgstr "感谢您加入 Inkscape 镜像源池。每个镜像源都会根据承载能力为用户提供 Inkscape 大文件下载服务。"
+"Thank you for volunteering to join the Inkscape mirror pool. Each mirror will "
+"be made available to users downloading large files from Inkscape's website "
+"depending on their hosting capacity."
+msgstr ""
+"感谢您加入 Inkscape 镜像源池。每个镜像源都会根据承载能力为用户提供 Inkscape 大文"
+"件下载服务。"
 
 #: resources/templates/resources/resourcemirror_list.html:5
 msgid "Inkscape Mirrors"
@@ -3857,9 +3895,9 @@ msgstr "Inkscape 下载镜像源"
 #: resources/templates/resources/resourcemirror_list.html:18
 msgid ""
 "Welcome to the mirrors resource page. This page is not meant for public "
-"consumption but as an overview of the mirrors available for Inkscape "
-"downloads."
-msgstr "欢迎来到镜像资源页。此页不面向消费者，只是一个所有 Inkscape 下载站点的概述页。"
+"consumption but as an overview of the mirrors available for Inkscape downloads."
+msgstr ""
+"欢迎来到镜像资源页。此页不面向消费者，只是一个所有 Inkscape 下载站点的概述页。"
 
 #: resources/templates/resources/resourcemirror_list.html:22
 msgid "Alive"
@@ -3919,15 +3957,13 @@ msgstr "下载中"
 
 #: resources/templates/resources/resourcemirror_thanks.html:12
 #, python-format
-msgid ""
-"Thank you to our friends hosting %(mirror_name)s for delivering this file."
+msgid "Thank you to our friends hosting %(mirror_name)s for delivering this file."
 msgstr "感谢为我们提供文件下载的 %(mirror_name)s  。"
 
 #: resources/templates/resources/resourcemirror_thanks.html:13
 #, python-format
 msgid ""
-"Click <a href=\"%(url)s\">here</a> if the download doesn't start in 3 "
-"seconds."
+"Click <a href=\"%(url)s\">here</a> if the download doesn't start in 3 seconds."
 msgstr "如果3秒后下载仍未开始，请点击<a href=\"%(url)s\">这里</a> 。"
 
 #: resources/views.py:64
@@ -3956,8 +3992,7 @@ msgstr "比赛已结束不能投票！"
 
 #: resources/views.py:202
 msgid ""
-"Your previous vote in this contest has been replaced by your vote for this "
-"item."
+"Your previous vote in this contest has been replaced by your vote for this item."
 msgstr "你的投票选择已经变更。"
 
 #: resources/views.py:208
