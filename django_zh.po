@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-06-26 17:02+0000\n"
-"PO-Revision-Date: 2016-07-15 18:25+0800\n"
+"PO-Revision-Date: 2016-07-16 17:30+0800\n"
 "Last-Translator: zhangmin <zm1990s@gmail.com>, 2016\n"
 "Language-Team: Chinese (https://www.transifex.com/test-1-1/teams/64825/zh/)\n"
 "MIME-Version: 1.0\n"
@@ -1805,15 +1805,15 @@ msgstr "Freenode 密码(选填)"
 
 #: person/models.py:49
 msgid "deviantArt User"
-msgstr "deviantArt 用户"
+msgstr "deviantArt 用户名"
 
 #: person/models.py:50
 msgid "Openclipart User"
-msgstr "Openclipart 用户"
+msgstr "Openclipart 用户名"
 
 #: person/models.py:51
 msgid "Tumblr User"
-msgstr "Tumblr 用户"
+msgstr "Tumblr 用户名"
 
 #: person/models.py:52
 msgid "GPG Public Key"
@@ -2392,7 +2392,7 @@ msgstr "粘贴！"
 
 #: person/templates/person/user_detail.html:157
 msgid "Recent Uploads"
-msgstr "最近上传"
+msgstr "最新上传"
 
 #: person/templates/person/user_detail.html:168
 msgid "No uploads yet."
@@ -2699,7 +2699,7 @@ msgid ""
 "\">Privacy Policy</a> and agree to respect the Inkscape <a href=\"%(coc_url)s"
 "\">Community's Code of Conduct</a>."
 msgstr ""
-"注册即表示你同意 Inkscape 网站的 <a href=\"%(privacy_url)s\">隐私政策</a>且会遵"
+"注册即表示您同意 Inkscape 网站的 <a href=\"%(privacy_url)s\">隐私政策</a>且会遵"
 "守 Inkscape <a href=\"%(coc_url)s\">社区行为守则</a>。"
 
 #: person/templates/registration/registration_form.html:27
